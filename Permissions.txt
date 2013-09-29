@@ -43,3 +43,14 @@ Owner: bspkrs
 http://www.minecraftforum.net/topic/1114612-152-bspkrs-mods-armorstatushud-v17-directionhud-v113-statuseffecthud-v110/
 
 These mods are released under the Creative Commons Share Alike non-commercial License.  They are allowed to be used in mod packs as long as I receive credit and the URL of this forum thread is provided.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Buildcraft:
+
+http://minecraft.curseforge.com/mc-mods/buildcraft/files/6-build-craft-4-1-0/
+
+"As of November 1st, 2011, the answer is YES. But that comes with constraints and restrictions. ...The main restriction is that sources must be accessible."
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+

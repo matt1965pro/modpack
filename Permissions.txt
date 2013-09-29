@@ -46,11 +46,12 @@ These mods are released under the Creative Commons Share Alike non-commercial Li
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Buildcraft:
+Darks Core Machine:
 
-http://minecraft.curseforge.com/mc-mods/buildcraft/files/6-build-craft-4-1-0/
+http://universalelectricity.com/coremachine/downloads
 
-"As of November 1st, 2011, the answer is YES. But that comes with constraints and restrictions. ...The main restriction is that sources must be accessible."
+See Section 5. B)
+https://github.com/DarkGuardsman/Darks-CoreMachine/blob/master/LICENSE.txt
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,3 +85,9 @@ You are allowed to use backpacks mod in your modpack when you fullfill the follo
 - Make sure you have read and understand the license (can be found in the zip)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
+Modular Powersuits:
+
+http://machinemuse.net/modpacks.php
+
+Yes, you may include this mod in your pack.

@@ -69,3 +69,18 @@ Owner: _bau5
 http://www.minecraftforum.net/topic/1550010-162sspsmp-project-bench-v180forge25000-downloads/
 
  I stress the point of credit; I put a lot of time and effort into this work and ask that credit is shown and given where deserved even if not required. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Backpacks:
+
+Owner: Eydamos
+
+http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11817/
+
+You are allowed to use backpacks mod in your modpack when you fullfill the following points:
+- You have to give credits to the author of this mod and you have to show a link pointing to this thread.
+- You are not allowed to make money with your modpack (adf.ly or similar); PayPal donations are allowed.
+- Make sure you have read and understand the license (can be found in the zip)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------

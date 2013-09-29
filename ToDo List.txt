@@ -1,3 +1,8 @@
+* Fix Buildcraft not working on server
+* ReInstall Buildcraft
+
+-----------------
+
 * Request perms for				[ ]
   http://www.minecraftforum.net/topic/1974591-162-flans-mod-gun-packs-military-equipment-mod-162-forge-over-83k-downloads/
 * Install above					[ ]

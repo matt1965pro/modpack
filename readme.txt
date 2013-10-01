@@ -1,3 +1,10 @@
+war modpack for 1.6.2 (unofficial name)
+owners:
+legend5140
+matt1965pro
+
+Install instructions. (temp)
+
 1. download and run this: http://files.minecraftforge.net/minecraftforge/ (get the recomended 1.6.2 build)
 
 2. click the download zip button on the right of the page

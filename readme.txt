@@ -3,6 +3,10 @@ Owners:
 -legend5140
 -matt1965pro
 
+Co-Owners
+-yokoblandelli
+-tydi2
+
 Install instructions. (temp)
 
 *Make sure your .minecraft folder has no mods config or flan folders in it before starting instalation*

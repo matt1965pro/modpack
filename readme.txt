@@ -1,7 +1,7 @@
-war modpack for 1.6.2 (unofficial name)
-owners:
-legend5140
-matt1965pro
+War Modpack for 1.6.2 (unofficial name)
+Owners:
+-legend5140
+-matt1965pro
 
 Install instructions. (temp)
 

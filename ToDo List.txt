@@ -13,3 +13,4 @@
 
 -----------------
 
+* make a content pack for flans mod containing modern planes, this will replace all the other packs

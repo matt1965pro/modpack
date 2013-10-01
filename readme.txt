@@ -5,6 +5,8 @@ Owners:
 
 Install instructions. (temp)
 
+*Make sure your .minecraft folder has no mods config or flan folders in it before starting instalation*
+
 1. download and run this: http://files.minecraftforge.net/minecraftforge/ (get the recomended 1.6.2 build)
 
 2. click the download zip button on the right of the page

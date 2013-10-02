@@ -104,6 +104,10 @@ mcpc:
     MekanismTools: INFO
     BetterOreDistribution: INFO
     fml-ItemTracker: INFO
+    com-sk89q-worldedit-bukkit-WorldEditPlugin: INFO
+    com-sk89q-wepif-PermissionsResolverManager: INFO
+    Minecraft-WorldEdit: INFO
+    fml-ModTracker: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650

@@ -2364,3 +2364,1650 @@ Caused by: java.lang.NullPointerException
 2013-10-02 21:27:11 [INFO] Closing listening thread
 2013-10-02 21:27:11 [INFO] Saving chunks for level 'DIM-1'/Nether
 2013-10-02 21:27:11 [INFO] Stopping server
+2013-10-02 21:56:12 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:56:12 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:56:12 [INFO] MinecraftForge v
+2013-10-02 21:56:12 [INFO] 7.8.1.738
+2013-10-02 21:56:12 [INFO]  Initialized
+
+2013-10-02 21:56:12 [INFO] Replaced 85 ore recipies
+2013-10-02 21:56:18 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 21:56:19 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stone
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.wood
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.log
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.glass
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.brick
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.ice
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.snow
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.clay
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.grass
+2013-10-02 21:56:23 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:56:24 [INFO] Loading properties
+2013-10-02 21:56:24 [INFO] Default game type: SURVIVAL
+2013-10-02 21:56:24 [INFO] Generating keypair
+2013-10-02 21:56:24 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:56:26 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:56:26 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:56:26 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Extra Vehicles Pack1.5.2 for Flan2.3.1
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Manus Modern Warfare Package
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Minecraft-SMP Parts Package
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Modern Weapons Pack
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Parts Pack
+2013-10-02 21:56:27 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded content pack : Spino's Vehicles 4.0
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 21:56:27 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 21:56:28 [INFO] CONFLICT @ 27364 item slot already occupied by co.uk.flansmods.common.ItemPart@44d49852 while adding co.uk.flansmods.common.ItemPart@615c52cb
+2013-10-02 21:56:28 [INFO] CONFLICT @ 27449 item slot already occupied by co.uk.flansmods.common.ItemPart@743fbf5c while adding co.uk.flansmods.common.ItemPart@52c6ca4
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 21:56:28 [INFO] CONFLICT @ 29867 item slot already occupied by co.uk.flansmods.common.ItemVehicle@aea9b75 while adding co.uk.flansmods.common.ItemVehicle@308423ec
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 21:56:28 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 21:56:29 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineSpaceEngine
+2013-10-02 21:56:29 [SEVERE] java.lang.NullPointerException
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 21:56:29 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 21:56:29 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineTIEEngine
+2013-10-02 21:56:29 [SEVERE] java.lang.NullPointerException
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 21:56:29 [INFO] Flan's Mod : Could not find Material when adding recipe
+2013-10-02 21:56:29 [INFO] Flan's Mod : Failed to add recipe for : Misc_Plasteel_PartsPlate
+2013-10-02 21:56:29 [SEVERE] java.lang.NullPointerException
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 21:56:29 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:56:29 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 21:56:29 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 21:56:29 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 21:56:29 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 21:56:29 [INFO] Flan's Mod : Loading complete.
+2013-10-02 21:56:29 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 21:56:29 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 21:56:30 [INFO] [Mekanism] Loading complete.
+2013-10-02 21:56:30 [INFO] [Mekanism] Mod loaded.
+2013-10-02 21:56:30 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 21:56:30 [INFO] [MekanismTools] Loaded module.
+2013-10-02 21:56:30 [INFO] [Flan] Hooking complete.
+2013-10-02 21:56:30 [INFO] [Mekanism] Hooking complete.
+2013-10-02 21:56:31 [INFO] Preparing level "world"
+2013-10-02 21:56:31 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:56:31 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:56:32 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:56:32 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 21:56:32 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:56:32 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:56:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:56:33 [INFO] Done (2.677s)! For help, type "help" or "?"
+2013-10-02 21:56:33 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 21:56:33 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 21:58:08 [INFO] matt1965pro[/127.0.0.1:64186] logged in with entity id 1 at ([world] 171.5, 64.0, 257.5)
+2013-10-02 21:58:21 [INFO] <matt1965pro> eyyyy[m
+2013-10-02 21:59:03 [INFO] Connection reset
+2013-10-02 21:59:03 [INFO] matt1965pro lost connection: disconnect.quitting
+2013-10-02 22:00:10 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 22:00:10 [INFO] Stopping server
+2013-10-02 22:00:10 [INFO] Saving players
+2013-10-02 22:00:10 [WARNING] DSCT: socket closed
+2013-10-02 22:00:10 [INFO] Closing listening thread
+2013-10-02 22:00:10 [INFO] Saving worlds
+2013-10-02 22:00:10 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 22:00:11 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 22:01:09 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 22:01:09 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 22:01:09 [INFO] MinecraftForge v
+2013-10-02 22:01:09 [INFO] 7.8.1.738
+2013-10-02 22:01:09 [INFO]  Initialized
+
+2013-10-02 22:01:10 [INFO] Replaced 85 ore recipies
+2013-10-02 22:01:15 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 22:01:16 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stone
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.dirt
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.wood
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.wood_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.wood_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.wood_3
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.log
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.log_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.log_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.log_3
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.leaves
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.sponge
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.glass
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.sandStone
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockGold
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockIron
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.brick
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.obsidian
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.ice
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.snow
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.clay
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.hellrock
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.hellsand
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.lightgem
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.grass
+2013-10-02 22:01:20 [INFO] Registered micro material: tile.mycel
+2013-10-02 22:01:21 [INFO] Loading properties
+2013-10-02 22:01:21 [INFO] Default game type: SURVIVAL
+2013-10-02 22:01:21 [INFO] Generating keypair
+2013-10-02 22:01:23 [INFO] Starting Minecraft server on *:25565
+2013-10-02 22:01:23 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 22:01:24 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 22:01:24 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Extra Vehicles Pack1.5.2 for Flan2.3.1
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Manus Modern Warfare Package
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Minecraft-SMP Parts Package
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Modern Weapons Pack
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Parts Pack
+2013-10-02 22:01:26 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded content pack : Spino's Vehicles 4.0
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 22:01:26 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 22:01:26 [INFO] CONFLICT @ 27364 item slot already occupied by co.uk.flansmods.common.ItemPart@526018e0 while adding co.uk.flansmods.common.ItemPart@23014460
+2013-10-02 22:01:27 [INFO] CONFLICT @ 27449 item slot already occupied by co.uk.flansmods.common.ItemPart@28300c94 while adding co.uk.flansmods.common.ItemPart@6a89dd28
+2013-10-02 22:01:27 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 22:01:27 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 22:01:27 [INFO] CONFLICT @ 29867 item slot already occupied by co.uk.flansmods.common.ItemVehicle@1566ee23 while adding co.uk.flansmods.common.ItemVehicle@189c46cf
+2013-10-02 22:01:27 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 22:01:27 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 22:01:28 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 22:01:28 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 22:01:28 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 22:01:28 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 22:01:28 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:01:28 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineSpaceEngine
+2013-10-02 22:01:28 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:01:28 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:01:28 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineTIEEngine
+2013-10-02 22:01:28 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:01:28 [INFO] Flan's Mod : Could not find Material when adding recipe
+2013-10-02 22:01:28 [INFO] Flan's Mod : Failed to add recipe for : Misc_Plasteel_PartsPlate
+2013-10-02 22:01:28 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:01:28 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:01:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:01:28 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:01:28 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:01:29 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 22:01:29 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 22:01:29 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 22:01:29 [INFO] Flan's Mod : Loading complete.
+2013-10-02 22:01:29 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 22:01:29 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 22:01:29 [INFO] [Mekanism] Loading complete.
+2013-10-02 22:01:29 [INFO] [Mekanism] Mod loaded.
+2013-10-02 22:01:29 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 22:01:30 [INFO] [MekanismTools] Loaded module.
+2013-10-02 22:01:30 [INFO] [Flan] Hooking complete.
+2013-10-02 22:01:30 [INFO] [Mekanism] Hooking complete.
+2013-10-02 22:01:31 [INFO] Preparing level "world"
+2013-10-02 22:01:31 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 22:01:31 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 22:01:32 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 22:01:33 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 22:01:33 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 22:01:33 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 22:01:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 22:01:33 [INFO] Done (2.870s)! For help, type "help" or "?"
+2013-10-02 22:01:33 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 22:01:33 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 22:02:06 [INFO] /127.0.0.1:64394 lost connection
+2013-10-02 22:02:11 [INFO] matt1965pro[/127.0.0.1:64395] logged in with entity id 13 at ([world] 168.34764471056278, 64.0, 261.43441939824527)
+2013-10-02 22:06:06 [INFO] CONSOLE: Opped matt1965pro[m
+2013-10-02 22:06:13 [INFO] Can't find player 1[m
+2013-10-02 22:06:18 [INFO] CONSOLE: Set matt1965pro's game mode to CREATIVE mode[m
+2013-10-02 22:09:05 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 22:09:05 [INFO] Stopping server
+2013-10-02 22:09:05 [WARNING] DSCT: socket closed
+2013-10-02 22:09:05 [INFO] Closing listening thread
+2013-10-02 22:09:05 [INFO] Saving players
+2013-10-02 22:09:05 [INFO] Saving worlds
+2013-10-02 22:09:05 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 22:09:06 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 22:09:07 [INFO] Stopping server
+2013-10-02 22:09:07 [INFO] Saving players
+2013-10-02 22:09:07 [INFO] Saving worlds
+2013-10-02 22:09:07 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 22:09:26 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 22:09:26 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 22:09:27 [INFO] MinecraftForge v
+2013-10-02 22:09:27 [INFO] 7.8.1.738
+2013-10-02 22:09:27 [INFO]  Initialized
+
+2013-10-02 22:09:27 [INFO] Replaced 85 ore recipies
+2013-10-02 22:09:32 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 22:09:32 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stone
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.dirt
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.wood
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.wood_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.wood_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.wood_3
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.log
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.log_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.log_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.log_3
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.leaves
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.sponge
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.glass
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.sandStone
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockGold
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockIron
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.brick
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.obsidian
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.ice
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.snow
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.clay
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.hellrock
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.hellsand
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.lightgem
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.grass
+2013-10-02 22:09:35 [INFO] Registered micro material: tile.mycel
+2013-10-02 22:09:36 [INFO] Loading properties
+2013-10-02 22:09:36 [INFO] Default game type: SURVIVAL
+2013-10-02 22:09:36 [INFO] Generating keypair
+2013-10-02 22:09:37 [INFO] Starting Minecraft server on 25.74.0.183:25565
+2013-10-02 22:09:37 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 22:09:38 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 22:09:38 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Extra Vehicles Pack1.5.2 for Flan2.3.1
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Manus Modern Warfare Package
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Minecraft-SMP Parts Package
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Modern Weapons Pack
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Parts Pack
+2013-10-02 22:09:39 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded content pack : Spino's Vehicles 4.0
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 22:09:39 [INFO] CONFLICT @ 27364 item slot already occupied by co.uk.flansmods.common.ItemPart@116a3bd while adding co.uk.flansmods.common.ItemPart@7557cdd9
+2013-10-02 22:09:39 [INFO] CONFLICT @ 27449 item slot already occupied by co.uk.flansmods.common.ItemPart@578b9dbe while adding co.uk.flansmods.common.ItemPart@f2151d9
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 22:09:39 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 22:09:40 [INFO] CONFLICT @ 29867 item slot already occupied by co.uk.flansmods.common.ItemVehicle@4cb582d7 while adding co.uk.flansmods.common.ItemVehicle@20a11899
+2013-10-02 22:09:40 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 22:09:40 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 22:09:40 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 22:09:40 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:09:41 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineSpaceEngine
+2013-10-02 22:09:41 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:09:41 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:09:41 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineTIEEngine
+2013-10-02 22:09:41 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:09:41 [INFO] Flan's Mod : Could not find Material when adding recipe
+2013-10-02 22:09:41 [INFO] Flan's Mod : Failed to add recipe for : Misc_Plasteel_PartsPlate
+2013-10-02 22:09:41 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:09:41 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:09:41 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:09:41 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:09:41 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:09:41 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 22:09:41 [INFO] Flan's Mod : Loading complete.
+2013-10-02 22:09:41 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 22:09:41 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 22:09:42 [INFO] [Mekanism] Loading complete.
+2013-10-02 22:09:42 [INFO] [Mekanism] Mod loaded.
+2013-10-02 22:09:42 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 22:09:42 [INFO] [MekanismTools] Loaded module.
+2013-10-02 22:09:42 [INFO] [Flan] Hooking complete.
+2013-10-02 22:09:42 [INFO] [Mekanism] Hooking complete.
+2013-10-02 22:09:43 [INFO] Preparing level "world"
+2013-10-02 22:09:43 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 22:09:43 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 22:09:44 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 22:09:44 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 22:09:45 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 22:09:45 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 22:09:45 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 22:09:45 [INFO] Done (2.857s)! For help, type "help" or "?"
+2013-10-02 22:09:46 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 22:09:46 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 22:10:06 [INFO] matt1965pro[/25.74.0.183:64631] logged in with entity id 8 at ([world] 175.91590757278826, 66.0, 277.3569893352505)
+2013-10-02 22:14:57 [INFO] Disconnecting legend5140 [/25.52.62.142:53111]: The server requires mods that are absent or out of date on your client
+2013-10-02 22:14:57 [INFO] legend5140[/25.52.62.142:53111] logged in with entity id 435 at ([world] 160.5, 64.0, 255.5)
+2013-10-02 22:14:59 [INFO] Connection reset
+2013-10-02 22:14:59 [INFO] legend5140 lost connection: disconnect.closed
+2013-10-02 22:18:45 [INFO] legend5140[/25.52.62.142:53200] logged in with entity id 1897 at ([world] 160.5, 64.0, 255.5)
+2013-10-02 22:18:46 [INFO] matt1965pro issued server command: /op legend5140
+2013-10-02 22:18:46 [INFO] matt1965pro: Opped legend5140[m
+2013-10-02 22:18:56 [INFO] matt1965pro issued server command: /gamemode 1 legend5140
+2013-10-02 22:18:56 [INFO] matt1965pro: Set legend5140's game mode to CREATIVE mode[m
+2013-10-02 22:19:00 [INFO] matt1965pro issued server command: /afk
+2013-10-02 22:19:03 [INFO] <matt1965pro> brb[m
+2013-10-02 22:19:04 [INFO] <matt1965pro> afk[m
+2013-10-02 22:19:17 [INFO] <legend5140> this is a nice area[m
+2013-10-02 22:19:22 [INFO] legend5140 issued server command: /gamemode 1 legend5140
+2013-10-02 22:19:26 [INFO] legend5140 issued server command: /gamemode 1 legend5140
+2013-10-02 22:19:34 [INFO] legend5140 issued server command: /gm
+2013-10-02 22:25:05 [INFO] legend5140 issued server command: /spawn
+2013-10-02 22:25:16 [INFO] legend5140 issued server command: /tp legend5140 matt1965pro
+2013-10-02 22:25:16 [INFO] legend5140: Teleported legend5140 to matt1965pro[m
+2013-10-02 22:25:36 [INFO] Connection reset
+2013-10-02 22:25:36 [INFO] legend5140 lost connection: disconnect.endOfStream
+2013-10-02 22:28:09 [INFO] legend5140[/25.52.62.142:53382] logged in with entity id 4773 at ([world] 175.91590757278826, 66.0, 277.3569893352505)
+2013-10-02 22:28:34 [INFO] legend5140 issued server command: /dificulty
+2013-10-02 22:29:42 [INFO] <matt1965pro> back[m
+2013-10-02 22:29:45 [INFO] legend5140 issued server command: /mekanism
+2013-10-02 22:29:53 [INFO] <legend5140> already crashed once[m
+2013-10-02 22:29:57 [INFO] <matt1965pro> k[m
+2013-10-02 22:30:15 [INFO] <legend5140> it was because of a hellicopter[m
+2013-10-02 22:30:20 [INFO] <legend5140> imma bomb it[m
+2013-10-02 22:30:27 [INFO] <matt1965pro> -.-[m
+2013-10-02 22:31:07 [INFO] legend5140 issued server command: /give legend5140 23271 1 0
+2013-10-02 22:31:07 [INFO] legend5140: Gave legend5140 some 23271 (X23271)[m
+2013-10-02 22:31:07 [INFO] legend5140 issued server command: /give legend5140 23271 1 0
+2013-10-02 22:31:07 [INFO] legend5140: Gave legend5140 some 23271 (X23271)[m
+2013-10-02 22:31:07 [INFO] legend5140 issued server command: /give legend5140 23271 1 0
+2013-10-02 22:31:07 [INFO] legend5140: Gave legend5140 some 23271 (X23271)[m
+2013-10-02 22:31:39 [INFO] legend5140 issued server command: /give legend5140 27950 8 0
+2013-10-02 22:31:39 [INFO] legend5140: Gave legend5140 some 27950 (X27950)[m
+2013-10-02 22:32:18 [INFO] <legend5140> umm[m
+2013-10-02 22:32:22 [INFO] <matt1965pro> what[m
+2013-10-02 22:32:24 [INFO] <legend5140> im stuck in here[m
+2013-10-02 22:32:32 [INFO] <matt1965pro> lol[m
+2013-10-02 22:32:37 [INFO] <matt1965pro> press shift[m
+2013-10-02 22:32:48 [INFO] <legend5140> thats for 1.6[m
+2013-10-02 22:33:20 [INFO] <matt1965pro> press everything till you find it[m
+2013-10-02 22:33:34 [INFO] <legend5140> its z on mine[m
+2013-10-02 22:34:07 [INFO] <legend5140> destroying these things is so hard[m
+2013-10-02 22:34:17 [INFO] <matt1965pro> how to shoot[m
+2013-10-02 22:34:23 [INFO] <legend5140> idk[m
+2013-10-02 22:35:06 [INFO] <legend5140> dammit[m
+2013-10-02 22:35:45 [INFO] legend5140 issued server command: //fill dirt 20
+2013-10-02 22:35:48 [INFO] legend5140 issued server command: //
+2013-10-02 22:35:53 [INFO] <legend5140> no world edit?[m
+2013-10-02 22:35:53 [INFO] <matt1965pro> dafuq[m
+2013-10-02 22:35:57 [INFO] <matt1965pro> should be[m
+2013-10-02 22:36:00 [INFO] matt1965pro issued server command: //
+2013-10-02 22:36:02 [INFO] legend5140 issued server command: //help
+2013-10-02 22:36:03 [INFO] <matt1965pro> hmm[m
+2013-10-02 22:36:15 [INFO] <legend5140> dont go near the chopper[m
+2013-10-02 22:36:55 [INFO] <legend5140> the plane even looks like a fagot[m
+2013-10-02 22:37:56 [INFO] <legend5140> wtf[m
+2013-10-02 22:37:59 [INFO] <matt1965pro> what[m
+2013-10-02 22:38:13 [INFO] <legend5140> the fag plane[m
+2013-10-02 22:38:29 [INFO] <matt1965pro> where r u[m
+2013-10-02 22:38:47 [INFO] <legend5140> at the spawn[m
+2013-10-02 22:39:02 [INFO] <legend5140> scared the shit out of me[m
+2013-10-02 22:39:03 [INFO] matt1965pro issued server command: /deop legend5140
+2013-10-02 22:39:03 [INFO] matt1965pro: De-opped legend5140[m
+2013-10-02 22:39:05 [INFO] <matt1965pro> how[m
+2013-10-02 22:39:17 [INFO] <legend5140> im not an op?[m
+2013-10-02 22:39:17 [INFO] matt1965pro issued server command: /gamemode 0 legend5140
+2013-10-02 22:39:17 [INFO] matt1965pro: Set legend5140's game mode to SURVIVAL mode[m
+2013-10-02 22:39:29 [INFO] <legend5140> GET TO DA CHOPPA[m
+2013-10-02 22:39:51 [INFO] [0;35;1m[Server] crashed[m
+2013-10-02 22:40:07 [INFO] [0;35;1m[Server] your plane crashed me[m
+2013-10-02 22:40:10 [INFO] Read timed out
+2013-10-02 22:40:10 [INFO] matt1965pro lost connection: disconnect.endOfStream
+2013-10-02 22:40:15 [INFO] <legend5140> im in the passanger seat[m
+2013-10-02 22:40:30 [INFO] [0;35;1m[Server] it crashed me[m
+2013-10-02 22:40:41 [INFO] <legend5140> well flans mod is definatly less buggy in 1.6[m
+2013-10-02 22:40:51 [INFO] <legend5140> kill dis plane[m
+2013-10-02 22:41:10 [INFO] <legend5140> im laging heaps[m
+2013-10-02 22:41:25 [INFO] Connection reset
+2013-10-02 22:41:25 [INFO] legend5140 lost connection: disconnect.quitting
+2013-10-02 22:41:35 [INFO] matt1965pro[/25.74.0.183:65171] logged in with entity id 6513 at ([world] 101.75977192817324, 71.12407557395711, 212.69961284605043)
+2013-10-02 22:42:08 [INFO] legend5140[/25.52.62.142:53576] logged in with entity id 6704 at ([world] 119.5, 65.0, 226.5)
+2013-10-02 22:42:28 [INFO] <matt1965pro> what is turbo model thingy[m
+2013-10-02 22:42:34 [INFO] <legend5140> help?[m
+2013-10-02 22:42:37 [INFO] <matt1965pro> i looked at the plane[m
+2013-10-02 22:42:48 [INFO] <matt1965pro> it said torbo model thingy isnt installed[m
+2013-10-02 22:42:57 [INFO] flanDeath.barrett.flegend5140.fmatt1965pro
+2013-10-02 22:43:01 [INFO] <matt1965pro> sick[m
+2013-10-02 22:43:11 [INFO] matt1965pro issued server command: /tp legend5140 matt1965pro
+2013-10-02 22:43:11 [INFO] matt1965pro: Teleported legend5140 to matt1965pro[m
+2013-10-02 22:43:28 [INFO] <matt1965pro> i like the way it shows deaths[m
+2013-10-02 22:43:52 [INFO] Connection reset
+2013-10-02 22:43:52 [INFO] legend5140 lost connection: disconnect.endOfStream
+2013-10-02 22:45:57 [INFO] legend5140[/25.52.62.142:53650] logged in with entity id 7299 at ([world] 167.5, 64.0, 253.5)
+2013-10-02 22:46:24 [INFO] <legend5140> op me[m
+2013-10-02 22:46:34 [INFO] matt1965pro issued server command: /op legend
+2013-10-02 22:46:34 [INFO] matt1965pro: Opped legend[m
+2013-10-02 22:47:08 [INFO] matt1965pro issued server command: /deop legend
+2013-10-02 22:47:08 [INFO] matt1965pro: De-opped legend[m
+2013-10-02 22:47:13 [INFO] matt1965pro issued server command: /op legend5140
+2013-10-02 22:47:13 [INFO] matt1965pro: Opped legend5140[m
+2013-10-02 22:47:36 [INFO] Read timed out
+2013-10-02 22:47:36 [INFO] legend5140 lost connection: disconnect.endOfStream
+2013-10-02 22:49:42 [INFO] legend5140[/25.52.62.142:53728] logged in with entity id 7846 at ([world] 119.9650111479331, 64.4807108763317, 224.2100511725233)
+2013-10-02 22:50:03 [INFO] [0;35;1m[Server] server going down[m
+2013-10-02 22:50:05 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 22:50:05 [INFO] Stopping server
+2013-10-02 22:50:05 [WARNING] DSCT: socket closed
+2013-10-02 22:50:05 [INFO] Closing listening thread
+2013-10-02 22:50:05 [INFO] Saving players
+2013-10-02 22:50:05 [INFO] Saving worlds
+2013-10-02 22:50:05 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 22:50:07 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 22:50:07 [INFO] Stopping server
+2013-10-02 22:50:07 [INFO] Saving players
+2013-10-02 22:50:07 [INFO] Saving worlds
+2013-10-02 22:50:07 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 22:51:02 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 22:51:02 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 22:51:02 [INFO] MinecraftForge v
+2013-10-02 22:51:02 [INFO] 7.8.1.738
+2013-10-02 22:51:02 [INFO]  Initialized
+
+2013-10-02 22:51:02 [INFO] Replaced 85 ore recipies
+2013-10-02 22:51:08 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 22:51:08 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stone
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.dirt
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.wood
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.wood_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.wood_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.wood_3
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.log
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.log_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.log_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.log_3
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.leaves
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.sponge
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.glass
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.sandStone
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockGold
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockIron
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.brick
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.obsidian
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.ice
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.snow
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.clay
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.hellrock
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.hellsand
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.lightgem
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.grass
+2013-10-02 22:51:11 [INFO] Registered micro material: tile.mycel
+2013-10-02 22:51:11 [INFO] Loading properties
+2013-10-02 22:51:11 [INFO] Default game type: SURVIVAL
+2013-10-02 22:51:11 [INFO] Generating keypair
+2013-10-02 22:51:12 [INFO] Starting Minecraft server on 25.74.0.183:25565
+2013-10-02 22:51:13 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 22:51:13 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 22:51:13 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Extra Vehicles Pack1.5.2 for Flan2.3.1
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Manus Modern Warfare Package
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Minecraft-SMP Parts Package
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Modern Weapons Pack
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Parts Pack
+2013-10-02 22:51:14 [INFO] Flan's Mod : Not client. images and models skipped.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded content pack : Spino's Vehicles 4.0
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 22:51:14 [INFO] CONFLICT @ 27364 item slot already occupied by co.uk.flansmods.common.ItemPart@2fe921bb while adding co.uk.flansmods.common.ItemPart@72a5948f
+2013-10-02 22:51:14 [INFO] CONFLICT @ 27449 item slot already occupied by co.uk.flansmods.common.ItemPart@2027d4d0 while adding co.uk.flansmods.common.ItemPart@1704b42e
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 22:51:14 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 22:51:15 [INFO] CONFLICT @ 29867 item slot already occupied by co.uk.flansmods.common.ItemVehicle@4942c49a while adding co.uk.flansmods.common.ItemVehicle@3e798009
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 22:51:15 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:51:15 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineSpaceEngine
+2013-10-02 22:51:15 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:51:15 [INFO] Flan's Mod : Could not find Propeller_Plasteel_TurbinePace when adding recipe
+2013-10-02 22:51:15 [INFO] Flan's Mod : Failed to add recipe for : Engine_EngineTIEEngine
+2013-10-02 22:51:15 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:51:15 [INFO] Flan's Mod : Could not find Material when adding recipe
+2013-10-02 22:51:15 [INFO] Flan's Mod : Failed to add recipe for : Misc_Plasteel_PartsPlate
+2013-10-02 22:51:15 [SEVERE] java.lang.NullPointerException
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.item.crafting.CraftingManager.func_92103_a(CraftingManager.java:234)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addShapedRecipe(GameRegistry.java:352)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.registry.GameRegistry.addRecipe(GameRegistry.java:347)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:201)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.InfoType.addRecipe(InfoType.java:113)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.readContentPacks(FlansMod.java:607)
+2013-10-02 22:51:15 [SEVERE] 	at co.uk.flansmods.common.FlansMod.load(FlansMod.java:250)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:494)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 22:51:15 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:93)
+2013-10-02 22:51:15 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:168)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:51:15 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:51:16 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 22:51:16 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 22:51:16 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 22:51:16 [INFO] Flan's Mod : Loading complete.
+2013-10-02 22:51:16 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 22:51:16 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 22:51:16 [INFO] [Mekanism] Loading complete.
+2013-10-02 22:51:16 [INFO] [Mekanism] Mod loaded.
+2013-10-02 22:51:16 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 22:51:16 [INFO] [MekanismTools] Loaded module.
+2013-10-02 22:51:17 [INFO] [Flan] Hooking complete.
+2013-10-02 22:51:17 [INFO] [Mekanism] Hooking complete.
+2013-10-02 22:51:18 [INFO] Mapping loaded 7 packages, 5185 classes, 17732 fields, 34330 methods, flags dd6
+2013-10-02 22:51:18 [INFO] Loaded inheritance map of 769 classes
+2013-10-02 22:51:19 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2013-10-02 22:51:20 [INFO] Preparing level "world"
+2013-10-02 22:51:20 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 22:51:20 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 22:51:21 [INFO] Flan's Mod : Failed to load from teams.dat
+2013-10-02 22:51:21 [SEVERE] java.io.EOFException
+2013-10-02 22:51:21 [SEVERE] 	at java.io.DataInputStream.readByte(Unknown Source)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.nbt.NBTBase.func_74739_b(SourceFile:88)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:126)
+2013-10-02 22:51:21 [SEVERE] 	at co.uk.flansmods.common.teams.TeamsManager.loadPerWorldData(TeamsManager.java:392)
+2013-10-02 22:51:21 [SEVERE] 	at co.uk.flansmods.common.teams.TeamsManager.worldData(TeamsManager.java:373)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler_15_TeamsManager_worldData_WorldEvent.invoke(.dynamic)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:39)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraftforge.event.EventBus.post(EventBus.java:111)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:382)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:214)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 22:51:21 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 22:51:22 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 1290805905477798010)
+2013-10-02 22:51:22 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 1290805905477798010)
+2013-10-02 22:51:23 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 1290805905477798010)
+2013-10-02 22:51:23 [INFO] Preparing spawn area: 8%
+2013-10-02 22:51:23 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 22:51:23 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2013-10-02 22:51:23 [INFO] [WorldEdit] Default configuration file written: config.yml
+2013-10-02 22:51:24 [INFO] WEPIF: Updated config file
+2013-10-02 22:51:24 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-10-02 22:51:25 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 22:51:25 [INFO] Done (7.972s)! For help, type "help" or "?"
+2013-10-02 22:51:25 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 22:51:25 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 22:51:25 [INFO] /25.74.0.183:65339 lost connection
+2013-10-02 22:51:58 [INFO] /25.74.0.183:65356 lost connection
+2013-10-02 22:52:03 [INFO] matt1965pro[/25.74.0.183:65358] logged in with entity id 1 at ([world] 292.5, 64.0, 131.5)
+2013-10-02 22:52:21 [INFO] legend5140[/25.52.62.142:53771] logged in with entity id 128 at ([world] 283.5, 65.0, 139.5)
+2013-10-02 22:52:22 [INFO] matt1965pro issued server command: /gamemode 1
+2013-10-02 22:52:22 [INFO] matt1965pro: Set own game mode to CREATIVE mode[m
+2013-10-02 22:52:27 [INFO] <matt1965pro> lol[m
+2013-10-02 22:52:30 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-10-02 22:52:35 [INFO] legend5140 issued server command: /gm
+2013-10-02 22:52:39 [INFO] <matt1965pro> swap war[m
+2013-10-02 22:52:43 [INFO] <matt1965pro> swamp[m
+2013-10-02 22:53:12 [INFO] <legend5140> still no grass wtf[m
+2013-10-02 22:53:21 [INFO] <matt1965pro> wait[m
+2013-10-02 22:53:28 [INFO] <matt1965pro> ill do some googling[m
+2013-10-02 22:53:41 [INFO] legend5140 issued server command: /gamemode 1
+2013-10-02 22:53:41 [INFO] legend5140: Set own game mode to CREATIVE mode[m
+2013-10-02 22:55:22 [INFO] <matt1965pro> eh[m
+2013-10-02 22:55:26 [INFO] <legend5140> what?[m
+2013-10-02 22:55:27 [INFO] <matt1965pro> just make them map[m
+2013-10-02 22:55:33 [INFO] <matt1965pro> and plant grass[m
+2013-10-02 22:55:35 [INFO] <legend5140> ok[m
+2013-10-02 22:55:36 [INFO] <matt1965pro> simple[m
+2013-10-02 22:55:41 [INFO] <matt1965pro> afk[m
+2013-10-02 22:55:44 [INFO] <legend5140> so what map are we doing?[m
+2013-10-02 22:55:53 [INFO] <matt1965pro> swamp war?[m
+2013-10-02 22:56:26 [INFO] <legend5140> how about we make the place where you choose a map to go to[m
+2013-10-02 22:56:42 [INFO] <matt1965pro> ok[m
+2013-10-02 22:56:53 [INFO] <legend5140> so the hub[m
+2013-10-02 22:56:53 [INFO] <matt1965pro> just so you know im gonna be afk for a few mins[m
+2013-10-02 22:56:58 [INFO] <legend5140> ok[m
+2013-10-02 22:57:00 [INFO] <matt1965pro> doin assignment[m
+2013-10-02 22:57:05 [INFO] <legend5140> mhm[m
+2013-10-02 22:57:06 [INFO] <matt1965pro> shouldnt take long[m
+2013-10-02 22:59:38 [INFO] legend5140 issued server command: //cut
+2013-10-02 23:00:43 [INFO] legend5140 issued server command: //
+2013-10-02 23:00:48 [INFO] legend5140 issued server command: //help
+2013-10-02 23:01:16 [INFO] legend5140 issued server command: //
+2013-10-02 23:04:56 [INFO] matt1965pro issued server command: /time set 30000
+2013-10-02 23:04:56 [INFO] matt1965pro: Set time to 30000[m
+2013-10-02 23:04:59 [INFO] matt1965pro issued server command: /time set 48000
+2013-10-02 23:04:59 [INFO] matt1965pro: Set time to 48000[m
+2013-10-02 23:05:21 [INFO] matt1965pro issued server command: //wand
+2013-10-02 23:05:27 [INFO] <legend5140> this red wools just a marker[m
+2013-10-02 23:05:32 [INFO] <matt1965pro> ok?[m
+2013-10-02 23:05:47 [INFO] matt1965pro issued server command: //copy
+2013-10-02 23:05:51 [INFO] <legend5140> what would be a good wall material?[m
+2013-10-02 23:05:58 [INFO] <matt1965pro> idk[m
+2013-10-02 23:06:06 [INFO] matt1965pro issued server command: //paste
+2013-10-02 23:06:09 [INFO] <matt1965pro> lol[m
+2013-10-02 23:06:21 [INFO] legend5140 issued server command: /gamemode 0 legend5140
+2013-10-02 23:06:21 [INFO] legend5140: Set own game mode to SURVIVAL mode[m
+2013-10-02 23:06:24 [INFO] legend5140 issued server command: /gamemode 1 legend5140
+2013-10-02 23:06:24 [INFO] legend5140: Set own game mode to CREATIVE mode[m
+2013-10-02 23:06:53 [INFO] <legend5140> im looking at mekanism[m
+2013-10-02 23:06:55 [INFO] <matt1965pro> k[m
+2013-10-02 23:07:01 [INFO] <matt1965pro> im looking at assignments[m
+2013-10-02 23:07:06 [INFO] <legend5140> lol[m
+2013-10-02 23:08:23 [INFO] legend5140 issued server command: //cut
+2013-10-02 23:08:32 [INFO] legend5140 issued server command: //fill grass 00
+2013-10-02 23:08:38 [INFO] legend5140 issued server command: //fill grass 100
+2013-10-02 23:11:28 [INFO] <legend5140> wtf?[m
+2013-10-02 23:11:38 [INFO] <matt1965pro> gonne be replaced[m
+2013-10-02 23:11:44 [INFO] <legend5140> with?[m
+2013-10-02 23:11:49 [INFO] <matt1965pro> just a sec[m
+2013-10-02 23:12:14 [INFO] <matt1965pro> ?[m
+2013-10-02 23:12:18 [INFO] <legend5140> mm[m
+2013-10-02 23:12:52 [INFO] <legend5140> doesnt realy fit the theme of war and shit[m
+2013-10-02 23:12:56 [INFO] <legend5140> but it looks good[m
+2013-10-02 23:12:58 [INFO] <matt1965pro> ok how bout[m
+2013-10-02 23:13:17 [INFO] <legend5140> nah[m
+2013-10-02 23:14:11 [INFO] <legend5140> hmm[m
+2013-10-02 23:15:08 [INFO] <legend5140> behind u[m
+2013-10-02 23:15:18 [INFO] <matt1965pro> i had a mod in an old modpack of mine[m
+2013-10-02 23:15:21 [INFO] <matt1965pro> it had camo[m
+2013-10-02 23:15:25 [INFO] <matt1965pro> hmm[m
+2013-10-02 23:15:27 [INFO] <legend5140> mhm[m
+2013-10-02 23:15:49 [INFO] <legend5140> see the reason why i was making a random blockmod?[m
+2013-10-02 23:15:59 [INFO] <matt1965pro> look[m
+2013-10-02 23:16:04 [INFO] <matt1965pro> melons[m
+2013-10-02 23:16:04 [INFO] <legend5140> ew[m
+2013-10-02 23:16:05 [INFO] <matt1965pro> lol[m
+2013-10-02 23:16:30 [INFO] <matt1965pro> im gonna go work on a map[m
+2013-10-02 23:16:38 [INFO] <legend5140> what one?[m
+2013-10-02 23:17:03 [INFO] [0;35;1m[Server] got the same fking crash[m
+2013-10-02 23:17:05 [INFO] Read timed out
+2013-10-02 23:17:05 [INFO] matt1965pro lost connection: disconnect.endOfStream
+2013-10-02 23:19:10 [INFO] matt1965pro[/25.74.0.183:49558] logged in with entity id 1406 at ([world] 266.5807573789433, 73.37795409998573, 71.47158495677976)
+2013-10-02 23:19:33 [INFO] <legend5140> just had a cool idea[m
+2013-10-02 23:19:36 [INFO] <matt1965pro> what'[m
+2013-10-02 23:19:45 [INFO] <legend5140> make stars[m
+2013-10-02 23:19:54 [INFO] <matt1965pro> ?[m
+2013-10-02 23:19:58 [INFO] <legend5140> hard to explain[m
+2013-10-02 23:20:59 [INFO] <legend5140> gonna see if i can find a mod generator[m
+2013-10-02 23:21:47 [INFO] <matt1965pro> ok[m
+2013-10-02 23:23:39 [INFO] <legend5140> found one[m
+2013-10-02 23:25:01 [INFO] <legend5140> ill get off here for a bit while i figure this out[m
+2013-10-02 23:25:05 [INFO] <matt1965pro> k[m
+2013-10-02 23:25:05 [INFO] Connection reset
+2013-10-02 23:25:05 [INFO] legend5140 lost connection: disconnect.quitting
+2013-10-02 23:26:29 [INFO] Read timed out
+2013-10-02 23:26:29 [INFO] matt1965pro lost connection: disconnect.endOfStream
+2013-10-02 23:35:14 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 23:35:14 [INFO] Stopping server
+2013-10-02 23:35:14 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2013-10-02 23:35:14 [WARNING] DSCT: socket closed
+2013-10-02 23:35:14 [INFO] Closing listening thread
+2013-10-02 23:35:14 [INFO] Saving players
+2013-10-02 23:35:14 [INFO] Saving worlds
+2013-10-02 23:35:14 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 23:35:15 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 23:35:30 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 23:35:30 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 23:35:30 [INFO] MinecraftForge v
+2013-10-02 23:35:30 [INFO] 7.8.1.738
+2013-10-02 23:35:30 [INFO]  Initialized
+
+2013-10-02 23:35:30 [INFO] Replaced 85 ore recipies
+2013-10-02 23:35:35 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 23:35:35 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stone
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.dirt
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.wood
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.wood_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.wood_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.wood_3
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.log
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.log_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.log_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.log_3
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.leaves
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.sponge
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.glass
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.sandStone
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockGold
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockIron
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.brick
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.obsidian
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.ice
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.snow
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.clay
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.hellrock
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.hellsand
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.lightgem
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.grass
+2013-10-02 23:35:38 [INFO] Registered micro material: tile.mycel
+2013-10-02 23:35:38 [INFO] Loading properties
+2013-10-02 23:35:38 [INFO] Default game type: SURVIVAL
+2013-10-02 23:35:38 [INFO] Generating keypair
+2013-10-02 23:35:39 [INFO] Starting Minecraft server on 25.74.0.183:25565
+2013-10-02 23:35:39 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 23:35:40 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 23:35:40 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 23:35:41 [INFO] Flan's Mod : Loading complete.
+2013-10-02 23:35:41 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 23:35:41 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 23:35:41 [INFO] [Mekanism] Loading complete.
+2013-10-02 23:35:41 [INFO] [Mekanism] Mod loaded.
+2013-10-02 23:35:41 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 23:35:42 [INFO] [MekanismTools] Loaded module.
+2013-10-02 23:35:42 [INFO] [Flan] Hooking complete.
+2013-10-02 23:35:42 [INFO] [Mekanism] Hooking complete.
+2013-10-02 23:35:43 [INFO] Mapping loaded 7 packages, 5185 classes, 17732 fields, 34330 methods, flags dd6
+2013-10-02 23:35:43 [INFO] Loaded inheritance map of 769 classes
+2013-10-02 23:35:44 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2013-10-02 23:35:44 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 23:35:45 [INFO] Preparing level "world"
+2013-10-02 23:35:45 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 23:35:45 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 23:35:47 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 1290805905477798010)
+2013-10-02 23:35:47 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 1290805905477798010)
+2013-10-02 23:35:47 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 1290805905477798010)
+2013-10-02 23:35:48 [INFO] Preparing spawn area: 52%
+2013-10-02 23:35:48 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2013-10-02 23:35:48 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-10-02 23:35:50 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 23:35:50 [INFO] Done (8.015s)! For help, type "help" or "?"
+2013-10-02 23:35:50 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 23:35:50 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 23:36:52 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 23:36:52 [INFO] Stopping server
+2013-10-02 23:36:52 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2013-10-02 23:36:52 [INFO] Saving players
+2013-10-02 23:36:52 [WARNING] DSCT: socket closed
+2013-10-02 23:36:52 [INFO] Closing listening thread
+2013-10-02 23:36:52 [INFO] Saving worlds
+2013-10-02 23:36:52 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 23:36:52 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 23:37:16 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 23:37:16 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 23:37:16 [INFO] MinecraftForge v
+2013-10-02 23:37:16 [INFO] 7.8.1.738
+2013-10-02 23:37:16 [INFO]  Initialized
+
+2013-10-02 23:37:16 [INFO] Replaced 85 ore recipies
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stone
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.dirt
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.wood
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.wood_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.wood_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.wood_3
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.log
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.log_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.log_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.log_3
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.leaves
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.sponge
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.glass
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.sandStone
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockGold
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockIron
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.brick
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.obsidian
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.ice
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.snow
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.clay
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.hellrock
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.hellsand
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.lightgem
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.grass
+2013-10-02 23:37:25 [INFO] Registered micro material: tile.mycel
+2013-10-02 23:37:25 [INFO] Loading properties
+2013-10-02 23:37:25 [INFO] Default game type: SURVIVAL
+2013-10-02 23:37:25 [INFO] Generating keypair
+2013-10-02 23:37:26 [INFO] Starting Minecraft server on 25.74.0.183:25565
+2013-10-02 23:37:27 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 23:37:27 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 23:37:27 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 23:37:28 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 23:37:28 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 23:37:28 [INFO] [Mekanism] Loading complete.
+2013-10-02 23:37:28 [INFO] [Mekanism] Mod loaded.
+2013-10-02 23:37:28 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 23:37:28 [INFO] [MekanismTools] Loaded module.
+2013-10-02 23:37:29 [INFO] [Mekanism] Hooking complete.
+2013-10-02 23:37:30 [INFO] Mapping loaded 7 packages, 5185 classes, 17732 fields, 34330 methods, flags dd6
+2013-10-02 23:37:30 [INFO] Loaded inheritance map of 769 classes
+2013-10-02 23:37:31 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2013-10-02 23:37:32 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 23:37:32 [INFO] Preparing level "world"
+2013-10-02 23:37:32 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 23:37:32 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 23:37:33 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 1290805905477798010)
+2013-10-02 23:37:34 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 1290805905477798010)
+2013-10-02 23:37:34 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 1290805905477798010)
+2013-10-02 23:37:34 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2013-10-02 23:37:35 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-10-02 23:37:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 23:37:36 [INFO] Done (6.552s)! For help, type "help" or "?"
+2013-10-02 23:37:36 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 23:37:45 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 23:37:45 [INFO] Stopping server
+2013-10-02 23:37:45 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2013-10-02 23:37:45 [WARNING] DSCT: socket closed
+2013-10-02 23:37:45 [INFO] Closing listening thread
+2013-10-02 23:37:45 [INFO] Saving players
+2013-10-02 23:37:45 [INFO] Saving worlds
+2013-10-02 23:37:45 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 23:37:45 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 23:37:57 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 23:37:57 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 23:37:57 [INFO] MinecraftForge v
+2013-10-02 23:37:57 [INFO] 7.8.1.738
+2013-10-02 23:37:57 [INFO]  Initialized
+
+2013-10-02 23:37:57 [INFO] Replaced 85 ore recipies
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stone
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.dirt
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.wood
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.wood_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.wood_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.wood_3
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.log
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.log_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.log_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.log_3
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.leaves
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.sponge
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.glass
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.sandStone
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockGold
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockIron
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.brick
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.obsidian
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.ice
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.snow
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.clay
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.hellrock
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.hellsand
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.lightgem
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.grass
+2013-10-02 23:38:04 [INFO] Registered micro material: tile.mycel
+2013-10-02 23:38:05 [INFO] Loading properties
+2013-10-02 23:38:05 [INFO] Default game type: SURVIVAL
+2013-10-02 23:38:05 [INFO] Generating keypair
+2013-10-02 23:38:05 [INFO] Starting Minecraft server on 25.74.0.183:25565
+2013-10-02 23:38:06 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 23:38:06 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 23:38:06 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 23:38:07 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 23:38:07 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 23:38:08 [INFO] [Mekanism] Loading complete.
+2013-10-02 23:38:08 [INFO] [Mekanism] Mod loaded.
+2013-10-02 23:38:08 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 23:38:08 [INFO] [MekanismTools] Loaded module.
+2013-10-02 23:38:08 [INFO] [Mekanism] Hooking complete.
+2013-10-02 23:38:10 [INFO] Mapping loaded 7 packages, 5185 classes, 17732 fields, 34330 methods, flags dd6
+2013-10-02 23:38:10 [INFO] Loaded inheritance map of 769 classes
+2013-10-02 23:38:11 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2013-10-02 23:38:12 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 23:38:12 [INFO] Preparing level "world"
+2013-10-02 23:38:12 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 23:38:12 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 23:38:14 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: -2611304396499602835)
+2013-10-02 23:38:15 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: -2611304396499602835)
+2013-10-02 23:38:15 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: -2611304396499602835)
+2013-10-02 23:38:15 [INFO] Preparing spawn area: 32%
+2013-10-02 23:38:16 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2013-10-02 23:38:16 [INFO] WEPIF: Using the Bukkit Permissions API.
+2013-10-02 23:38:17 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 23:38:17 [INFO] Done (8.444s)! For help, type "help" or "?"
+2013-10-02 23:38:17 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 23:38:30 [INFO] matt1965pro[/25.74.0.183:50354] logged in with entity id 1 at ([world] 167.5, 64.0, 234.5)
+2013-10-02 23:39:04 [INFO] matt1965pro issued server command: /gamemode 1
+2013-10-02 23:39:04 [INFO] matt1965pro: Set own game mode to CREATIVE mode[m
+2013-10-02 23:41:31 [WARNING] [WorldEdit] No compatible nms block class found.
+2013-10-02 23:46:45 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 23:46:45 [INFO] Stopping server
+2013-10-02 23:46:45 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2013-10-02 23:46:45 [WARNING] DSCT: socket closed
+2013-10-02 23:46:45 [INFO] Closing listening thread
+2013-10-02 23:46:45 [INFO] Saving players
+2013-10-02 23:46:45 [INFO] Saving worlds
+2013-10-02 23:46:45 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 23:46:47 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 23:46:47 [INFO] Stopping server
+2013-10-02 23:46:47 [INFO] Saving players
+2013-10-02 23:46:47 [INFO] Saving worlds
+2013-10-02 23:46:47 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 23:46:47 [SEVERE] Exception in thread "Thread-4" 
+2013-10-02 23:46:47 [SEVERE] java.lang.NullPointerException
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:827)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler_2_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:39)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraftforge.event.EventBus.post(EventBus.java:111)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:1188)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:501)
+2013-10-02 23:46:47 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:542)
+2013-10-02 23:46:47 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.util.ServerShutdownThread.run(ServerShutdownThread.java:14)

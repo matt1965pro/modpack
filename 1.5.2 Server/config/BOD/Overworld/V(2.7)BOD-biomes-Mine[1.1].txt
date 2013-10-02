@@ -1,0 +1,69 @@
+# 3.0=dirt, 13.0=gravel, 14.0=gold, 15.0=iron, 16.0=coal, 21.0=lapis, 56.0=diamond, 73.0=redstone, 129.0=emerald
+
+# ------------------------------------------------------------
+# format is OreID[X.Xo]-BiomeID[Y]=Z
+# X = Ore ID
+# Xo = meta data for Ore ID
+# Y = Biome ID
+# Z = the rarity you want for that ore in that biome
+# ------------------------------------------------------------
+
+#-----------Ocean 0
+OreID[21.0]-BiomeID[0]=75
+
+#-----------Plains 1
+OreID[3.0]-BiomeID[1]=15
+OreID[13.0]-BiomeID[1]=15
+
+#-----------Desert 2
+OreID[15.0]-BiomeID[2]=37
+
+#-----------extremeHills 3
+OreID[14.0]-BiomeID[3]=70
+OreID[129.0]-BiomeID[3]=50
+
+#-----------Forest 4
+OreID[15.0]-BiomeID[4]=37
+
+#-----------Taiga 5
+OreID[16.0]-BiomeID[5]=42
+
+#-----------Swampland 6
+OreID[73.0]-BiomeID[6]=55
+
+#-----------River 7
+OreID[14.0]-BiomeID[7]=70
+
+#-----------FrozenOcean 10
+
+#-----------FrozenRiver 11
+
+#-----------IcePlains 12
+
+#-----------IceMountain 13
+
+#-----------MushroomIsland 14
+OreID[13.0]-BiomeID[14]=40
+OreID[14.0]-BiomeID[14]=50
+OreID[15.0]-BiomeID[14]=50
+OreID[16.0]-BiomeID[14]=50
+OreID[21.0]-BiomeID[14]=50
+OreID[56.0]-BiomeID[14]=50
+OreID[73.0]-BiomeID[14]=50
+
+#-----------mushroomshore 15
+
+#-----------Beach 16
+
+#-----------DesertHills 17
+
+#-----------ForestHills 18
+
+#-----------taigaHills 19
+
+#-----------ExtremeHillsEdge 20
+
+#-----------Jungle 21
+
+#-----------JungleHills 22
+

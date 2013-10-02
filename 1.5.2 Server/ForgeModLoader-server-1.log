@@ -1,114 +1,362 @@
-2013-10-02 20:33:36 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
-2013-10-02 20:33:36 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_40, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
-2013-10-02 20:33:36 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.5.2-R1.1-forge738-B644.jar
-2013-10-02 20:33:36 [FINE] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_25\bin;.
-2013-10-02 20:33:36 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
-2013-10-02 20:33:43 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
-2013-10-02 20:33:43 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
-2013-10-02 20:33:43 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
-2013-10-02 20:33:43 [INFO] [ForgeModLoader] No mod directory found, creating one: C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\mods
-2013-10-02 20:33:43 [INFO] [ForgeModLoader] Mod directory created successfully
-2013-10-02 20:33:43 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\config\logging.properties
-2013-10-02 20:33:43 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\mcpc-plus-1.5.2-R1.1-forge738-B644.jar, examining for mod candidates
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\argo-small-3.2.jar
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\guava-14.0-rc3.jar
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\asm-all-4.1.jar
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\bcprov-jdk15on-148.jar
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\deobfuscation_data_1.5.2.zip
-2013-10-02 20:33:43 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\scala-library.jar
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
-2013-10-02 20:33:43 [INFO] [ForgeModLoader] Searching C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\mods for mods
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] Examining file mcpc-plus-1.5.2-R1.1-forge738-B644.jar for potential mods
-2013-10-02 20:33:43 [FINE] [ForgeModLoader] The mod container mcpc-plus-1.5.2-R1.1-forge738-B644.jar appears to be missing an mcmod.info file
-2013-10-02 20:33:45 [INFO] [ForgeModLoader] Forge Mod Loader has identified 3 mods to load
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] Received a system property request ''
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] Reloading logging properties from C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\config\logging.properties
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] Reloaded logging properties
-2013-10-02 20:33:45 [FINE] [mcp] Mod Logging channel mcp configured at default level.
-2013-10-02 20:33:45 [INFO] [mcp] Activating mod mcp
-2013-10-02 20:33:45 [FINE] [FML] Mod Logging channel FML configured at default level.
-2013-10-02 20:33:45 [INFO] [FML] Activating mod FML
-2013-10-02 20:33:45 [FINE] [Forge] Mod Logging channel Forge configured at default level.
-2013-10-02 20:33:45 [INFO] [Forge] Activating mod Forge
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] All mod requirements are satisfied
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] Sorting mods into an ordered list
-2013-10-02 20:33:45 [FINER] [ForgeModLoader] Mod sorting completed successfully
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] Mod sorting data
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] No user mods found to sort
-2013-10-02 20:33:45 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
-2013-10-02 20:33:45 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
-2013-10-02 20:33:45 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
-2013-10-02 20:33:45 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
-2013-10-02 20:33:45 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
-2013-10-02 20:33:45 [INFO] [ForgeModLoader] Registering Forge Packet Handler
-2013-10-02 20:33:45 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
-2013-10-02 20:33:45 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
-2013-10-02 20:33:45 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
-2013-10-02 20:33:45 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] Mod signature data
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
-2013-10-02 20:33:45 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
-2013-10-02 20:33:45 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
-2013-10-02 20:33:45 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
-2013-10-02 20:33:45 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
-2013-10-02 20:33:45 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
-2013-10-02 20:33:45 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
-2013-10-02 20:33:45 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
-2013-10-02 20:33:45 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
-2013-10-02 20:33:47 [FINEST] [mcp] Sending event IMCEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [mcp] Sent event IMCEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
-2013-10-02 20:33:47 [FINEST] [FML] Sending event IMCEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [FML] Sent event IMCEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
-2013-10-02 20:33:47 [FINEST] [Forge] Sending event IMCEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [Forge] Sent event IMCEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
-2013-10-02 20:33:47 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
-2013-10-02 20:33:47 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
-2013-10-02 20:33:47 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
-2013-10-02 20:33:47 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 3 mods
-2013-10-02 20:33:48 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
-2013-10-02 20:33:48 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
-2013-10-02 20:33:48 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
-2013-10-02 20:33:48 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
-2013-10-02 20:33:48 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
-2013-10-02 20:33:48 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
-2013-10-02 20:33:48 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@386fd9f1)
-2013-10-02 20:33:48 [FINE] [fml.ItemTracker] The difference set is equal
-2013-10-02 20:33:48 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@386fd9f1)
-2013-10-02 20:33:48 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@386fd9f1)
-2013-10-02 20:33:49 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
-2013-10-02 20:33:49 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
-2013-10-02 20:33:49 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
-2013-10-02 20:33:49 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
-2013-10-02 20:33:49 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
-2013-10-02 20:33:49 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
-2013-10-02 20:33:49 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
-2013-10-02 20:33:49 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
-2013-10-02 20:33:49 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
-2013-10-02 20:33:49 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
-2013-10-02 20:33:49 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
-2013-10-02 20:33:49 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-10-02 21:01:02 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2013-10-02 21:01:02 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_40, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+2013-10-02 21:01:02 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.5.2-R1.1-forge738-B644.jar
+2013-10-02 21:01:02 [FINE] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_25\bin;.
+2013-10-02 21:01:02 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-10-02 21:01:02 [WARNING] [ForgeModLoader] The coremod codechicken.core.asm.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-02 21:01:09 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-10-02 21:01:09 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2013-10-02 21:01:09 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-10-02 21:01:09 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\config\logging.properties
+2013-10-02 21:01:09 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer, codechicken.core.asm.CodeChickenCoreModContainer]
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\mcpc-plus-1.5.2-R1.1-forge738-B644.jar, examining for mod candidates
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\coremods\CodeChickenCore 0.8.7.3.jar, examining for mod candidates
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\argo-small-3.2.jar
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\guava-14.0-rc3.jar
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\asm-all-4.1.jar
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\bcprov-jdk15on-148.jar
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\deobfuscation_data_1.5.2.zip
+2013-10-02 21:01:09 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\lib\scala-library.jar
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-10-02 21:01:09 [INFO] [ForgeModLoader] Searching C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\mods for mods
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a candidate zip or jar file [1.5.2]ProjectBench-v1.7.5.zip
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a candidate zip or jar file ForgeMultipart-universal-1.5.2-1.0.0.149.jar
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a candidate zip or jar file ironchest-universal-1.5.2-5.2.8.447.zip
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Found a candidate zip or jar file ModularPowersuits-0.7.0-534.jar
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] Examining file mcpc-plus-1.5.2-R1.1-forge738-B644.jar for potential mods
+2013-10-02 21:01:09 [FINE] [ForgeModLoader] The mod container mcpc-plus-1.5.2-R1.1-forge738-B644.jar appears to be missing an mcmod.info file
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Examining file CodeChickenCore 0.8.7.3.jar for potential mods
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Located mcmod.info file in file CodeChickenCore 0.8.7.3.jar
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Examining file [1.5.2]ProjectBench-v1.7.5.zip for potential mods
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Located mcmod.info file in file [1.5.2]ProjectBench-v1.7.5.zip
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod bau5.mods.projectbench.common.ProjectBench
+2013-10-02 21:01:11 [FINEST] [bau5_ProjectBench] Parsed dependency info : [] [] []
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Examining file ForgeMultipart-universal-1.5.2-1.0.0.149.jar for potential mods
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Located mcmod.info file in file ForgeMultipart-universal-1.5.2-1.0.0.149.jar
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.microblock.handler.MicroblockMod
+2013-10-02 21:01:11 [FINEST] [CCMicroblock] Parsed dependency info : [CCMultipart] [CCMultipart] []
+2013-10-02 21:01:11 [FINE] [CCMicroblock] Attempting to load the file version.properties from ForgeMultipart-universal-1.5.2-1.0.0.149.jar to locate a version number for CCMicroblock
+2013-10-02 21:01:11 [WARNING] [CCMicroblock] Mod CCMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.149
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.handler.MultipartMod
+2013-10-02 21:01:11 [FINEST] [CCMultipart] Parsed dependency info : [] [] []
+2013-10-02 21:01:11 [FINE] [CCMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.5.2-1.0.0.149.jar to locate a version number for CCMultipart
+2013-10-02 21:01:11 [WARNING] [CCMultipart] Mod CCMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.149
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.minecraft.MinecraftMultipartMod
+2013-10-02 21:01:11 [FINEST] [McMultipart] Parsed dependency info : [] [] []
+2013-10-02 21:01:11 [FINE] [McMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.5.2-1.0.0.149.jar to locate a version number for McMultipart
+2013-10-02 21:01:11 [WARNING] [McMultipart] Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.149
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Examining file ironchest-universal-1.5.2-5.2.8.447.zip for potential mods
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Located mcmod.info file in file ironchest-universal-1.5.2-5.2.8.447.zip
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod cpw.mods.ironchest.IronChest
+2013-10-02 21:01:11 [FINEST] [IronChest] Parsed dependency info : [FML@[5.0.5,), Forge@[7.0,)] [Forge@[7.0,), FML@[5.0.5,)] []
+2013-10-02 21:01:11 [FINE] [IronChest] Attempting to load the file version.properties from ironchest-universal-1.5.2-5.2.8.447.zip to locate a version number for IronChest
+2013-10-02 21:01:11 [FINE] [IronChest] Found version 5.2.8.447 for mod IronChest in version.properties, using
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Examining file ModularPowersuits-0.7.0-534.jar for potential mods
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Located mcmod.info file in file ModularPowersuits-0.7.0-534.jar
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Identified an FMLMod type mod net.machinemuse.powersuits.common.ModularPowersuits
+2013-10-02 21:01:11 [FINEST] [mmmPowersuits] Parsed dependency info : [Forge@[7.8.0.712,)] [Forge@[7.8.0.712,)] []
+2013-10-02 21:01:11 [INFO] [ForgeModLoader] Forge Mod Loader has identified 10 mods to load
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Received a system property request ''
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Reloading logging properties from C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\config\logging.properties
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-10-02 21:01:11 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-10-02 21:01:11 [INFO] [mcp] Activating mod mcp
+2013-10-02 21:01:11 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-10-02 21:01:11 [INFO] [FML] Activating mod FML
+2013-10-02 21:01:11 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-10-02 21:01:11 [INFO] [Forge] Activating mod Forge
+2013-10-02 21:01:11 [FINE] [CodeChickenCore] Mod Logging channel CodeChickenCore configured at default level.
+2013-10-02 21:01:11 [INFO] [CodeChickenCore] Activating mod CodeChickenCore
+2013-10-02 21:01:11 [FINE] [bau5_ProjectBench] Enabling mod bau5_ProjectBench
+2013-10-02 21:01:11 [FINE] [bau5_ProjectBench] Mod Logging channel bau5_ProjectBench configured at default level.
+2013-10-02 21:01:11 [INFO] [bau5_ProjectBench] Activating mod bau5_ProjectBench
+2013-10-02 21:01:11 [FINE] [CCMicroblock] Enabling mod CCMicroblock
+2013-10-02 21:01:11 [FINE] [CCMicroblock] Mod Logging channel CCMicroblock configured at default level.
+2013-10-02 21:01:11 [INFO] [CCMicroblock] Activating mod CCMicroblock
+2013-10-02 21:01:11 [FINE] [CCMultipart] Enabling mod CCMultipart
+2013-10-02 21:01:11 [FINE] [CCMultipart] Mod Logging channel CCMultipart configured at default level.
+2013-10-02 21:01:11 [INFO] [CCMultipart] Activating mod CCMultipart
+2013-10-02 21:01:11 [FINE] [McMultipart] Enabling mod McMultipart
+2013-10-02 21:01:11 [FINE] [McMultipart] Mod Logging channel McMultipart configured at default level.
+2013-10-02 21:01:11 [INFO] [McMultipart] Activating mod McMultipart
+2013-10-02 21:01:11 [FINE] [IronChest] Enabling mod IronChest
+2013-10-02 21:01:11 [FINE] [IronChest] Mod Logging channel IronChest configured at default level.
+2013-10-02 21:01:11 [INFO] [IronChest] Activating mod IronChest
+2013-10-02 21:01:11 [FINE] [mmmPowersuits] Enabling mod mmmPowersuits
+2013-10-02 21:01:11 [FINE] [mmmPowersuits] Mod Logging channel mmmPowersuits configured at default level.
+2013-10-02 21:01:11 [INFO] [mmmPowersuits] Activating mod mmmPowersuits
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-10-02 21:01:11 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] Mod sorting data
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	bau5_ProjectBench(Project Bench:1.7.4): [1.5.2]ProjectBench-v1.7.5.zip ()
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	CCMultipart(Forge Multipart:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar ()
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	CCMicroblock(Forge Microblocks:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar (required-after:CCMultipart)
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	McMultipart(Minecraft Multipart Plugin:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar ()
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	IronChest(Iron Chest:5.2.8.447): ironchest-universal-1.5.2-5.2.8.447.zip (required-after:Forge@[7.0,);required-after:FML@[5.0.5,))
+2013-10-02 21:01:11 [FINE] [ForgeModLoader] 	mmmPowersuits(MachineMuse's Modular Powersuits:0.7.0-534): ModularPowersuits-0.7.0-534.jar (required-after:Forge@[7.8.0.712,))
+2013-10-02 21:01:11 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-10-02 21:01:11 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-10-02 21:01:11 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-10-02 21:01:11 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-10-02 21:01:11 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-10-02 21:01:11 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2013-10-02 21:01:12 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-10-02 21:01:12 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-10-02 21:01:12 [FINEST] [CodeChickenCore] Sending event FMLConstructionEvent to mod CodeChickenCore
+2013-10-02 21:01:12 [FINEST] [CodeChickenCore] Sent event FMLConstructionEvent to mod CodeChickenCore
+2013-10-02 21:01:12 [FINEST] [bau5_ProjectBench] Sending event FMLConstructionEvent to mod bau5_ProjectBench
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod bau5_ProjectBench to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod bau5_ProjectBench accepts its own version (1.7.4)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into bau5_ProjectBench
+2013-10-02 21:01:12 [FINEST] [bau5_ProjectBench] Sent event FMLConstructionEvent to mod bau5_ProjectBench
+2013-10-02 21:01:12 [FINEST] [CCMultipart] Sending event FMLConstructionEvent to mod CCMultipart
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod CCMultipart to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod CCMultipart accepts its own version (1.0.0.149)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CCMultipart
+2013-10-02 21:01:12 [FINEST] [CCMultipart] Sent event FMLConstructionEvent to mod CCMultipart
+2013-10-02 21:01:12 [FINEST] [CCMicroblock] Sending event FMLConstructionEvent to mod CCMicroblock
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CCMicroblock
+2013-10-02 21:01:12 [FINEST] [CCMicroblock] Sent event FMLConstructionEvent to mod CCMicroblock
+2013-10-02 21:01:12 [FINEST] [McMultipart] Sending event FMLConstructionEvent to mod McMultipart
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod McMultipart to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod McMultipart accepts its own version (1.0.0.149)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into McMultipart
+2013-10-02 21:01:12 [FINEST] [McMultipart] Sent event FMLConstructionEvent to mod McMultipart
+2013-10-02 21:01:12 [FINEST] [IronChest] Sending event FMLConstructionEvent to mod IronChest
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod IronChest to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod IronChest accepts its own version (5.2.8.447)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into IronChest
+2013-10-02 21:01:12 [FINEST] [IronChest] Sent event FMLConstructionEvent to mod IronChest
+2013-10-02 21:01:12 [FINEST] [mmmPowersuits] Sending event FMLConstructionEvent to mod mmmPowersuits
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] Testing mod mmmPowersuits to verify it accepts its own version in a remote connection
+2013-10-02 21:01:12 [FINEST] [ForgeModLoader] The mod mmmPowersuits accepts its own version (0.7.0-534)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into mmmPowersuits
+2013-10-02 21:01:12 [FINEST] [mmmPowersuits] Sent event FMLConstructionEvent to mod mmmPowersuits
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] Mod signature data
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	CodeChickenCore(CodeChicken Core:0.8.7.3): coremods (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	bau5_ProjectBench(Project Bench:1.7.4): [1.5.2]ProjectBench-v1.7.5.zip (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	CCMultipart(Forge Multipart:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	CCMicroblock(Forge Microblocks:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	McMultipart(Minecraft Multipart Plugin:1.0.0.149): ForgeMultipart-universal-1.5.2-1.0.0.149.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	IronChest(Iron Chest:5.2.8.447): ironchest-universal-1.5.2-5.2.8.447.zip (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINE] [ForgeModLoader] 	mmmPowersuits(MachineMuse's Modular Powersuits:0.7.0-534): ModularPowersuits-0.7.0-534.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 21:01:12 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-10-02 21:01:12 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-10-02 21:01:12 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-10-02 21:01:12 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-10-02 21:01:12 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-10-02 21:01:12 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-10-02 21:01:12 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-10-02 21:01:12 [FINEST] [CodeChickenCore] Sending event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:12 [FINEST] [CodeChickenCore] Sent event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:12 [FINEST] [bau5_ProjectBench] Sending event FMLPreInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:12 [FINEST] [bau5_ProjectBench] Sent event FMLPreInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:12 [FINEST] [CCMultipart] Sending event FMLPreInitializationEvent to mod CCMultipart
+2013-10-02 21:01:16 [FINEST] [CCMultipart] Sent event FMLPreInitializationEvent to mod CCMultipart
+2013-10-02 21:01:16 [FINEST] [CCMicroblock] Sending event FMLPreInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:16 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemMicroPart(25131) owned by CCMicroblock
+2013-10-02 21:01:16 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25132) owned by CCMicroblock
+2013-10-02 21:01:16 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25133) owned by CCMicroblock
+2013-10-02 21:01:16 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25134) owned by CCMicroblock
+2013-10-02 21:01:16 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(25135) owned by CCMicroblock
+2013-10-02 21:01:17 [FINEST] [CCMicroblock] Sent event FMLPreInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:17 [FINEST] [McMultipart] Sending event FMLPreInitializationEvent to mod McMultipart
+2013-10-02 21:01:17 [FINEST] [McMultipart] Sent event FMLPreInitializationEvent to mod McMultipart
+2013-10-02 21:01:17 [FINEST] [IronChest] Sending event FMLPreInitializationEvent to mod IronChest
+2013-10-02 21:01:17 [FINE] [IronChest] Attempting to load the file version.properties from ironchest-universal-1.5.2-5.2.8.447.zip to locate a version number for IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19757) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19758) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19759) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19760) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19761) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19762) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19763) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19764) owned by IronChest
+2013-10-02 21:01:17 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemChestChanger(19765) owned by IronChest
+2013-10-02 21:01:17 [FINEST] [IronChest] Sent event FMLPreInitializationEvent to mod IronChest
+2013-10-02 21:01:17 [FINEST] [mmmPowersuits] Sending event FMLPreInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:17 [FINEST] [mmmPowersuits] Sent event FMLPreInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sending event FMLInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sent event FMLInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sending event FMLInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item bau5.mods.projectbench.common.PBItemBlock(700) owned by bau5_ProjectBench
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item bau5.mods.projectbench.common.PBUpgradeItem(13326) owned by bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sent event FMLInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [CCMultipart] Sending event FMLInitializationEvent to mod CCMultipart
+2013-10-02 21:01:19 [FINEST] [CCMultipart] Sent event FMLInitializationEvent to mod CCMultipart
+2013-10-02 21:01:19 [FINEST] [CCMicroblock] Sending event FMLInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:19 [FINEST] [CCMicroblock] Sent event FMLInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:19 [FINEST] [McMultipart] Sending event FMLInitializationEvent to mod McMultipart
+2013-10-02 21:01:19 [FINEST] [McMultipart] Sent event FMLInitializationEvent to mod McMultipart
+2013-10-02 21:01:19 [FINEST] [IronChest] Sending event FMLInitializationEvent to mod IronChest
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item cpw.mods.ironchest.ItemIronChest(975) owned by IronChest
+2013-10-02 21:01:19 [FINEST] [IronChest] Sent event FMLInitializationEvent to mod IronChest
+2013-10-02 21:01:19 [FINEST] [mmmPowersuits] Sending event FMLInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemPowerArmorHelmet(25027) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemPowerArmorChestplate(25028) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemPowerArmorLeggings(25029) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemPowerArmorBoots(25030) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemPowerFist(25031) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2477) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2478) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINE] [fml.ItemTracker] Adding item net.machinemuse.powersuits.item.ItemComponent(25026) owned by mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Automatically registered mod mmmPowersuits entity entityPlasmaBolt as mmmPowersuits.entityPlasmaBolt
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Automatically registered mod mmmPowersuits entity entitySpinningBlade as mmmPowersuits.entitySpinningBlade
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Automatically registered mod mmmPowersuits entity entityLuxCapacitor as mmmPowersuits.entityLuxCapacitor
+2013-10-02 21:01:19 [FINEST] [mmmPowersuits] Sent event FMLInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-10-02 21:01:19 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-10-02 21:01:19 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-10-02 21:01:19 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sending event IMCEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sent event IMCEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sending event IMCEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sent event IMCEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CCMultipart
+2013-10-02 21:01:19 [FINEST] [CCMultipart] Sending event IMCEvent to mod CCMultipart
+2013-10-02 21:01:19 [FINEST] [CCMultipart] Sent event IMCEvent to mod CCMultipart
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CCMicroblock
+2013-10-02 21:01:19 [FINEST] [CCMicroblock] Sending event IMCEvent to mod CCMicroblock
+2013-10-02 21:01:19 [FINEST] [CCMicroblock] Sent event IMCEvent to mod CCMicroblock
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod McMultipart
+2013-10-02 21:01:19 [FINEST] [McMultipart] Sending event IMCEvent to mod McMultipart
+2013-10-02 21:01:19 [FINEST] [McMultipart] Sent event IMCEvent to mod McMultipart
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod IronChest
+2013-10-02 21:01:19 [FINEST] [IronChest] Sending event IMCEvent to mod IronChest
+2013-10-02 21:01:19 [FINEST] [IronChest] Sent event IMCEvent to mod IronChest
+2013-10-02 21:01:19 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [mmmPowersuits] Sending event IMCEvent to mod mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [mmmPowersuits] Sent event IMCEvent to mod mmmPowersuits
+2013-10-02 21:01:19 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-10-02 21:01:19 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-10-02 21:01:19 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sending event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [CodeChickenCore] Sent event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sending event FMLPostInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [bau5_ProjectBench] Sent event FMLPostInitializationEvent to mod bau5_ProjectBench
+2013-10-02 21:01:19 [FINEST] [CCMultipart] Sending event FMLPostInitializationEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMultipart] Sent event FMLPostInitializationEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sending event FMLPostInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sent event FMLPostInitializationEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sending event FMLPostInitializationEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sent event FMLPostInitializationEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [IronChest] Sending event FMLPostInitializationEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [IronChest] Sent event FMLPostInitializationEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sending event FMLPostInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [WARNING] [MMMPS-SERVER] Failed to get MFFS item!
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sent event FMLPostInitializationEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-10-02 21:01:20 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-10-02 21:01:20 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-10-02 21:01:20 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-10-02 21:01:20 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-10-02 21:01:20 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-10-02 21:01:20 [FINEST] [CodeChickenCore] Sending event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-02 21:01:20 [FINEST] [CodeChickenCore] Sent event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-02 21:01:20 [FINEST] [bau5_ProjectBench] Sending event FMLLoadCompleteEvent to mod bau5_ProjectBench
+2013-10-02 21:01:20 [FINEST] [bau5_ProjectBench] Sent event FMLLoadCompleteEvent to mod bau5_ProjectBench
+2013-10-02 21:01:20 [FINEST] [CCMultipart] Sending event FMLLoadCompleteEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMultipart] Sent event FMLLoadCompleteEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sending event FMLLoadCompleteEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sent event FMLLoadCompleteEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sending event FMLLoadCompleteEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sent event FMLLoadCompleteEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [IronChest] Sending event FMLLoadCompleteEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [IronChest] Sent event FMLLoadCompleteEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sending event FMLLoadCompleteEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sent event FMLLoadCompleteEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 10 mods
+2013-10-02 21:01:20 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-10-02 21:01:20 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-10-02 21:01:20 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-10-02 21:01:20 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-10-02 21:01:20 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-10-02 21:01:20 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-10-02 21:01:20 [FINEST] [CodeChickenCore] Sending event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-02 21:01:20 [FINEST] [CodeChickenCore] Sent event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-02 21:01:20 [FINEST] [bau5_ProjectBench] Sending event FMLServerAboutToStartEvent to mod bau5_ProjectBench
+2013-10-02 21:01:20 [FINEST] [bau5_ProjectBench] Sent event FMLServerAboutToStartEvent to mod bau5_ProjectBench
+2013-10-02 21:01:20 [FINEST] [CCMultipart] Sending event FMLServerAboutToStartEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMultipart] Sent event FMLServerAboutToStartEvent to mod CCMultipart
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sending event FMLServerAboutToStartEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [CCMicroblock] Sent event FMLServerAboutToStartEvent to mod CCMicroblock
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sending event FMLServerAboutToStartEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [McMultipart] Sent event FMLServerAboutToStartEvent to mod McMultipart
+2013-10-02 21:01:20 [FINEST] [IronChest] Sending event FMLServerAboutToStartEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [IronChest] Sent event FMLServerAboutToStartEvent to mod IronChest
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sending event FMLServerAboutToStartEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [FINEST] [mmmPowersuits] Sent event FMLServerAboutToStartEvent to mod mmmPowersuits
+2013-10-02 21:01:20 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by CCMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 21:01:20 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by CCMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 21:01:21 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4e370ac4)
+2013-10-02 21:01:21 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by CCMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 21:01:21 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@4e370ac4)
+2013-10-02 21:01:21 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by CCMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by CCMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 21:01:21 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@4e370ac4)
+2013-10-02 21:01:22 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-10-02 21:01:22 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-10-02 21:01:22 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-10-02 21:01:22 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-10-02 21:01:22 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-10-02 21:01:22 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-10-02 21:01:22 [FINEST] [CodeChickenCore] Sending event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-02 21:01:22 [FINEST] [CodeChickenCore] Sent event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-02 21:01:22 [FINEST] [bau5_ProjectBench] Sending event FMLServerStartingEvent to mod bau5_ProjectBench
+2013-10-02 21:01:22 [FINEST] [bau5_ProjectBench] Sent event FMLServerStartingEvent to mod bau5_ProjectBench
+2013-10-02 21:01:22 [FINEST] [CCMultipart] Sending event FMLServerStartingEvent to mod CCMultipart
+2013-10-02 21:01:22 [FINEST] [CCMultipart] Sent event FMLServerStartingEvent to mod CCMultipart
+2013-10-02 21:01:22 [FINEST] [CCMicroblock] Sending event FMLServerStartingEvent to mod CCMicroblock
+2013-10-02 21:01:22 [FINEST] [CCMicroblock] Sent event FMLServerStartingEvent to mod CCMicroblock
+2013-10-02 21:01:22 [FINEST] [McMultipart] Sending event FMLServerStartingEvent to mod McMultipart
+2013-10-02 21:01:22 [FINEST] [McMultipart] Sent event FMLServerStartingEvent to mod McMultipart
+2013-10-02 21:01:22 [FINEST] [IronChest] Sending event FMLServerStartingEvent to mod IronChest
+2013-10-02 21:01:22 [FINEST] [IronChest] Sent event FMLServerStartingEvent to mod IronChest
+2013-10-02 21:01:22 [FINEST] [mmmPowersuits] Sending event FMLServerStartingEvent to mod mmmPowersuits
+2013-10-02 21:01:22 [FINEST] [mmmPowersuits] Sent event FMLServerStartingEvent to mod mmmPowersuits
+2013-10-02 21:01:22 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-10-02 21:01:22 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-10-02 21:01:22 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-10-02 21:01:22 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-10-02 21:01:22 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-10-02 21:01:22 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-10-02 21:01:22 [FINEST] [CodeChickenCore] Sending event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-02 21:01:22 [FINEST] [CodeChickenCore] Sent event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-02 21:01:22 [FINEST] [bau5_ProjectBench] Sending event FMLServerStartedEvent to mod bau5_ProjectBench
+2013-10-02 21:01:22 [FINEST] [bau5_ProjectBench] Sent event FMLServerStartedEvent to mod bau5_ProjectBench
+2013-10-02 21:01:22 [FINEST] [CCMultipart] Sending event FMLServerStartedEvent to mod CCMultipart
+2013-10-02 21:01:22 [FINEST] [CCMultipart] Sent event FMLServerStartedEvent to mod CCMultipart
+2013-10-02 21:01:22 [FINEST] [CCMicroblock] Sending event FMLServerStartedEvent to mod CCMicroblock
+2013-10-02 21:01:22 [FINEST] [CCMicroblock] Sent event FMLServerStartedEvent to mod CCMicroblock
+2013-10-02 21:01:22 [FINEST] [McMultipart] Sending event FMLServerStartedEvent to mod McMultipart
+2013-10-02 21:01:22 [FINEST] [McMultipart] Sent event FMLServerStartedEvent to mod McMultipart
+2013-10-02 21:01:22 [FINEST] [IronChest] Sending event FMLServerStartedEvent to mod IronChest
+2013-10-02 21:01:22 [FINEST] [IronChest] Sent event FMLServerStartedEvent to mod IronChest
+2013-10-02 21:01:22 [FINEST] [mmmPowersuits] Sending event FMLServerStartedEvent to mod mmmPowersuits
+2013-10-02 21:01:22 [FINEST] [mmmPowersuits] Sent event FMLServerStartedEvent to mod mmmPowersuits

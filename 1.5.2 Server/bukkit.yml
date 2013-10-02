@@ -91,6 +91,11 @@ mcpc:
     IronChest: INFO
     mmmPowersuits: INFO
     MMMPS-SERVER: INFO
+    CCMicroblock: INFO
+    CCMultipart: INFO
+    McMultipart: INFO
+    com-google-common-eventbus-EventBus-CCMultipart: INFO
+    CodeChickenCore: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650

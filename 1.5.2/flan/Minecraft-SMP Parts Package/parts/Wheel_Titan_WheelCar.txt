@@ -1,0 +1,12 @@
+Name Titan Car Wheel
+ShortName Wheel_Titan_WheelCar
+Icon Icon_Titan_WheelCar
+Colour 255 255 255
+ItemID 27690
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan G Mat_Gummi
+ G 
+GMG
+ G 

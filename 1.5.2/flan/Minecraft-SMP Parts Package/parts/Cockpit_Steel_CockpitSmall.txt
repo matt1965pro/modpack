@@ -1,0 +1,12 @@
+Name Small Steel Cockpit
+ShortName Cockpit_Steel_CockpitSmall
+Icon Icon_Steel_CockpitSmall
+Colour 255 255 255
+ItemID 27539
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GG
+CSM
+MMM

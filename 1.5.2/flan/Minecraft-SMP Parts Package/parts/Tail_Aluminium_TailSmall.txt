@@ -1,0 +1,12 @@
+Name Small Aluminium Tail
+ShortName Tail_Aluminium_TailSmall
+Icon Icon_Aluminium_TailSmall
+Colour 255 255 255
+ItemID 27601
+Category Tail
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium P Misc_Aluminium_PartsPlate
+  M
+MMP
+MM 

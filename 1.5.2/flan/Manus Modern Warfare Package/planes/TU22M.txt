@@ -1,0 +1,127 @@
+Name Tupolev Tu-22M Backfire
+ShortName TU22M
+ItemID 28400
+Icon IconTU22M
+Model TU22M
+Texture SkinTU22M
+MaxPropellerSpeed 6.0
+TakeOffSpeed 5.0
+CameraDistance 45.0
+PropSetup 1
+PropellerPos 0 24 16 -82
+PropellerPos 1 -24 16 -82
+ShootDelay 999
+BombDelay 4
+CargoSlots 0
+BombSlots 10
+Health 3000
+CollisionBoxes 71
+AddCollisionBox 0 0 44 323 0
+AddCollisionBox 1 0 44 291 0
+AddCollisionBox 2 0 44 259 0
+AddCollisionBox 3 0 44 227 0
+AddCollisionBox 4 0 44 195 0
+AddCollisionBox 5 0 44 163 0
+AddCollisionBox 6 0 44 131 0
+AddCollisionBox 7 0 44 99 0
+AddCollisionBox 8 0 44 67 0
+AddCollisionBox 9 16 44 35 0
+AddCollisionBox 10 16 44 3 0
+AddCollisionBox 11 16 44 -61 0
+AddCollisionBox 12 16 44 -93 0
+AddCollisionBox 13 -16 44 -61 0
+AddCollisionBox 14 16 44 -29 0
+AddCollisionBox 15 16 44 -125 0
+AddCollisionBox 16 -16 44 -125 0
+AddCollisionBox 17 -16 44 -93 0
+AddCollisionBox 18 -16 44 -29 0
+AddCollisionBox 19 -16 44 3 0
+AddCollisionBox 20 -16 44 35 0
+AddCollisionBox 21 -48 34 -125 1
+AddCollisionBox 22 -80 34 -125 1
+AddCollisionBox 23 -240 34 -155 1
+AddCollisionBox 24 -80 34 -93 1
+AddCollisionBox 25 -48 34 -29 1
+AddCollisionBox 26 -48 34 -61 1
+AddCollisionBox 27 -48 34 -93 1
+AddCollisionBox 28 -80 34 -61 1
+AddCollisionBox 29 -112 34 -131 1
+AddCollisionBox 30 -144 34 -137 1
+AddCollisionBox 31 -176 34 -143 1
+AddCollisionBox 32 -208 34 -149 1
+AddCollisionBox 33 48 34 -125 2
+AddCollisionBox 34 80 34 -125 2
+AddCollisionBox 35 240 34 -155 2
+AddCollisionBox 36 80 34 -93 2
+AddCollisionBox 37 48 34 -29 2
+AddCollisionBox 38 48 34 -61 2
+AddCollisionBox 39 48 34 -93 2
+AddCollisionBox 40 80 34 -61 2
+AddCollisionBox 41 112 34 -131 2
+AddCollisionBox 42 144 34 -137 2
+AddCollisionBox 43 176 34 -143 2
+AddCollisionBox 44 208 34 -149 2
+AddCollisionBox 45 16 44 -189 3
+AddCollisionBox 46 16 44 -253 3
+AddCollisionBox 47 0 140 -277 3
+AddCollisionBox 48 16 44 -221 3
+AddCollisionBox 49 16 44 -285 3
+AddCollisionBox 50 -16 44 -253 3
+AddCollisionBox 51 48 34 -197 3
+AddCollisionBox 52 48 34 -229 3
+AddCollisionBox 53 80 34 -261 3
+AddCollisionBox 54 -16 44 -221 3
+AddCollisionBox 55 -16 44 -189 3
+AddCollisionBox 56 16 44 -157 3
+AddCollisionBox 57 -16 44 -157 3
+AddCollisionBox 58 -16 44 -285 3
+AddCollisionBox 59 0 76 -149 3
+AddCollisionBox 60 0 108 -245 3
+AddCollisionBox 61 -48 34 -229 3
+AddCollisionBox 62 -48 34 -197 3
+AddCollisionBox 63 -80 34 -229 3
+AddCollisionBox 64 -80 34 -261 3
+AddCollisionBox 65 0 108 -277 3
+AddCollisionBox 66 0 76 -277 3
+AddCollisionBox 67 0 76 -245 3
+AddCollisionBox 68 0 76 -213 3
+AddCollisionBox 69 0 76 -181 3
+AddCollisionBox 70 80 34 -229 3
+AllowWingGuns False
+AllowNoseGuns False
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+AddGunPosition 0 0 0 45
+AddGunPosition 1 0 0 45
+BombPosition 8 -16 -80
+TurnLeftSpeed 2
+TurnRightSpeed 2
+RollLeftSpeed 2
+RollRightSpeed 2
+LookUpSpeed 2
+LookDownSpeed 2
+Acceleration 3
+Decceleration 3
+FuelTankSize 10000
+MaxHeight 256
+StartSound viper
+StartSoundLength 20
+PropSound viper
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 7 44 230 // seite höhe Vor
+Passengers 1
+Passenger -9 35 230 0
+//Recipe
+BigTable True
+Propeller Propeller_Aluminium_TurbineJet
+Cockpit Cockpit_Aluminium_CockpitLarge
+Wings Wings_Aluminium_WingLargePlane
+Bay Bay_Aluminium_BayBombbay
+Tail Tail_Aluminium_TailLarge
+Dyes Cyan
+HasGear True
+HasDoor False
+HasWing False

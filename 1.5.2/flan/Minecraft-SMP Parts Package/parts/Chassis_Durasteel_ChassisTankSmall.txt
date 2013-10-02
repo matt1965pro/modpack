@@ -1,0 +1,12 @@
+Name Small Durasteel Tank Chassis
+ShortName Chassis_Durasteel_ChassisTankSmall
+Icon Icon_Durasteel_ChassisTankSmall
+Colour 255 255 255
+ItemID 27815
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel S Misc_SpecialSeat A Misc_Durasteel_PartsArmorplate
+AAA
+ASA
+ M 

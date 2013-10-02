@@ -1,0 +1,12 @@
+Name Medium Titan Car Chassis
+ShortName Chassis_Titan_ChassisCarMedium
+Icon Icon_Titan_ChassisCarMedium
+Colour 255 255 255
+ItemID 27674
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Titan_ChassisCarSmall
+CC 
+   
+   

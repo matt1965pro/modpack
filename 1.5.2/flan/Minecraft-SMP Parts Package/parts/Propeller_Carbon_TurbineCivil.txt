@@ -1,0 +1,12 @@
+Name Carbon Civil Turbine
+ShortName Propeller_Carbon_TurbineCivil
+Icon Icon_Carbon_TurbineCivil
+Colour 255 255 255
+ItemID 27723
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon R Propeller_Carbon_RotorTurbine
+ M 
+MRM
+ M 

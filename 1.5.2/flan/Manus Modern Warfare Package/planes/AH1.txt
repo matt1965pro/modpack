@@ -1,0 +1,57 @@
+Name AH-1 Cobra
+ShortName AH1
+ItemID 28420
+Icon IconAH1
+Model AH1
+Texture SkinAH1
+MaxPropellerSpeed 2
+TakeOffSpeed 0.1
+CameraDistance 10.0
+PropSetup 1
+PropellerPos 0 15 16 -69
+PropellerPos 0 -33 16 -69
+ShootDelay 5
+BombDelay 999
+CargoSlots 0
+BombSlots 0
+Health 1500
+CollisionBoxes 5
+AddCollisionBox 0 0 13 42 0
+AddCollisionBox 1 0 13 10 0
+AddCollisionBox 2 0 13 -6 0
+AddCollisionBox 3 0 13 -38 3
+AddCollisionBox 4 0 13 -70 3
+AllowWingGuns False
+AllowNoseGuns True
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+AddGunPosition 0 0 1 74
+AddGunPosition 1 0 1 74
+BombPosition -9 -16 -52
+TurnLeftSpeed 2
+TurnRightSpeed 2
+RollLeftSpeed 1
+RollRightSpeed 1
+LookUpSpeed 1
+LookDownSpeed 1
+Acceleration 4
+Decceleration 3
+FuelTankSize 6000
+MaxHeight 256
+StartSound helo
+StartSoundLength 20
+PropSound helo
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 0 6 12 // seite höhe Vor 0 6 28
+Passengers 1
+Passenger 0 0 -3 28 0
+//Recipe
+Propeller Propeller_Carbon_RotorHeli
+Cockpit Cockpit_Aluminium_CockpitHeli
+Wings Wings_Aluminium_WingFighter
+Bay Bay_Aluminium_BayBombbay
+Tail Tail_Aluminium_TailSmall
+Dyes Green

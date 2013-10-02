@@ -1,0 +1,12 @@
+Name Durasteel Gun Barrel
+ShortName Misc_Durasteel_BarrelGun
+Icon Icon_Durasteel_BarrelGun
+Colour 255 255 255
+ItemID 27829
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel
+M  
+ M 
+  M

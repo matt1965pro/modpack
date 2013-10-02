@@ -1,0 +1,12 @@
+Name Small Titan Car Chassis
+ShortName Chassis_Titan_ChassisCarSmall
+Icon Icon_Titan_ChassisCarSmall
+Colour 255 255 255
+ItemID 27673
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan S Misc_SpecialSeat G glass
+ G 
+MSM
+ M 

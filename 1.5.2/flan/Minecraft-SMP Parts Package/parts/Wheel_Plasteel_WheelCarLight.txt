@@ -1,0 +1,12 @@
+Name Light Plasteel Car Wheel
+ShortName Wheel_Plasteel_WheelCarLight
+Icon Icon_Plasteel_WheelCarLight
+Colour 255 255 255
+ItemID 27884
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe P Misc_Plasteel_PartsPlate G Mat_Gummi
+ G 
+GPG
+ G 

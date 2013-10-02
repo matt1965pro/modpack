@@ -1,0 +1,12 @@
+Name Aluminium Tank Turret
+ShortName Turret_Aluminium_TurretTank
+Icon Icon_Aluminium_TurretTank
+Colour 255 255 255
+ItemID 27631
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium A Misc_Aluminium_PartsArmorplate G Misc_Aluminium_BarrelTank
+ A 
+GAA
+MMM

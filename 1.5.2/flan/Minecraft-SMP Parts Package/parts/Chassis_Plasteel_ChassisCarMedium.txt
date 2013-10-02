@@ -1,0 +1,12 @@
+Name Medium Plasteel Car Chassis
+ShortName Chassis_Plasteel_ChassisCarMedium
+Icon Icon_Plasteel_ChassisCarMedium
+Colour 255 255 255
+ItemID 27869
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Plasteel_ChassisCarSmall
+CC 
+   
+   

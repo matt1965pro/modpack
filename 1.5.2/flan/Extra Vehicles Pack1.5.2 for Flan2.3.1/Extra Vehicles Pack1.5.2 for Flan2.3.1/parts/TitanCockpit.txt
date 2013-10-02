@@ -1,0 +1,13 @@
+Name Titan Cockpit
+ShortName TitanCockpit
+Icon IconTitanCockpit
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 24203
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Cockpit
+StackSize 64
+Recipe S Titan G glass
+GGG
+SSS
+SSS

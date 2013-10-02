@@ -1,0 +1,12 @@
+Name Carbon Spacefitted Turbine
+ShortName Propeller_Carbon_TurbineSpace
+Icon Icon_Carbon_TurbineSpace
+Colour 255 255 255
+ItemID 27725
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon P Misc_Carbon_PartsPlate R Propeller_Carbon_RotorTurbine C Misc_SpecialComputer
+CMC
+MRM
+PMP

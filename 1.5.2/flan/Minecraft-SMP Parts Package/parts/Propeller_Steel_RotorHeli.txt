@@ -1,0 +1,12 @@
+Name Steel Helicopter Rotor
+ShortName Propeller_Steel_RotorHeli
+Icon Icon_Steel_RotorHeli
+Colour 255 255 255
+ItemID 27524
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel P Misc_Steel_PartsPlate
+ P 
+PMP
+ P 

@@ -1,0 +1,54 @@
+Name Ural-4320
+ShortName 4320C
+ItemID 24506
+Icon Ural4320
+Model Ural4320C
+Texture Ural4320C
+MaxSpeed 2.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 32
+BombSlots 0
+Health 400
+CollisionBoxes 6
+AddCollisionBox 0 16 6 -18 0
+AddCollisionBox 1 16 -5 16 0
+AddCollisionBox 2 16 -5 48 0
+AddCollisionBox 3 -16 6 -40 0
+AddCollisionBox 4 -16 6 16 0
+AddCollisionBox 5 -16 6 48 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 1
+Decceleration 1
+FuelTankSize 1500
+StartSound Uralidle
+StartSoundLength 30
+EngineSound Uralengine
+EngineSoundLength 30
+ShootSound bullet
+ShellSound shell
+SquashMobs True
+Driver -8 13 -18 //Pilots Position
+Passengers 4
+Passenger 0 12 13 24 0
+Passenger 1 -12 13 24 0
+Passenger 2 12 13 42 0
+Passenger 3 -12 13 42 0
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -16 -8 -19 //Front Left
+WheelPosition 1 -16 -8 46 //Back Left
+WheelPosition 2 16 -8 46 //Back Right
+WheelPosition 3 16 -8 -19 //Front Right
+//Recipe
+Chassis smallChassis
+FrontWheels wheel
+BackWheels wheel
+Tracks None
+Turret None
+Dyes Lime

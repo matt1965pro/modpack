@@ -1,0 +1,12 @@
+Name Durasteel APC Turret
+ShortName Turret_Durasteel_TurretAPC
+Icon Icon_Durasteel_TurretAPC
+Colour 255 255 255
+ItemID 27827
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel A Misc_Durasteel_PartsArmorplate G Misc_Durasteel_BarrelTank
+   
+GAA
+MMM

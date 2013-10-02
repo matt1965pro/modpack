@@ -1,0 +1,61 @@
+Name E-3D Awacs
+ShortName E3D
+ItemID 28415
+Icon IconE3D
+Model E3D
+Texture SkinE3D
+MaxPropellerSpeed 4.5 //5.0
+TakeOffSpeed 4.0 //4.0
+CameraDistance 60.0
+PropSetup 3
+PropellerPos 0 -312 39 -60
+PropellerPos 1 -184 26 40
+PropellerPos 2 184 26 40
+PropellerPos 3 312 39 -60
+ShootDelay 999
+BombDelay 999
+CargoSlots 0
+BombSlots 0
+Health 3000
+CollisionBoxes 0
+AllowWingGuns False
+AllowNoseGuns False
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+AddGunPosition 0 0 0 45
+AddGunPosition 1 0 0 45
+BombPosition 0 -16 -52
+TurnLeftSpeed 0.5
+TurnRightSpeed 0.5
+RollLeftSpeed 0.5
+RollRightSpeed 0.5
+LookUpSpeed 0.5
+LookDownSpeed 0.5
+Acceleration 1
+Decceleration 1
+FuelTankSize 10000
+MaxHeight 256
+StartSound viper
+StartSoundLength 20
+PropSound viper
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 12 76 292 //Pilots Position
+Passengers 4 //No of Passengers
+Passenger 0 -12 67 292 0 //Passenger 1
+Passenger 1 3 63 76 0 //Passenger 2
+Passenger 2 3 63 30 0 //Passenger 3
+Passenger 3 -19 63 112 0 //Passenger 4
+BigTable True
+//Recipe
+Propeller Propeller_Steel_TurbineCivil
+Cockpit Cockpit_Boeing707
+Wings Wings_Steel_WingLargePlane
+Bay Bay_Steel_BayPassengerbay
+Tail Tail_Steel_TailLarge
+Dyes Grey
+HasGear True
+HasDoor True
+HasWing False

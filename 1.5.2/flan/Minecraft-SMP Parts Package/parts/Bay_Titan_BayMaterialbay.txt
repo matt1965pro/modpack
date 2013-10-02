@@ -1,0 +1,12 @@
+Name Titan Material Transport Bay
+ShortName Bay_Titan_BayMaterialbay
+Icon Icon_Titan_BayMaterialbay
+Colour 255 255 255
+ItemID 27664
+Category Bay
+StackSize 64
+RecipeOutput 1
+Recipe C chest P Misc_Titan_PartsPlate
+PPP
+CCC
+PPP

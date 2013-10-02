@@ -1,0 +1,12 @@
+Name Aluminium Material Transport Bay
+ShortName Bay_Aluminium_BayMaterialbay
+Icon Icon_Aluminium_BayMaterialbay
+Colour 255 255 255
+ItemID 27599
+Category Bay
+StackSize 64
+RecipeOutput 1
+Recipe C chest P Misc_Aluminium_PartsPlate
+PPP
+CCC
+PPP

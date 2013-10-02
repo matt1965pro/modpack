@@ -1,0 +1,80 @@
+Name Ilyushin IL-76M Candid OpenCabin
+ShortName Il76open
+ItemID 24017
+Icon IL76
+Model IL76open
+Texture IL76
+MaxPropellerSpeed 1
+TakeOffSpeed 0.5
+CameraDistance 55.0
+//0 - Nose propeller, 1 - Inner Wing Propellers, 2 - Outer Wing Propellers, 3 - Inner and Outer Propellers
+PropSetup 3
+//Propeller number, x, y, z. Numbering starts at 0.
+PropellerPos 0 -84 54 51
+PropellerPos 1 84 54 51
+PropellerPos 2 -164 54 51
+PropellerPos 3 164 54 51
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 7
+BombDelay 10
+CargoSlots 288
+BombSlots 0
+Health 700
+CollisionBoxes 12
+AddCollisionBox 0 15 63 300 0
+AddCollisionBox 1 0 46 359 0
+AddCollisionBox 2 42 17 87 0
+AddCollisionBox 3 -42 17 87 0
+AddCollisionBox 4 0 71 -338 3
+AddCollisionBox 5 -393 95 -47 1
+AddCollisionBox 6 393 95 -47 2
+AddCollisionBox 7 -170 54 36 1
+AddCollisionBox 8 170 54 36 2
+AddCollisionBox 9 -100 57 66 1
+AddCollisionBox 10 100 57 66 2
+AddCollisionBox 11 0 220 -308 3
+//Whether or not guns can be placed in these slots
+AllowWingGuns False
+AllowNoseGuns False
+//Next 3 are for large planes only
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+//Add positions for the pilot controlled guns. That is, nose and wing guns.
+//AddGunPosition <type> <x> <y> <Z> where type is one of the corresponding numbers
+//0 : Left Nose, 1 : Right Nose, 2 : Left Wing, 3 : Right Wing
+AddGunPosition 0 0 0 45
+AddGunPosition 1 0 0 45
+BombPosition 8 -16 -80
+TurnLeftSpeed 1
+TurnRightSpeed 1
+RollLeftSpeed 3
+RollRightSpeed 3
+LookUpSpeed 1
+LookDownSpeed 1
+Acceleration 2.5
+Decceleration 3
+FuelTankSize 19000
+MaxHeight 256
+StartSound IL76land
+StartSoundLength 20
+PropSound IL76eng
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 15 57 295 // seite höhe Vor
+Passengers 5
+Passenger 0 -15 47 295 0
+Passenger 1 0 47 280 0
+Passenger 2 -12 47 262 0
+Passenger 3 21 47 255 0
+Passenger 4 0 10 295 0
+//Recipe
+BigTable True
+Propeller compressor
+Cockpit AlumiCockpit
+Wings metalWingSmallfold
+Bay passengerBay
+Tail metalTail
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes LGrey

@@ -1,0 +1,12 @@
+Name Carbon APC Turret
+ShortName Turret_Carbon_TurretAPC
+Icon Icon_Carbon_TurretAPC
+Colour 255 255 255
+ItemID 27762
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon A Misc_Carbon_PartsArmorplate G Misc_Carbon_BarrelTank
+   
+GAA
+MMM

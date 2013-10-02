@@ -1,0 +1,52 @@
+Name Hummer H2 Yellow
+ShortName H2Yellow
+ItemID 30071
+Icon Hummer32
+Model H2
+Texture YellowH2
+MaxSpeed 7
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 999
+ShellDelay 999
+CargoSlots 11
+//Actually shell slots
+BombSlots 0
+Health 309
+CollisionBoxes 0
+//Whether or not guns can be placed in these slots
+//Body is for the driver, turret is for a designated gunner
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 4
+TurnRightSpeed 4
+Acceleration 8
+Decceleration 7
+FuelTankSize 500
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+Driver -24 6 -6
+Passengers 3
+Passenger 0 -7 -5 -6
+Passenger 1 -7 -5 13
+Passenger 2 -24 -5 13
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+//Wheel positions for collision handling. Tanks still have 4 wheels, they are just the corner ones.
+WheelPosition 0 -16 2 -14 //VL
+WheelPosition 1 -16 2 29 //HL
+WheelPosition 2 16 2 29 //HR
+WheelPosition 3 16 2 -14 //VR
+//Recipe
+FrontWheels wheel
+BackWheels wheel
+Tracks None
+Chassis SmallCarChassis
+Turret None
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes Red

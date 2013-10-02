@@ -1,0 +1,15 @@
+Name V12 Engine
+ShortName Engine_EngineV12
+Icon Icon_EngineV12
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 27938
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 4
+StackSize 4
+RecipeOutput 1
+Recipe M Engine_EngineV6
+MM 
+   
+   

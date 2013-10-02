@@ -1,0 +1,12 @@
+Name Steel Fighter Wings
+ShortName Wings_Steel_WingFighter
+Icon Icon_Steel_WingFighter
+Colour 255 255 255
+ItemID 27521
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel P Misc_Steel_PartsPlate
+  P
+ PP
+PMP

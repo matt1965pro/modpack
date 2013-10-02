@@ -1,0 +1,12 @@
+Name Aluminium Passenger Bay
+ShortName Bay_Aluminium_Passengerbay
+Icon Icon_Aluminium_BayPassengerbay
+Colour 255 255 255
+ItemID 27598
+Category Bay
+StackSize 64
+RecipeOutput 1
+Recipe S Misc_SpecialSeat P Misc_Aluminium_PartsPlate
+PPP
+SSS
+PPP

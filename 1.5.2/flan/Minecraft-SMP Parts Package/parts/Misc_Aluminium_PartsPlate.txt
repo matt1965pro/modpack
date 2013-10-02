@@ -1,0 +1,12 @@
+Name Aluminium Plate
+ShortName Misc_Aluminium_PartsPlate
+Icon Icon_Aluminium_PartsPlate
+Colour 255 255 255
+ItemID 27511
+Category Misc
+StackSize 64
+RecipeOutput 3
+Recipe M Mat_Aluminium
+   
+   
+MMM

@@ -1,0 +1,12 @@
+Name Titan APC Chassis
+ShortName Chassis_Titan_ChassisAPC
+Icon Icon_Titan_ChassisAPC
+Colour 255 255 255
+ItemID 27681
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan S Misc_SpecialSeat G glass A Misc_Titan_PartsArmorplate
+AAA
+MSM
+ M 

@@ -1,0 +1,12 @@
+Name Steel Spacefitted Turbine
+ShortName Propeller_Steel_TurbineSpace
+Icon Icon_Steel_TurbineSpace
+Colour 255 255 255
+ItemID 27530
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel P Misc_Steel_PartsPlate R Propeller_Steel_RotorTurbine C Misc_SpecialComputer
+CMC
+MRM
+PMP

@@ -1,0 +1,12 @@
+Name Motorblock
+ShortName Misc_EngineMotorblock
+Icon Icon_EngineMotorblock
+Colour 255 255 255
+ItemID 27930
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel P Misc_Steel_PartsMechanical
+PPP
+MPM
+MMM

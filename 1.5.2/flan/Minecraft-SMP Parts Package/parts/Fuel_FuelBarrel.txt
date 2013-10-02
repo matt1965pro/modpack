@@ -1,0 +1,15 @@
+Name Fuel Barrel
+ShortName Fuel_FuelBarrel
+Icon Icon_FuelBarrel
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 27950
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Fuel
+Fuel 4000
+StackSize 8
+RecipeOutput 1
+Recipe M Mat_Oil
+MM 
+   
+   

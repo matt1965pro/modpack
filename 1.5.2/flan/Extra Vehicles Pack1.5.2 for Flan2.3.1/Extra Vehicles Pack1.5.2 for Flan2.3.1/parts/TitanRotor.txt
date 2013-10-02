@@ -1,0 +1,14 @@
+Name Titanium Rotor
+ShortName TitanRotor
+Icon TitanRotor
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 24206
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Propeller
+StackSize 4
+RecipeOutput 1
+Recipe I Titan
+ I 
+ I 
+I I

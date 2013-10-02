@@ -1,0 +1,53 @@
+Name German Army Truck
+ShortName BwTruck
+ItemID 28310
+Icon IconBwTruck
+Model BwTruck
+Texture SkinBwTruck
+MaxSpeed 4.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 64
+BombSlots 0
+Health 400
+CollisionBoxes 3
+AddCollisionBox 0 0 18 -13 0
+AddCollisionBox 1 0 21 19 0
+AddCollisionBox 2 0 21 51 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 2
+TurnRightSpeed 2
+Acceleration 5
+Decceleration 5
+FuelTankSize 1500
+StartSound lkw_start
+StartSoundLength 34
+EngineSound lkw_lauf
+EngineSoundLength 105
+ShootSound bullet
+ShellSound shell
+Driver -9 16 -24 //Pilots Position
+Passengers 7 //No of Passengers
+Passenger 0 9 28 -23 0 //Passenger 1
+Passenger 1 7 11 4 0 //Passenger 2
+Passenger 2 7 11 24 0 //Passenger 3
+Passenger 3 7 11 44 0 //Passenger 4
+Passenger 4 -7 11 4 0 //Passenger 5
+Passenger 5 -7 11 24 0 //Passenger 6
+Passenger 6 -7 11 44 0 //Passenger 7
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -14 -4 -6 //Front Left
+WheelPosition 1 -14 -4 46 //Back Left
+WheelPosition 2 14 -4 46 //Back Right
+WheelPosition 3 14 -4 -6 //Front Right
+//Recipe
+Chassis Chassis_Aluminium_ChassisTruck
+FrontWheels Wheel_Steel_WheelTruck
+BackWheels Wheel_Steel_WheelTruck
+Tracks None
+Turret None
+Dyes Green

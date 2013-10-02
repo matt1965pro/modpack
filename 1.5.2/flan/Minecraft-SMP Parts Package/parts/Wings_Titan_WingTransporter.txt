@@ -1,0 +1,12 @@
+Name Titan Transport Aircraft Wings
+ShortName Wings_Titan_WingTransport
+Icon Icon_Titan_WingTransport
+Colour 255 255 255
+ItemID 27652
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+ PP
+PMP
+PMP

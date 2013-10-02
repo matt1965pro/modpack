@@ -1,0 +1,12 @@
+Name Aluminium Artillary Turret
+ShortName Turret_Aluminium_TurretArtillary
+Icon Icon_Aluminium_TurretArt
+Colour 255 255 255
+ItemID 27633
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium A Misc_Aluminium_PartsArmorplate G Misc_Aluminium_BarrelGun
+GA 
+AAA
+MMM

@@ -1,0 +1,12 @@
+Name Durasteel APC Chassis
+ShortName Chassis_Durasteel_ChassisAPC
+Icon Icon_Durasteel_ChassisAPC
+Colour 255 255 255
+ItemID 27811
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel S Misc_SpecialSeat G glass A Misc_Durasteel_PartsArmorplate
+AAA
+MSM
+ M 

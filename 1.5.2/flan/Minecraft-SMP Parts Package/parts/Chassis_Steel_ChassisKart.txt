@@ -1,0 +1,14 @@
+Name Steel Kart Chassis
+ShortName Chassis_Steel_ChassisKart
+Icon Icon_Steel_ChassisKart
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 27580
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Chassis
+StackSize 4
+RecipeOutput 1
+Recipe I Mat_Steel F Fuel_FuelCan
+  F
+III
+   

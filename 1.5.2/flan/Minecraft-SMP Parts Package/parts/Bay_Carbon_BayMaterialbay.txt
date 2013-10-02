@@ -1,0 +1,12 @@
+Name Carbon Material Transport Bay
+ShortName Bay_Carbon_BayMaterialbay
+Icon Icon_Carbon_BayMaterialbay
+Colour 255 255 255
+ItemID 27729
+Category Bay
+StackSize 64
+RecipeOutput 1
+Recipe C chest P Misc_Carbon_PartsPlate
+PPP
+CCC
+PPP

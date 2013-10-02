@@ -1,0 +1,12 @@
+Name Steel Ingot
+ShortName Mat_Steel
+Icon Icon_Mat_Steel
+Colour 255 255 255
+ItemID 27500
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe I iron S sand
+ IS
+   
+   

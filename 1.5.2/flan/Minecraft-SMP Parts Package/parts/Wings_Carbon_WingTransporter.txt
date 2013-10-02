@@ -1,0 +1,12 @@
+Name Carbon Transport Aircraft Wings
+ShortName Wings_Carbon_WingTransport
+Icon Icon_Carbon_WingTransport
+Colour 255 255 255
+ItemID 27717
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon P Misc_Carbon_PartsPlate
+ PP
+PMP
+PMP

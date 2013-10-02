@@ -1,0 +1,12 @@
+Name Aluminium APC Wheel
+ShortName Wheel_Aluminium_WheelAPC
+Icon Icon_Aluminium_WheelAPC
+Colour 255 255 255
+ItemID 27627
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium G Mat_Gummi
+GMG
+MMM
+GMG

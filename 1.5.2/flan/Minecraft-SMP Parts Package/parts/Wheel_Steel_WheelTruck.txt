@@ -1,0 +1,12 @@
+Name Steel Truck Wheel
+ShortName Wheel_Steel_Wheeltruck
+Icon Icon_Steel_WheelTruck
+Colour 255 255 255
+ItemID 27561
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel G Mat_Gummi
+GGG
+GMG
+GGG

@@ -1,0 +1,12 @@
+Name Durasteel Jet Turbine
+ShortName Propeller_Durasteel_TurbineJet
+Icon Icon_Durasteel_TurbineJet
+Colour 255 255 255
+ItemID 27789
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel A Misc_Durasteel_PartsArmorplate R Propeller_Durasteel_RotorTurbine
+AMA
+MRM
+AMA

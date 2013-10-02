@@ -1,0 +1,12 @@
+Name Durasteel Civil Turbine
+ShortName Propeller_Durasteel_TurbineCivil
+Icon Icon_Durasteel_TurbineCivil
+Colour 255 255 255
+ItemID 27788
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel R Propeller_Durasteel_RotorTurbine
+ M 
+MRM
+ M 

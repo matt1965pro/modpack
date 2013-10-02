@@ -1,0 +1,12 @@
+Name Aluminium Helicopter Rotor
+ShortName Propeller_Aluminium_RotorHeli
+Icon Icon_Aluminium_RotorHeli
+Colour 255 255 255
+ItemID 27589
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium P Misc_Aluminium_PartsPlate
+ P 
+PMP
+ P 

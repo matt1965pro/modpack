@@ -1,0 +1,129 @@
+Name C-130H US Navy
+ShortName C130H
+ItemID 28410
+Icon IconC130H
+Model C130H
+Texture SkinC130H
+MaxPropellerSpeed 4.0
+TakeOffSpeed 3.5
+CameraDistance 45.0
+PropSetup 3
+PropellerPos 0 -84 54 51
+PropellerPos 1 84 54 51
+PropellerPos 2 -164 54 51
+PropellerPos 3 164 54 51
+ShootDelay 999
+BombDelay 999
+CargoSlots 64
+BombSlots 0
+Health 3000
+CollisionBoxes 71
+AddCollisionBox 0 0 46 148 0
+AddCollisionBox 1 0 46 -42 0
+AddCollisionBox 2 0 16 178 0
+AddCollisionBox 3 0 14 150 0
+AddCollisionBox 4 0 46 118 0
+AddCollisionBox 5 0 46 86 0
+AddCollisionBox 6 0 46 22 0
+AddCollisionBox 7 0 46 -10 0
+AddCollisionBox 8 0 46 54 0
+AddCollisionBox 9 0 46 -74 0
+AddCollisionBox 10 -33 46 -14 0
+AddCollisionBox 11 -33 46 -46 0
+AddCollisionBox 12 0 14 118 0
+AddCollisionBox 13 0 14 86 0
+AddCollisionBox 14 0 14 54 0
+AddCollisionBox 15 0 14 22 0
+AddCollisionBox 16 0 14 -10 0
+AddCollisionBox 17 0 14 -42 0
+AddCollisionBox 18 0 14 -74 0
+AddCollisionBox 19 -321 46 -30 1
+AddCollisionBox 20 -129 46 -14 1
+AddCollisionBox 21 -97 46 -46 1
+AddCollisionBox 22 -65 46 -46 1
+AddCollisionBox 23 -164 46 18 1
+AddCollisionBox 24 -161 46 -14 1
+AddCollisionBox 25 -193 46 -14 1
+AddCollisionBox 26 -225 46 -14 1
+AddCollisionBox 27 -289 46 -30 1
+AddCollisionBox 28 -84 46 18 1
+AddCollisionBox 29 -97 46 -14 1
+AddCollisionBox 30 -257 46 -46 1
+AddCollisionBox 31 -225 46 -46 1
+AddCollisionBox 32 -193 46 -46 1
+AddCollisionBox 33 -161 46 -46 1
+AddCollisionBox 34 -129 46 -46 1
+AddCollisionBox 35 -65 46 -14 1
+AddCollisionBox 36 -257 46 -14 1
+AddCollisionBox 37 321 46 -30 2
+AddCollisionBox 38 129 46 -14 2
+AddCollisionBox 39 97 46 -46 2
+AddCollisionBox 40 65 46 -46 2
+AddCollisionBox 41 164 46 18 2
+AddCollisionBox 42 161 46 -14 2
+AddCollisionBox 43 193 46 -14 2
+AddCollisionBox 44 225 46 -14 2
+AddCollisionBox 45 289 46 -30 2
+AddCollisionBox 46 84 46 18 2
+AddCollisionBox 47 97 46 -14 2
+AddCollisionBox 48 257 46 -46 2
+AddCollisionBox 49 225 46 -46 2
+AddCollisionBox 50 193 46 -46 2
+AddCollisionBox 51 161 46 -46 2
+AddCollisionBox 52 129 46 -46 2
+AddCollisionBox 53 65 46 -14 2
+AddCollisionBox 54 257 46 -14 2
+AddCollisionBox 55 0 14 -138 3
+AddCollisionBox 56 -96 57 -234 3
+AddCollisionBox 57 0 46 -106 3
+AddCollisionBox 58 0 46 -138 3
+AddCollisionBox 59 0 46 -170 3
+AddCollisionBox 60 0 57 -202 3
+AddCollisionBox 61 0 153 -244 3
+AddCollisionBox 62 96 57 -234 3
+AddCollisionBox 63 -64 57 -234 3
+AddCollisionBox 64 -32 57 -234 3
+AddCollisionBox 65 32 57 -234 3
+AddCollisionBox 66 64 57 -234 3
+AddCollisionBox 67 0 57 -234 3
+AddCollisionBox 68 0 89 -234 3
+AddCollisionBox 69 0 121 -242 3
+AddCollisionBox 70 0 14 -106 3
+AllowWingGuns False
+AllowNoseGuns False
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+AddGunPosition 0 0 0 45
+AddGunPosition 1 0 0 45
+BombPosition 8 -16 -80
+TurnLeftSpeed 1
+TurnRightSpeed 1
+RollLeftSpeed 1
+RollRightSpeed 1
+LookUpSpeed 1
+LookDownSpeed 1
+Acceleration 2
+Decceleration 2
+FuelTankSize 10000
+MaxHeight 256
+StartSound propStart
+StartSoundLength 20
+PropSound LancasterProp
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 10 26 151 // seite höhe Vor
+Passengers 1
+Passenger -10 17 151 0
+BigTable True
+//Recipe
+Propeller Propeller_Aluminium_RotorPlane
+Cockpit Cockpit_Aluminium_CockpitLarge
+Wings Wings_Aluminium_WingTransporter
+Bay Bay_Aluminium_BayMaterialbay
+Tail Tail_Aluminium_TailLarge
+Dyes LGrey
+HasGear True
+HasDoor True
+HasWing False

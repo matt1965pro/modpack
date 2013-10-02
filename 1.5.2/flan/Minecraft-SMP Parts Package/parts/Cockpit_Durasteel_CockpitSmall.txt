@@ -1,0 +1,12 @@
+Name Small Durasteel Cockpit
+ShortName Cockpit_Durasteel_CockpitSmall
+Icon Icon_Durasteel_CockpitSmall
+Colour 255 255 255
+ItemID 27799
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GG
+CSM
+MMM

@@ -1,0 +1,12 @@
+Name Plasteel Fighter Wings
+ShortName Wings_Plasteel_WingFighter
+Icon Icon_Plasteel_WingFighter
+Colour 255 255 255
+ItemID 27846
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel P Misc_Plasteel_PartsPlate
+  P
+ PP
+PMP

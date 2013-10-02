@@ -1,0 +1,12 @@
+Name Heavy Titan Tank Chassis
+ShortName Chassis_Titan_ChassisTankHeavy
+Icon Icon_Titan_ChassisTankHeavy
+Colour 255 255 255
+ItemID 27688
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Titan_ChassisTankLarge A Misc_Titan_PartsArmorplate
+AAA
+ACA
+AAA

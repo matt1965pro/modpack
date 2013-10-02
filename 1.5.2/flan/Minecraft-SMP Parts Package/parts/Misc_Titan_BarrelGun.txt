@@ -1,0 +1,12 @@
+Name Titan Gun Barrel
+ShortName Misc_Titan_BarrelGun
+Icon Icon_Titan_BarrelGun
+Colour 255 255 255
+ItemID 27699
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan
+M  
+ M 
+  M

@@ -1,0 +1,12 @@
+Name Large Carbon Cockpit
+ShortName Cockpit_Carbon_CockpitLarge
+Icon Icon_Carbon_CockpitLarge
+Colour 255 255 255
+ItemID 27735
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GM
+CSS
+MMM

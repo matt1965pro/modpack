@@ -1,0 +1,12 @@
+Name Medium Durasteel Car Chassis
+ShortName Chassis_Durasteel_ChassisCarMedium
+Icon Icon_Durasteel_ChassisCarMedium
+Colour 255 255 255
+ItemID 27804
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Durasteel_ChassisCarSmall
+CC 
+   
+   

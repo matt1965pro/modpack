@@ -1,0 +1,12 @@
+Name Aluminium APC Chassis
+ShortName Chassis_Aluminium_ChassisAPC
+Icon Icon_Aluminium_ChassisAPC
+Colour 255 255 255
+ItemID 27616
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium S Misc_SpecialSeat G glass A Misc_Aluminium_PartsArmorplate
+AAA
+MSM
+ M 

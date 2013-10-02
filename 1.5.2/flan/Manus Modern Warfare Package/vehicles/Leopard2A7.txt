@@ -1,0 +1,62 @@
+Name Leopard 2 A7+
+ShortName Leopard2A7
+ItemID 28341
+Icon IconLeopard2A7
+Model Leopard2A7
+Texture SkinLeopard2A7
+MaxSpeed 4.0
+ShootDelay 5
+ShellDelay 110
+CargoSlots 0
+BombSlots 5
+Health 2800
+CollisionBoxes 10
+AddCollisionBox 0 -16 6 -47 0
+AddCollisionBox 1 16 6 -47 0
+AddCollisionBox 2 -16 6 -15 0
+AddCollisionBox 3 16 6 -15 0
+AddCollisionBox 4 -16 6 17 0
+AddCollisionBox 5 16 6 17 0
+AddCollisionBox 6 -16 6 49 0
+AddCollisionBox 7 16 6 49 0
+AddCollisionBox 8 0 23 -16 4
+AddCollisionBox 9 0 23 16 4
+AllowBodyGuns True
+AllowTurretGuns False
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 1
+Decceleration 1
+FuelTankSize 2000
+StartSound lkw_start
+StartSoundLength 34
+EngineSound lkw_lauf
+EngineSoundLength 105
+ShootSound bullet
+ShellSound TankShell
+HasTurret True
+SquashMobs True
+Tank True
+Driver 0 21 0
+Passengers 0
+GunYawMin -180
+GunYawMax 180
+GunPitchMin -45
+GunPitchMax 45
+TurretYawMin -180
+TurretYawMax 180
+TurretPitchMin -5
+TurretPitchMax 40
+GunPosition 0 31 0
+BarrelPosition 0 31 0
+WheelPosition 0 -26 2 -46
+WheelPosition 1 -26 2 56
+WheelPosition 2 26 2 56
+WheelPosition 3 26 2 -46
+//Recipe
+Chassis Chassis_Titan_ChassisTankHeavy
+FrontWheels None
+BackWheels None
+Tracks Wheel_Steel_WheelTanktrack
+Turret Turret_Carbon_TurretTank
+Dyes Yellow

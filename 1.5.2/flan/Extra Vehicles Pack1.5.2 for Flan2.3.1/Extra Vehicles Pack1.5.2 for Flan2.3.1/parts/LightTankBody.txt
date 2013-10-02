@@ -1,0 +1,14 @@
+Name Light Tank Chassis
+ShortName ligthtankBody
+Icon LightTankBody
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 24207
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Chassis
+StackSize 4
+RecipeOutput 1
+Recipe I Alumi D trapdoor R redstone
+IDI
+IRI
+III

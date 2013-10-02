@@ -1,0 +1,12 @@
+Name Medium Carbon Tank Chassis
+ShortName Chassis_Carbon_ChassisTankMedium
+Icon Icon_Carbon_ChassisTankMedium
+Colour 255 255 255
+ItemID 27751
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Carbon_ChassisTankSmall A Misc_Carbon_PartsArmorplate
+AAA
+ACA
+AAA

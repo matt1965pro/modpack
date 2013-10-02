@@ -1,0 +1,65 @@
+Name Douglas A-1 Skyraider
+ShortName A-1
+ItemID 24030
+Icon A1
+Model A1
+Texture A1
+MaxPropellerSpeed 4.5
+TakeOffSpeed 3.0
+CameraDistance 14.0
+//0 - Nose propeller, 1 - Inner Wing Propellers, 2 - Outer Wing Propellers, 3 - Inner and Outer Propellers
+PropSetup 0
+//Propeller number, x, y, z. Numbering starts at 0.
+PropellerPos 0 0 0 54
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 2
+BombDelay 2
+CargoSlots 6
+BombSlots 6
+Health 300
+CollisionBoxes 4
+AddCollisionBox 0 0 30 69 0
+AddCollisionBox 1 0 30 -90 3
+AddCollisionBox 2 -106 20 40 1
+AddCollisionBox 3 106 20 40 2
+//Whether or not guns can be placed in these slots
+AllowWingGuns True
+AllowNoseGuns True
+//Next 3 are for large planes only
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+//Add positions for the pilot controlled guns. That is, nose and wing guns.
+//AddGunPosition <type> <x> <y> <Z> where type is one of the corresponding numbers
+//0 : Left Nose, 1 : Right Nose, 2 : Left Wing, 3 : Right Wing
+AddGunPosition 0 52 -16 70
+AddGunPosition 1 -50 -16 70
+AddGunPosition 2 61 -16 69
+AddGunPosition 3 -59 -16 69
+BombPosition 0 -16 69
+TurnLeftSpeed 1
+TurnRightSpeed 1
+RollLeftSpeed 3
+RollRightSpeed 3
+LookUpSpeed 2
+LookDownSpeed 2
+Acceleration 3
+Decceleration 3
+FuelTankSize 6000
+MaxHeight 256
+StartSound A1Start
+StartSoundLength 20
+PropSound A1Engine
+PropSoundLength 30
+ShootSound 50Shoot
+BombSound bomb
+Pilot 0 32 28
+Passengers 0
+//Recipe
+Propeller metalPropeller
+Cockpit AlumiCockpit
+Wings metalWingSmall
+Bay bombBay
+Tail metalTail
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes Blue

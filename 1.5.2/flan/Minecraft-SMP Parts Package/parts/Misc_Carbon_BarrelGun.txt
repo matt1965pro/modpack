@@ -1,0 +1,12 @@
+Name Carbon Gun Barrel
+ShortName Misc_Carbon_BarrelGun
+Icon Icon_Carbon_BarrelGun
+Colour 255 255 255
+ItemID 27764
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon
+M  
+ M 
+  M

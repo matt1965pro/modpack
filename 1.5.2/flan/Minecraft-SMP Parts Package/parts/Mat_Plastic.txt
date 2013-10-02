@@ -1,0 +1,12 @@
+Name Plastic Block
+ShortName Mat_Plastic
+Icon Icon_Mat_Plastic
+Colour 255 255 255
+ItemID 27505
+Category Misc
+StackSize 64
+RecipeOutput 4
+Recipe M Mat_Oil G Mat_Gummi
+GMG
+   
+   

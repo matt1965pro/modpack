@@ -1,0 +1,12 @@
+Name Titan Tank Barrel
+ShortName Misc_Titan_BarrelTank
+Icon Icon_Titan_BarrelTank
+Colour 255 255 255
+ItemID 27700
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+M  
+ MP
+  M

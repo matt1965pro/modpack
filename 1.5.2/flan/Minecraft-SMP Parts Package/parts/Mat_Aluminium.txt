@@ -1,0 +1,12 @@
+Name Aluminium Ingot
+ShortName Mat_Aluminium
+Icon Icon_Mat_Aluminium
+Colour 255 255 255
+ItemID 27501
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel S sand
+SMS
+   
+   

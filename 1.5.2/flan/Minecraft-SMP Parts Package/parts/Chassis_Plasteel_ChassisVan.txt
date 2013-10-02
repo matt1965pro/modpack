@@ -1,0 +1,12 @@
+Name Plasteel Van Chassis
+ShortName Chassis_Plasteel_ChassisVan
+Icon Icon_Plasteel_ChassisVan
+Colour 255 255 255
+ItemID 27872
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel S Misc_SpecialSeat G glass
+MMM
+GSM
+ M 

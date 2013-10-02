@@ -1,0 +1,12 @@
+Name Durasteel Truck Chassis
+ShortName Chassis_Durasteel_ChassisTruck
+Icon Icon_Durasteel_ChassisTruck
+Colour 255 255 255
+ItemID 27809
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel S Misc_SpecialSeat G glass
+MM 
+GSM
+ M 

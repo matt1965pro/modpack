@@ -1,0 +1,12 @@
+Name Steel Gun Barrel
+ShortName Misc_Steel_BarrelGun
+Icon Icon_Steel_BarrelGun
+Colour 255 255 255
+ItemID 27569
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel
+M  
+ M 
+  M

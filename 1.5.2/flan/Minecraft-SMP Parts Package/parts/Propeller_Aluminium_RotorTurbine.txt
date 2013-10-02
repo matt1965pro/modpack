@@ -1,0 +1,12 @@
+Name Aluminium Turbine Blades
+ShortName Propeller_Aluminium_RotorTurbine
+Icon Icon_Aluminium_RotorTurbine
+Colour 255 255 255
+ItemID 27591
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium P Misc_Aluminium_PartsPlate
+MPM
+PPP
+MPM

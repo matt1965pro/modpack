@@ -1,0 +1,12 @@
+Name Medium Steel Tank Chassis
+ShortName Chassis_Steel_ChassisTankMedium
+Icon Icon_Steel_ChassisTankMedium
+Colour 255 255 255
+ItemID 27556
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Steel_ChassisTankSmall A Misc_Steel_PartsArmorplate
+AAA
+ACA
+AAA

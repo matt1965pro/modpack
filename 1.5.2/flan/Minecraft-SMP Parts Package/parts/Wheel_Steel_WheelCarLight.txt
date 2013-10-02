@@ -1,0 +1,12 @@
+Name Light Steel Car Wheel
+ShortName Wheel_Steel_WheelCarLight
+Icon Icon_Steel_WheelCarLight
+Colour 255 255 255
+ItemID 27559
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe P Misc_Steel_PartsPlate G Mat_Gummi
+ G 
+GPG
+ G 

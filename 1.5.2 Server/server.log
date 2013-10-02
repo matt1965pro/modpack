@@ -22,3 +22,24 @@
 2013-10-02 20:07:05 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 7832212005506960850)
 2013-10-02 20:07:06 [INFO] Preparing spawn area: 81%
 2013-10-02 20:07:06 [INFO] Done (2.756s)! For help, type "help" or "?"
+2013-10-02 20:33:43 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 20:33:43 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 20:33:43 [INFO] MinecraftForge v
+2013-10-02 20:33:43 [INFO] 7.8.1.738
+2013-10-02 20:33:43 [INFO]  Initialized
+
+2013-10-02 20:33:43 [INFO] Replaced 85 ore recipies
+2013-10-02 20:33:45 [INFO] Loading properties
+2013-10-02 20:33:45 [INFO] Default game type: SURVIVAL
+2013-10-02 20:33:45 [INFO] Generating keypair
+2013-10-02 20:33:46 [INFO] Starting Minecraft server on *:25565
+2013-10-02 20:33:47 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 20:33:47 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 20:33:48 [INFO] Preparing level "world"
+2013-10-02 20:33:48 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 20:33:48 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 20:33:48 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 4862034629635055704)
+2013-10-02 20:33:49 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 20:33:49 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 4862034629635055704)
+2013-10-02 20:33:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 20:33:49 [INFO] Done (2.281s)! For help, type "help" or "?"

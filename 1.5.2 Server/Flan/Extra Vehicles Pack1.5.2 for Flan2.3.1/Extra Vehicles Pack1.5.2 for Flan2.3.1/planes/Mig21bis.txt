@@ -1,0 +1,61 @@
+Name Mig-21bis "Fishbed"
+ShortName Mig21
+ItemID 24033
+Icon Mig21
+Model MIG21
+Texture MIG21
+MaxPropellerSpeed 4.0
+TakeOffSpeed 2.0
+CameraDistance 15.0
+//0 - Nose propeller, 1 - Inner Wing Propellers, 2 - Outer Wing Propellers, 3 - Inner and Outer Propellers
+PropSetup 0
+//Propeller number, x, y, z. Numbering starts at 0.
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 0
+BombDelay 100
+CargoSlots 0
+BombSlots 2
+Health 300
+CollisionBoxes 4
+AddCollisionBox 0 0 24 100 0
+AddCollisionBox 1 0 24 -80 3
+AddCollisionBox 2 -50 15 -20 1
+AddCollisionBox 3 50 15 -20 2
+//Whether or not guns can be placed in these slots
+AllowWingGuns False
+AllowNoseGuns True
+//Next 3 are for large planes only
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+//Add positions for the pilot controlled guns. That is, nose and wing guns.
+//AddGunPosition <type> <x> <y> <Z> where type is one of the corresponding numbers
+//0 : Left Nose, 1 : Right Nose, 2 : Left Wing, 3 : Right Wing
+AddGunPosition 0 2 -2 32
+AddGunPosition 1 2 -2 32
+BombPosition 0 -16 -52
+TurnLeftSpeed 1
+TurnRightSpeed 1
+RollLeftSpeed 6
+RollRightSpeed 6
+LookUpSpeed 2
+LookDownSpeed 2
+Acceleration 3.0
+Decceleration 3.0
+FuelTankSize 6000
+MaxHeight 256
+StartSound PlaneA
+StartSoundLength 20
+PropSound PlaneB
+PropSoundLength 30
+ShootSound PlaneFire
+BombSound bomb
+Pilot 0 19 43
+Passengers 0
+Propeller compressor
+Cockpit AlumiCockpit
+Wings metalWingSmall
+Bay bombBay
+Tail metalTail
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes LGrey

@@ -1,0 +1,12 @@
+Name Carbon Plate
+ShortName Misc_Carbon_PartsPlate
+Icon Icon_Carbon_PartsPlate
+Colour 255 255 255
+ItemID 27513
+Category Misc
+StackSize 64
+RecipeOutput 3
+Recipe M Mat_Carbon
+   
+   
+MMM

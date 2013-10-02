@@ -1,0 +1,12 @@
+Name Plasteel Transport Aircraft Wings
+ShortName Wings_Plasteel_WingTransport
+Icon Icon_Plasteel_WingTransport
+Colour 255 255 255
+ItemID 27847
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel P Misc_Plasteel_PartsPlate
+ PP
+PMP
+PMP

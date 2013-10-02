@@ -1,0 +1,12 @@
+Name Aluminium Armorplate
+ShortName Misc_Aluminium_PartsArmorplate
+Icon Icon_Aluminium_PartsArmorplate
+Colour 255 255 255
+ItemID 27637
+Category Misc
+StackSize 64
+RecipeOutput 3
+Recipe M Mat_Aluminium P Misc_Aluminium_PartsPlate
+   
+PPP
+MMM

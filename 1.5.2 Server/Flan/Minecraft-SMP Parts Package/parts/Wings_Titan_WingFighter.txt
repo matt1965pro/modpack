@@ -1,0 +1,12 @@
+Name Titan Fighter Wings
+ShortName Wings_Titan_WingFighter
+Icon Icon_Titan_WingFighter
+Colour 255 255 255
+ItemID 27651
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+  P
+ PP
+PMP

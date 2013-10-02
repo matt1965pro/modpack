@@ -1,0 +1,12 @@
+Name Small Plasteel Tail
+ShortName Tail_Plasteel_TailSmall
+Icon Icon_Plasteel_TailSmall
+Colour 255 255 255
+ItemID 27861
+Category Tail
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel P Misc_Plasteel_PartsPlate
+  M
+MMP
+MM 

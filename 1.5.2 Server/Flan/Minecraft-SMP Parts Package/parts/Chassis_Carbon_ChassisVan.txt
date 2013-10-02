@@ -1,0 +1,12 @@
+Name Carbon Van Chassis
+ShortName Chassis_Carbon_ChassisVan
+Icon Icon_Carbon_ChassisVan
+Colour 255 255 255
+ItemID 27742
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon S Misc_SpecialSeat G glass
+MMM
+GSM
+ M 

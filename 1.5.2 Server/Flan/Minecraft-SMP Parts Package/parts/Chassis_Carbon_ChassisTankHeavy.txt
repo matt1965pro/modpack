@@ -1,0 +1,12 @@
+Name Heavy Carbon Tank Chassis
+ShortName Chassis_Carbon_ChassisTankHeavy
+Icon Icon_Carbon_ChassisTankHeavy
+Colour 255 255 255
+ItemID 27753
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Carbon_ChassisTankLarge A Misc_Carbon_PartsArmorplate
+AAA
+ACA
+AAA

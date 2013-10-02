@@ -1,0 +1,12 @@
+Name Durasteel Car Wheel
+ShortName Wheel_Durasteel_WheelCar
+Icon Icon_Durasteel_WheelCar
+Colour 255 255 255
+ItemID 27820
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel G Mat_Gummi
+ G 
+GMG
+ G 

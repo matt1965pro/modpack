@@ -1,0 +1,48 @@
+Name Humvee
+ShortName Humvee1
+ItemID 28300
+Icon IconHumvee1
+Model Humvee1
+Texture SkinHumvee
+MaxSpeed 5.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 32
+BombSlots 0
+Health 500
+CollisionBoxes 2
+AddCollisionBox 0 0 7 -17 0
+AddCollisionBox 1 0 7 16 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 2
+Decceleration 2
+FuelTankSize 1500
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+Driver -9 4 -4
+Passengers 3
+Passenger 0 9 -5 -4 0
+Passenger 1 9 -5 9 0
+Passenger 2 -9 -5 9 0
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -19 2 -33 //VL
+WheelPosition 1 -19 2 36 //HL
+WheelPosition 2 19 2 36 //HR
+WheelPosition 3 19 2 -33 //VR
+//Recipe
+Chassis Chassis_Aluminium_ChassisCarLarge
+FrontWheels Wheel_Steel_WheelCar
+BackWheels Wheel_Steel_WheelCar
+Tracks None
+Turret None
+Dyes Green

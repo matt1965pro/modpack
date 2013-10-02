@@ -1,0 +1,12 @@
+Name Titan Truck Chassis
+ShortName Chassis_Titan_ChassisTruck
+Icon Icon_Titan_ChassisTruck
+Colour 255 255 255
+ItemID 27679
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan S Misc_SpecialSeat G glass
+MM 
+GSM
+ M 

@@ -1,0 +1,12 @@
+Name Steel Tanktrack
+ShortName Wheel_Steel_WheelTanktrack
+Icon Icon_Steel_WheelTanktrack
+Colour 255 255 255
+ItemID 27564
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe T Misc_Steel_PartsTanktrack
+TTT
+T T
+TTT

@@ -1,0 +1,12 @@
+Name Durasteel Fighter Wings
+ShortName Wings_Durasteel_WingFighter
+Icon Icon_Durasteel_WingFighter
+Colour 255 255 255
+ItemID 27781
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel P Misc_Durasteel_PartsPlate
+  P
+ PP
+PMP

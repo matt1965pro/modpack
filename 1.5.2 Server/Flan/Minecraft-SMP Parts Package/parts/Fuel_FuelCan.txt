@@ -1,0 +1,15 @@
+Name Fuel Canister
+ShortName Fuel_FuelCan
+Icon Icon_FuelCan
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 27951
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Fuel
+Fuel 1000
+StackSize 8
+RecipeOutput 8
+Recipe F Fuel_FuelBarrel
+FF 
+   
+   

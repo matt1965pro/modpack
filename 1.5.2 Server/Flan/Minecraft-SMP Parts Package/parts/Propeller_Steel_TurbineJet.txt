@@ -1,0 +1,12 @@
+Name Steel Jet Turbine
+ShortName Propeller_Steel_TurbineJet
+Icon Icon_Steel_TurbineJet
+Colour 255 255 255
+ItemID 27529
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel A Misc_Steel_PartsArmorplate R Propeller_Steel_RotorTurbine
+AMA
+MRM
+AMA

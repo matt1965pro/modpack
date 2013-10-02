@@ -1,0 +1,12 @@
+Name Aluminium Truck Wheel
+ShortName Wheel_Aluminium_Wheeltruck
+Icon Icon_Aluminium_WheelTruck
+Colour 255 255 255
+ItemID 27626
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium G Mat_Gummi
+GGG
+GMG
+GGG

@@ -1,0 +1,64 @@
+Name Bell AH-1G Cobra
+ShortName AH1G
+ItemID 24037
+Icon AH1G
+Model AH1G
+Texture AH1G
+MaxPropellerSpeed 1
+TakeOffSpeed 0.0
+CameraDistance 19.0
+//0 - Nose propeller, 1 - Inner Wing Propellers, 2 - Outer Wing Propellers, 3 - Inner and Outer Propellers
+PropSetup 1
+//Propeller number, x, y, z. Numbering starts at 0.
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 1
+BombDelay 100
+CargoSlots 0
+BombSlots 0
+Health 300
+CollisionBoxes 4
+AddCollisionBox 0 0 20 -130 0
+AddCollisionBox 1 0 20 -31 0
+AddCollisionBox 2 0 20 -3 0
+AddCollisionBox 3 0 26 55 0
+//Whether or not guns can be placed in these slots
+AllowWingGuns True
+AllowNoseGuns True
+//Next 3 are for large planes only
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+//Add positions for the pilot controlled guns. That is, nose and wing guns.
+//AddGunPosition <type> <x> <y> <Z> where type is one of the corresponding numbers
+//0 : Left Nose, 1 : Right Nose, 2 : Left Wing, 3 : Right Wing
+AddGunPosition 0 -3 -3 107
+AddGunPosition 1 -3 -3 107
+AddGunPosition 2 -29 -8 28
+AddGunPosition 3 33 -8 28
+BombPosition -9 -16 -52
+TurnLeftSpeed 2
+TurnRightSpeed 2
+RollLeftSpeed 2
+RollRightSpeed 2
+LookUpSpeed 1
+LookDownSpeed 1
+Acceleration 9
+Decceleration 3
+FuelTankSize 6000
+MaxHeight 256
+StartSound helo
+StartSoundLength 20
+PropSound helo
+PropSoundLength 30
+ShootSound PlaneFire
+BombSound bomb
+Pilot 0 14 42
+Passengers 1
+Passenger 0 0 0 67 0
+Propeller TitanRotor
+Cockpit AlumiCockpit
+Wings metalWingSmall
+Bay bombBay
+Tail metalTail
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes Lime

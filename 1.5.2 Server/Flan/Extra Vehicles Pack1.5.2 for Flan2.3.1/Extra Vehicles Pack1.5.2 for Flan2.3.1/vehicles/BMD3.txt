@@ -1,0 +1,88 @@
+Name BMD-3 Bakhcha
+ShortName BMD3
+ItemID 24501
+Icon BMD3
+Model BMD3
+Texture BMD3
+MaxSpeed 8.0
+CameraDistance 10.0
+//Delays are in ticks or 1/20ths of seconds
+ShootDelay 2
+ShellDelay 5
+CargoSlots 10
+//Actually shell slots
+BombSlots 3
+Health 3600
+CollisionBoxes 23
+AddCollisionBox 0 -23 -5 -40 0
+AddCollisionBox 1 -13 -5 -40 0
+AddCollisionBox 2 -3 -5 -40 0
+AddCollisionBox 3 -23 -5 40 0
+AddCollisionBox 4 -13 -5 40 0
+AddCollisionBox 5 -3 -5 40 0
+AddCollisionBox 6 23 -5 40 0
+AddCollisionBox 7 13 -5 40 0
+AddCollisionBox 8 3 -5 40 0
+AddCollisionBox 9 23 -5 -40 0
+AddCollisionBox 10 13 -5 -40 0
+AddCollisionBox 11 3 -5 -40 0
+AddCollisionBox 12 0 26 0 4
+AddCollisionBox 13 -23 -5 0 0
+AddCollisionBox 14 -23 -5 -30 4
+AddCollisionBox 15 -23 -5 -15 4
+AddCollisionBox 16 -23 -5 15 4
+AddCollisionBox 17 -23 -5 30 4
+AddCollisionBox 18 23 -5 0 0
+AddCollisionBox 19 23 -5 -30 4
+AddCollisionBox 20 23 -5 -15 4
+AddCollisionBox 21 23 -5 15 4
+AddCollisionBox 22 23 -5 30 4
+//Whether or not guns can be placed in these slots
+//Body is for the driver, turret is for a designated gunner
+AllowBodyGuns False
+AllowTurretGuns True
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 4
+Decceleration 15
+FuelTankSize 1000
+StartSound BMDengine
+StartSoundLength 20
+EngineSound BMDengine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound BMDFire
+HasTurret True
+SquashMobs True
+Tank True
+Driver 0 16 -10
+Passengers 2
+Passenger 0 0 7 30 0
+Passenger 0 0 7 35 0
+GunYawMin -180
+GunYawMax 180
+GunPitchMin -5
+GunPitchMax 50
+GunPosition 0 23 -10
+//For the tank turret
+TurretYawMin -180
+TurretYawMax 180
+TurretPitchMin -5
+TurretPitchMax 50
+GunPosition 0 23 -10
+BarrelPosition 0 23 -10
+//Wheel positions for collision handling. Tanks still have 4 wheels, they are just the corner ones.
+WheelPosition 0 -23 -8 -55
+WheelPosition 1 -23 -8 40
+WheelPosition 2 23 -8 40
+WheelPosition 3 23 -8 -55
+
+
+//Recipe
+FrontWheels None
+BackWheels None
+Tracks catTrack
+Chassis ligthtankBody
+Turret tankTurret
+//Dyes are None, Black, Red, Green, Brown, Blue, Purple, Cyan, LGrey, Grey, Pink, Lime, Yellow, LBlue, Magenta, Orange, White
+Dyes Green

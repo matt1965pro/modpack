@@ -1,0 +1,12 @@
+Name Small Carbon Car Chassis
+ShortName Chassis_Carbon_ChassisCarSmall
+Icon Icon_Carbon_ChassisCarSmall
+Colour 255 255 255
+ItemID 27738
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon S Misc_SpecialSeat G glass
+ G 
+MSM
+ M 

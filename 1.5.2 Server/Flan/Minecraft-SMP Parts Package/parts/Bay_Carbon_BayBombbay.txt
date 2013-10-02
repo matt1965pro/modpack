@@ -1,0 +1,12 @@
+Name Carbon Bomb Bay
+ShortName Bay_Carbon_BayBombbay
+Icon Icon_Carbon_BayBombbay
+Colour 255 255 255
+ItemID 27727
+Category Bay
+StackSize 64
+RecipeOutput 1
+Recipe D Misc_Carbon_PartsDropMechanism P Misc_Carbon_PartsPlate
+PPP
+ D 
+PPP

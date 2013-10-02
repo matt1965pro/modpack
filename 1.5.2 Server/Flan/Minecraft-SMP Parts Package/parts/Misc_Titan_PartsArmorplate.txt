@@ -1,0 +1,12 @@
+Name Titan Armorplate
+ShortName Misc_Titan_PartsArmorplate
+Icon Icon_Titan_PartsArmorplate
+Colour 255 255 255
+ItemID 27702
+Category Misc
+StackSize 64
+RecipeOutput 3
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+   
+PPP
+MMM

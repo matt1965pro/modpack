@@ -1,0 +1,12 @@
+Name Plasteel Drop Mechanism
+ShortName Misc_Plasteel_PartsDropMechanism
+Icon Icon_Plasteel_PartsDropMechanism
+Colour 255 255 255
+ItemID 27898
+Category Misc
+StackSize 4
+RecipeOutput 1
+Recipe M Mat_Plasteel P Misc_Plasteel_PartsPlate D Misc_Plasteel_PartsMechanical
+ M 
+ D 
+P P

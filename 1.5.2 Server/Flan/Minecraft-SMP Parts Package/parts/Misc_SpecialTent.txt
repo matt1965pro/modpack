@@ -1,0 +1,12 @@
+Name Tent
+ShortName Misc_SpecialTent
+Icon Icon_SpecialTent
+Colour 255 255 255
+ItemID 27921
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe L leaves S stick
+LLL
+S S
+S S

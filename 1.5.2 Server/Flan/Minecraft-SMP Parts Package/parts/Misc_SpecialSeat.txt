@@ -1,0 +1,12 @@
+Name Seat
+ShortName Misc_SpecialSeat
+Icon Icon_SpecialSeat
+Colour 255 255 255
+ItemID 27920
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe L leather M Mat_Gummi
+ L 
+ L 
+MM 

@@ -1,0 +1,12 @@
+Name Large Titan Plane Wings
+ShortName Wings_Titan_WingLargePlane
+Icon Icon_Titan_WingLargePlane
+Colour 255 255 255
+ItemID 27650
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+ PP
+ PP
+PMP

@@ -1,0 +1,12 @@
+Name Small Steel Car Chassis
+ShortName Chassis_Steel_ChassisCarSmall
+Icon Icon_Steel_ChassisCarSmall
+Colour 255 255 255
+ItemID 27543
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel S Misc_SpecialSeat G glass
+ G 
+MSM
+ M 

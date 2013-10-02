@@ -1,0 +1,12 @@
+Name Heavy Aluminium Tank Chassis
+ShortName Chassis_Aluminium_ChassisTankHeavy
+Icon Icon_Aluminium_ChassisTankHeavy
+Colour 255 255 255
+ItemID 27623
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe C Chassis_Aluminium_ChassisTankLarge A Misc_Aluminium_PartsArmorplate
+AAA
+ACA
+AAA

@@ -1,0 +1,12 @@
+Name Plasteel Truck Chassis
+ShortName Chassis_Plasteel_ChassisTruck
+Icon Icon_Plasteel_ChassisTruck
+Colour 255 255 255
+ItemID 27874
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel S Misc_SpecialSeat G glass
+MM 
+GSM
+ M 

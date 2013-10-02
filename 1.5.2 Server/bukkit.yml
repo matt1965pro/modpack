@@ -102,6 +102,8 @@ mcpc:
     Mekanism: INFO
     MekanismGenerators: INFO
     MekanismTools: INFO
+    BetterOreDistribution: INFO
+    fml-ItemTracker: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650

@@ -1,0 +1,12 @@
+Name Large Plasteel Tail
+ShortName Tail_Plasteel_TailLarge
+Icon Icon_Plasteel_TailLarge
+Colour 255 255 255
+ItemID 27862
+Category Tail
+StackSize 64
+RecipeOutput 1
+Recipe T Tail_Plasteel_TailSmall
+TT 
+   
+   

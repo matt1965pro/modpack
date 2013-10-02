@@ -1,0 +1,12 @@
+Name Large Carbon Plane Wings
+ShortName Wings_Carbon_WingLargePlane
+Icon Icon_Carbon_WingLargePlane
+Colour 255 255 255
+ItemID 27715
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon P Misc_Carbon_PartsPlate
+ PP
+ PP
+PMP

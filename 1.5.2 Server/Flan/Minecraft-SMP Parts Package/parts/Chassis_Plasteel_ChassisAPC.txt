@@ -1,0 +1,12 @@
+Name Plasteel APC Chassis
+ShortName Chassis_Plasteel_ChassisAPC
+Icon Icon_Plasteel_ChassisAPC
+Colour 255 255 255
+ItemID 27876
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel S Misc_SpecialSeat G glass A Misc_Plasteel_PartsArmorplate
+AAA
+MSM
+ M 

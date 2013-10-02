@@ -1,0 +1,12 @@
+Name Small Titan Tank Chassis
+ShortName Chassis_Titan_ChassisTankSmall
+Icon Icon_Titan_ChassisTankSmall
+Colour 255 255 255
+ItemID 27685
+Category Chassis
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan S Misc_SpecialSeat A Misc_Titan_PartsArmorplate
+AAA
+ASA
+ M 

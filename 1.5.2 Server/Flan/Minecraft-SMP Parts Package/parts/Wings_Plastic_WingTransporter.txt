@@ -1,0 +1,12 @@
+Name Plastic Transport Aircraft Wings
+ShortName Wings_Plastic_WingTransport
+Icon Icon_Plastic_WingTransport
+Colour 255 255 255
+ItemID 27962
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plastic P Misc_Plastic_PartsPlate
+ PP
+PMP
+PMP

@@ -1,0 +1,12 @@
+Name Steel Tank Turret
+ShortName Turret_Steel_TurretTank
+Icon Icon_Steel_TurretTank
+Colour 255 255 255
+ItemID 27566
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Steel A Misc_Steel_PartsArmorplate G Misc_Steel_BarrelTank
+ A 
+GAA
+MMM

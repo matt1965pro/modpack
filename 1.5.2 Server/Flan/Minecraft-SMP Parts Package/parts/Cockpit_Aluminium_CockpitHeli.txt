@@ -1,0 +1,12 @@
+Name Aluminium Helicopter Cockpit
+ShortName Cockpit_Aluminium_CockpitHeli
+Icon Icon_Aluminium_CockpitHeli
+Colour 255 255 255
+ItemID 27606
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GG
+CSS
+MMM

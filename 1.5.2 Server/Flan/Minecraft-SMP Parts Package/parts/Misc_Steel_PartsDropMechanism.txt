@@ -1,0 +1,12 @@
+Name Steel Drop Mechanism
+ShortName Misc_Steel_PartsDropMechanism
+Icon Icon_Steel_PartsDropMechanism
+Colour 255 255 255
+ItemID 27573
+Category Misc
+StackSize 4
+RecipeOutput 1
+Recipe M Mat_Steel P Misc_Steel_PartsPlate D Misc_Steel_PartsMechanical
+ M 
+ D 
+P P

@@ -1,0 +1,12 @@
+Name Small Aluminium Cockpit
+ShortName Cockpit_Aluminium_CockpitSmall
+Icon Icon_Aluminium_CockpitSmall
+Colour 255 255 255
+ItemID 27604
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GG
+CSM
+MMM

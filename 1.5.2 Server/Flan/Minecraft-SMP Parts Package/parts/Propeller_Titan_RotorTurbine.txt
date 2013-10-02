@@ -1,0 +1,12 @@
+Name Titan Turbine Blades
+ShortName Propeller_Titan_RotorTurbine
+Icon Icon_Titan_RotorTurbine
+Colour 255 255 255
+ItemID 27656
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan P Misc_Titan_PartsPlate
+MPM
+PPP
+MPM

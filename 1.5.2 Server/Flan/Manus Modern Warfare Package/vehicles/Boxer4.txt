@@ -1,0 +1,71 @@
+Name GTK Boxer with 20 MM Gun
+ShortName Boxer4
+ItemID 28323
+Icon IconBoxer4
+Model Boxer4
+Texture SkinBoxer
+MaxSpeed 4.0
+CameraDistance 15.0
+ShootDelay 5
+ShellDelay 30
+CargoSlots 32
+BombSlots 5
+Health 900
+CollisionBoxes 9
+AddCollisionBox 0 -16 14 -58 0
+AddCollisionBox 1 16 14 -58 0
+AddCollisionBox 2 -16 14 -26 0
+AddCollisionBox 3 16 14 -26 0
+AddCollisionBox 4 -16 14 6 0
+AddCollisionBox 5 16 14 6 0
+AddCollisionBox 6 -16 14 38 0
+AddCollisionBox 7 16 14 38 0
+AddCollisionBox 8 0 30 0 4
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 1
+Decceleration 1
+FuelTankSize 2000
+StartSound lkw_start
+StartSoundLength 34
+EngineSound lkw_lauf
+EngineSoundLength 105
+ShootSound bullet
+ShellSound TankShell
+HasTurret True
+SquashMobs True
+Tank True
+Driver 0 34 0
+Passengers 8
+Passenger 0 -9 -2 -38 0
+Passenger 1 9 2 -38 0
+Passenger 2 -8 1 14 0
+Passenger 3 8 1 14 0
+Passenger 4 -8 1 29 0
+Passenger 5 8 1 29 0
+Passenger 6 -8 1 44 0
+Passenger 7 8 1 44 0
+GunYawMin -180
+GunYawMax 180
+GunPitchMin -45
+GunPitchMax 45
+TurretYawMin -180
+TurretYawMax 180
+TurretPitchMin -5
+TurretPitchMax 40
+GunPosition 0 44 0
+BarrelPosition 0 44 0
+WheelPosition 0 -24 1 -50
+WheelPosition 1 -24 1 37
+WheelPosition 2 24 1 37
+WheelPosition 3 24 1 -50
+//Recipe
+Chassis Chassis_Titan_ChassisAPC
+FrontWheels Wheel_Titan_WheelAPC
+BackWheels Wheel_Titan_WheelAPC
+Tracks None
+Turret Turret_Titan_TurretTank
+Dyes Green
+HasDoor True

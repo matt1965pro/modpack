@@ -1,0 +1,15 @@
+Name Fuel Drum
+ShortName fuelDrum
+Icon FuelDrum
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 24208
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Fuel
+Fuel 2500
+StackSize 8
+RecipeOutput 1
+Recipe F bucketOil I iron
+ I 
+ F 
+ F 

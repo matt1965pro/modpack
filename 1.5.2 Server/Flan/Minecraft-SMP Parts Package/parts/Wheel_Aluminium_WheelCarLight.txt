@@ -1,0 +1,12 @@
+Name Light Aluminium Car Wheel
+ShortName Wheel_Aluminium_WheelCarLight
+Icon Icon_Aluminium_WheelCarLight
+Colour 255 255 255
+ItemID 27624
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe P Misc_Aluminium_PartsPlate G Mat_Gummi
+ G 
+GPG
+ G 

@@ -1,0 +1,12 @@
+Name Carbon Artillary Turret
+ShortName Turret_Carbon_TurretArtillary
+Icon Icon_Carbon_TurretArt
+Colour 255 255 255
+ItemID 27763
+Category Turret
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Carbon A Misc_Carbon_PartsArmorplate G Misc_Carbon_BarrelGun
+GA 
+AAA
+MMM

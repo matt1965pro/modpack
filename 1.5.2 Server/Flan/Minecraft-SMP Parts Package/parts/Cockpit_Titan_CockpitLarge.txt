@@ -1,0 +1,12 @@
+Name Large Titan Cockpit
+ShortName Cockpit_Titan_CockpitLarge
+Icon Icon_Titan_CockpitLarge
+Colour 255 255 255
+ItemID 27670
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Titan S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GM
+CSS
+MMM

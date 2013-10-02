@@ -1,0 +1,12 @@
+Name Durasteel APC Wheel
+ShortName Wheel_Durasteel_WheelAPC
+Icon Icon_Durasteel_WheelAPC
+Colour 255 255 255
+ItemID 27822
+Category Wheel
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Durasteel G Mat_Gummi
+GMG
+MMM
+GMG

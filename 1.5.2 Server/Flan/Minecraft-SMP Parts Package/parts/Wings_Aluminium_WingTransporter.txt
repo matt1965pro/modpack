@@ -1,0 +1,12 @@
+Name Aluminium Transport Aircraft Wings
+ShortName Wings_Aluminium_WingTransport
+Icon Icon_Aluminium_WingTransport
+Colour 255 255 255
+ItemID 27587
+Category Wing
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium P Misc_Aluminium_PartsPlate
+ PP
+PMP
+PMP

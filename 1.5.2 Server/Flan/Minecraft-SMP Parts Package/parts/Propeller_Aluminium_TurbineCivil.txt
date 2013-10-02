@@ -1,0 +1,12 @@
+Name Aluminium Civil Turbine
+ShortName Propeller_Aluminium_TurbineCivil
+Icon Icon_Aluminium_TurbineCivil
+Colour 255 255 255
+ItemID 27593
+Category Propeller
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Aluminium R Propeller_Aluminium_RotorTurbine
+ M 
+MRM
+ M 

@@ -1,0 +1,12 @@
+Name Small Plasteel Cockpit
+ShortName Cockpit_Plasteel_CockpitSmall
+Icon Icon_Plasteel_CockpitSmall
+Colour 255 255 255
+ItemID 27864
+Category Cockpit
+StackSize 64
+RecipeOutput 1
+Recipe M Mat_Plasteel S Misc_SpecialSeat G glass C Misc_SpecialComputer
+ GG
+CSM
+MMM

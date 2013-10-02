@@ -1,0 +1,12 @@
+Name Durasteel Plate
+ShortName Misc_Durasteel_PartsPlate
+Icon Icon_Durasteel_PartsPlate
+Colour 255 255 255
+ItemID 27514
+Category Misc
+StackSize 64
+RecipeOutput 3
+Recipe M Mat_Durasteel
+   
+   
+MMM

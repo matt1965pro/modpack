@@ -1,0 +1,49 @@
+2013-10-02 20:02:23 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2013-10-02 20:02:23 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_40, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+2013-10-02 20:02:23 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.5.2-R1.1-forge738-B644.jar
+2013-10-02 20:02:23 [FINE] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_25\bin;.
+2013-10-02 20:02:23 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-10-02 20:02:23 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] There was a problem downloading the file scala-library.jar automatically. Perhaps you have an environment without internet access. You will need to download the file manually or restart and let it try again
+
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] There were errors during initial FML setup. Some files failed to download or were otherwise corrupted. You will need to manually obtain the following files from these download links and ensure your lib directory is clean. 
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/scala-library.jar
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] <===========>
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] The following is the errors that caused the setup to fail. They may help you diagnose and resolve the issue
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] A download error occured
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] <<< ==== >>>
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] The following is diagnostic information for developers to review.
+2013-10-02 20:02:24 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: A download error occured
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:549)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:166)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchServer(FMLRelauncher.java:147)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleServerRelaunch(FMLRelauncher.java:45)
+	at net.minecraft.server.MinecraftServer.main(MinecraftServer.java:1666)
+	at org.bukkit.craftbukkit.Main.main(Main.java:22)
+Caused by: java.io.FileNotFoundException: http://files.minecraftforge.net/fmllibs/scala-library.jar
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:533)
+	... 6 more
+Caused by: java.io.FileNotFoundException: http://files.minecraftforge.net/fmllibs/scala-library.jar
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source)
+	at java.net.URLConnection.getHeaderFieldLong(Unknown Source)
+	at java.net.URLConnection.getContentLengthLong(Unknown Source)
+	at java.net.URLConnection.getContentLength(Unknown Source)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	... 6 more

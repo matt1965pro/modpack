@@ -43,3 +43,35 @@
 2013-10-02 20:33:49 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 4862034629635055704)
 2013-10-02 20:33:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
 2013-10-02 20:33:49 [INFO] Done (2.281s)! For help, type "help" or "?"
+2013-10-02 20:54:01 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 20:54:01 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 20:54:01 [INFO] MinecraftForge v
+2013-10-02 20:54:01 [INFO] 7.8.1.738
+2013-10-02 20:54:01 [INFO]  Initialized
+
+2013-10-02 20:54:01 [INFO] Replaced 85 ore recipies
+2013-10-02 20:54:04 [INFO] Loading properties
+2013-10-02 20:54:04 [INFO] Default game type: SURVIVAL
+2013-10-02 20:54:04 [INFO] Generating keypair
+2013-10-02 20:54:05 [INFO] Starting Minecraft server on *:25565
+2013-10-02 20:54:06 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 20:54:06 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 20:54:06 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 20:54:08 [INFO] Preparing level "world"
+2013-10-02 20:54:08 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 20:54:08 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 20:54:09 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 20:54:09 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 20:54:09 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 20:54:09 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 20:54:10 [INFO] Done (2.247s)! For help, type "help" or "?"
+2013-10-02 20:54:13 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 20:54:13 [INFO] Stopping server
+2013-10-02 20:54:13 [WARNING] DSCT: socket closed
+2013-10-02 20:54:13 [INFO] Closing listening thread
+2013-10-02 20:54:13 [INFO] Saving players
+2013-10-02 20:54:13 [INFO] Saving worlds
+2013-10-02 20:54:13 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 20:54:13 [INFO] Saving chunks for level 'DIM1'/The End
+2013-10-02 20:54:13 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 20:54:13 [INFO] Stopping server

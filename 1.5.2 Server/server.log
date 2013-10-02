@@ -75,3 +75,493 @@
 2013-10-02 20:54:13 [INFO] Saving chunks for level 'DIM1'/The End
 2013-10-02 20:54:13 [INFO] Saving chunks for level 'DIM-1'/Nether
 2013-10-02 20:54:13 [INFO] Stopping server
+2013-10-02 20:58:14 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 20:58:14 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 20:58:14 [INFO] MinecraftForge v
+2013-10-02 20:58:14 [INFO] 7.8.1.738
+2013-10-02 20:58:14 [INFO]  Initialized
+
+2013-10-02 20:58:14 [INFO] Replaced 85 ore recipies
+2013-10-02 20:58:18 [SEVERE] Could not dispatch event: cpw.mods.fml.common.event.FMLConstructionEvent@600ea16c to handler [wrapper public void cpw.mods.fml.common.FMLModContainer.constructMod(cpw.mods.fml.common.event.FMLConstructionEvent)]
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Caused by: java.lang.TypeNotPresentException: Type codechicken.core.packet.PacketCustom$CustomTinyPacketHandler not present
+	at sun.reflect.annotation.TypeNotPresentExceptionProxy.generateException(Unknown Source)
+	at sun.reflect.annotation.AnnotationInvocationHandler.invoke(Unknown Source)
+	at com.sun.proxy.$Proxy7.tinyPacketHandler(Unknown Source)
+	at cpw.mods.fml.common.network.NetworkModHandler.configureNetworkMod(NetworkModHandler.java:159)
+	at cpw.mods.fml.common.network.NetworkModHandler.<init>(NetworkModHandler.java:99)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.registerNetworkMod(FMLNetworkHandler.java:265)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:465)
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$CustomTinyPacketHandler
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(Unknown Source)
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Unknown Source)
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseSig(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseClassValue(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseMemberValue(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotation(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations2(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations(Unknown Source)
+	at java.lang.Class.initAnnotationsIfNecessary(Unknown Source)
+	at java.lang.Class.getAnnotation(Unknown Source)
+	at cpw.mods.fml.common.network.NetworkModHandler.<init>(NetworkModHandler.java:67)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+	... 45 more
+2013-10-02 20:58:18 [SEVERE] java.lang.NoClassDefFoundError: codechicken/core/packet/PacketCustom$ICustomPacketHandler
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.Class.forName0(Native Method)
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.Class.forName(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:425)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 20:58:18 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2013-10-02 20:58:18 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+2013-10-02 20:58:18 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 20:58:18 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 20:58:18 [SEVERE] Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$ICustomPacketHandler
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2013-10-02 20:58:18 [SEVERE] 	... 30 more
+2013-10-02 20:58:18 [SEVERE] Caused by: java.lang.NullPointerException
+2013-10-02 20:58:18 [SEVERE] 	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+2013-10-02 20:58:18 [SEVERE] 	... 32 more
+2013-10-02 20:58:18 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: codechicken/core/packet/PacketCustom$ICustomPacketHandler
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:425)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$ICustomPacketHandler
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+	... 32 more
+2013-10-02 20:58:18 [SEVERE] This crash report has been saved to: C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\.\crash-reports\crash-2013-10-02_20.58.18-server.txt
+2013-10-02 20:59:18 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 20:59:18 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 20:59:18 [INFO] MinecraftForge v
+2013-10-02 20:59:18 [INFO] 7.8.1.738
+2013-10-02 20:59:18 [INFO]  Initialized
+
+2013-10-02 20:59:18 [INFO] Replaced 85 ore recipies
+2013-10-02 20:59:21 [INFO] Loading properties
+2013-10-02 20:59:21 [INFO] Default game type: SURVIVAL
+2013-10-02 20:59:21 [INFO] Generating keypair
+2013-10-02 20:59:22 [INFO] Starting Minecraft server on *:25565
+2013-10-02 20:59:23 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 20:59:23 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 20:59:24 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 20:59:26 [INFO] Preparing level "world"
+2013-10-02 20:59:26 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 20:59:26 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 20:59:27 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 20:59:27 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 20:59:27 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 20:59:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 20:59:28 [INFO] Done (2.136s)! For help, type "help" or "?"
+2013-10-02 21:00:25 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:00:25 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:00:25 [INFO] MinecraftForge v
+2013-10-02 21:00:25 [INFO] 7.8.1.738
+2013-10-02 21:00:25 [INFO]  Initialized
+
+2013-10-02 21:00:25 [INFO] Replaced 85 ore recipies
+2013-10-02 21:00:28 [SEVERE] Could not dispatch event: cpw.mods.fml.common.event.FMLConstructionEvent@1c094d3c to handler [wrapper public void cpw.mods.fml.common.FMLModContainer.constructMod(cpw.mods.fml.common.event.FMLConstructionEvent)]
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Caused by: java.lang.TypeNotPresentException: Type codechicken.core.packet.PacketCustom$CustomTinyPacketHandler not present
+	at sun.reflect.annotation.TypeNotPresentExceptionProxy.generateException(Unknown Source)
+	at sun.reflect.annotation.AnnotationInvocationHandler.invoke(Unknown Source)
+	at com.sun.proxy.$Proxy7.tinyPacketHandler(Unknown Source)
+	at cpw.mods.fml.common.network.NetworkModHandler.configureNetworkMod(NetworkModHandler.java:159)
+	at cpw.mods.fml.common.network.NetworkModHandler.<init>(NetworkModHandler.java:99)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.registerNetworkMod(FMLNetworkHandler.java:265)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:465)
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$CustomTinyPacketHandler
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(Unknown Source)
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Unknown Source)
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseSig(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseClassValue(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseMemberValue(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotation(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations2(Unknown Source)
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations(Unknown Source)
+	at java.lang.Class.initAnnotationsIfNecessary(Unknown Source)
+	at java.lang.Class.getAnnotation(Unknown Source)
+	at cpw.mods.fml.common.network.NetworkModHandler.<init>(NetworkModHandler.java:67)
+	... 29 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+	... 45 more
+2013-10-02 21:00:28 [SEVERE] java.lang.NoClassDefFoundError: codechicken/core/packet/PacketCustom$ICustomPacketHandler
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.Class.forName0(Native Method)
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.Class.forName(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:425)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+2013-10-02 21:00:28 [SEVERE] 	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+2013-10-02 21:00:28 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+2013-10-02 21:00:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 21:00:28 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 21:00:28 [SEVERE] Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$ICustomPacketHandler
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+2013-10-02 21:00:28 [SEVERE] 	... 30 more
+2013-10-02 21:00:28 [SEVERE] Caused by: java.lang.NullPointerException
+2013-10-02 21:00:28 [SEVERE] 	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+2013-10-02 21:00:28 [SEVERE] 	... 32 more
+2013-10-02 21:00:28 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: codechicken/core/packet/PacketCustom$ICustomPacketHandler
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:425)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$ICustomPacketHandler
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+	... 32 more
+2013-10-02 21:00:28 [SEVERE] This crash report has been saved to: C:\Users\Aaron\Documents\GitHub\modpack\1.5.2 Server\.\crash-reports\crash-2013-10-02_21.00.28-server.txt
+2013-10-02 21:01:09 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:01:09 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:01:09 [INFO] MinecraftForge v
+2013-10-02 21:01:09 [INFO] 7.8.1.738
+2013-10-02 21:01:09 [INFO]  Initialized
+
+2013-10-02 21:01:09 [INFO] Replaced 85 ore recipies
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stone
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.wood
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.log
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.glass
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.brick
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.ice
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.snow
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.clay
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.grass
+2013-10-02 21:01:17 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:01:17 [INFO] Loading properties
+2013-10-02 21:01:17 [INFO] Default game type: SURVIVAL
+2013-10-02 21:01:17 [INFO] Generating keypair
+2013-10-02 21:01:18 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:01:19 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:01:19 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:01:19 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:01:20 [INFO] Preparing level "world"
+2013-10-02 21:01:20 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:01:20 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:01:21 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:01:21 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:01:21 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:01:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:01:22 [INFO] Done (1.880s)! For help, type "help" or "?"
+2013-10-02 21:02:23 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:02:23 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:02:23 [INFO] MinecraftForge v
+2013-10-02 21:02:23 [INFO] 7.8.1.738
+2013-10-02 21:02:23 [INFO]  Initialized
+
+2013-10-02 21:02:24 [INFO] Replaced 85 ore recipies
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stone
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.wood
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.log
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.glass
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.brick
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.ice
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.snow
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.clay
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.grass
+2013-10-02 21:02:31 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:02:31 [INFO] Loading properties
+2013-10-02 21:02:31 [INFO] Default game type: SURVIVAL
+2013-10-02 21:02:31 [INFO] Generating keypair
+2013-10-02 21:02:32 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:02:33 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:02:34 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:02:34 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:02:35 [INFO] Preparing level "world"
+2013-10-02 21:02:35 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:02:35 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:02:36 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:02:36 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:02:36 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:02:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:02:37 [INFO] Done (2.077s)! For help, type "help" or "?"
+2013-10-02 21:02:51 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 21:02:51 [INFO] Stopping server
+2013-10-02 21:02:51 [INFO] Saving players
+2013-10-02 21:02:51 [INFO] Saving worlds
+2013-10-02 21:02:51 [WARNING] DSCT: socket closed
+2013-10-02 21:02:51 [INFO] Closing listening thread
+2013-10-02 21:02:51 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 21:02:51 [INFO] Saving chunks for level 'DIM-1'/Nether

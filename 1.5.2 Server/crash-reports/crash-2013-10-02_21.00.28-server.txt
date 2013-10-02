@@ -1,0 +1,86 @@
+---- Minecraft Crash Report ----
+// I'm sorry, Dave.
+
+Time: 2/10/13 9:00 PM
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: codechicken/core/packet/PacketCustom$ICustomPacketHandler
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:425)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:192)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:103)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:504)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:85)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:94)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.packet.PacketCustom$ICustomPacketHandler
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:273)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:262)
+	... 32 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_40, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 80927384 bytes (77 MB) / 129761280 bytes (123 MB) up to 519438336 bytes (495 MB)
+	JVM Flags: 2 total; -Xincgc -Xmx512m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException
+	at org.bukkit.Bukkit.getName(Bukkit.java:72)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftCrashReport.call(CraftCrashReport.java:19)
+	at net.minecraft.crash.CrashReportCategory.func_71500_a(CrashReportCategory.java:106)
+	at net.minecraft.crash.CrashReport.func_71504_g(CrashReport.java:59)
+	at net.minecraft.crash.CrashReport.<init>(CrashReport.java:41)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:644)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+
+	FML: MCP v7.51 FML v5.2.23.738 Minecraft Forge 7.8.1.738 9 mods loaded, 9 mods active
+	mcp{7.51} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{5.2.23.738} [Forge Mod Loader] (coremods) Unloaded->Constructed
+	Forge{7.8.1.738} [Minecraft Forge] (coremods) Unloaded->Constructed
+	bau5_ProjectBench{1.7.4} [Project Bench] ([1.5.2]ProjectBench-v1.7.5.zip) Unloaded->Constructed
+	CCMultipart{1.0.0.149} [Forge Multipart] (ForgeMultipart-universal-1.5.2-1.0.0.149.jar) Unloaded->Errored
+	CCMicroblock{1.0.0.149} [Forge Microblocks] (ForgeMultipart-universal-1.5.2-1.0.0.149.jar) Unloaded->Errored
+	McMultipart{1.0.0.149} [Minecraft Multipart Plugin] (ForgeMultipart-universal-1.5.2-1.0.0.149.jar) Unloaded
+	IronChest{5.2.8.447} [Iron Chest] (ironchest-universal-1.5.2-5.2.8.447.zip) Unloaded
+	mmmPowersuits{0.7.0-534} [MachineMuse's Modular Powersuits] (ModularPowersuits-0.7.0-534.jar) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'mcpc,craftbukkit,fml,forge'
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,300 @@
+2013-10-02 14:37:12 [INFO] [ForgeModLoader] Forge Mod Loader version 6.2.62.871 for Minecraft 1.6.2 loading
+2013-10-02 14:37:12 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_40, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.6.2-R1.1-forge871-B82.jar
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Java\jdk1.7.0_25\bin;.
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Loaded coremod FMLCorePlugin
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Loaded coremod FMLForgePlugin
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Discovering coremods
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenLib-universal-1.6.2-1.0.0.24.jar
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Examining for coremod candidacy ForgeMultipart-universal-1.6.2-1.0.0.151.jar
+2013-10-02 14:37:12 [FINEST] [ForgeModLoader] Found FMLCorePluginContainsFMLMod marker in ForgeMultipart-universal-1.6.2-1.0.0.151.jar, it will be examined later for regular @Mod instances
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Instantiating coremod class DepLoader
+2013-10-02 14:37:12 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Loaded coremod DepLoader
+2013-10-02 14:37:12 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2013-10-02 14:37:12 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2013-10-02 14:37:12 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2013-10-02 14:37:12 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Running coremod plugins
+2013-10-02 14:37:12 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-10-02 14:37:13 [FINE] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-10-02 14:37:13 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-10-02 14:37:13 [FINE] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-10-02 14:37:13 [FINE] [ForgeModLoader] Running coremod plugin DepLoader
+2013-10-02 14:37:14 [FINE] [ForgeModLoader] Coremod plugin DepLoader run successfully
+2013-10-02 14:37:14 [FINE] [ForgeModLoader] Validating minecraft
+2013-10-02 14:37:14 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2013-10-02 14:37:17 [INFO] [ForgeModLoader] Launching wrapped minecraft
+2013-10-02 14:37:20 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-10-02 14:37:20 [INFO] [ForgeModLoader] MinecraftForge v9.10.1.871 Initialized
+2013-10-02 14:37:20 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-10-02 14:37:20 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\Aaron\Desktop\server\config\logging.properties
+2013-10-02 14:37:20 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-10-02 14:37:20 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2013-10-02 14:37:20 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-10-02 14:37:20 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Aaron\Desktop\server\mcpc-plus-1.6.2-R1.1-forge871-B82.jar, examining for mod candidates
+2013-10-02 14:37:21 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Aaron\Desktop\server\mods\1.6.2\ForgeMultipart-universal-1.6.2-1.0.0.151.jar
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-10-02 14:37:21 [INFO] [ForgeModLoader] Searching C:\Users\Aaron\Desktop\server\mods for mods
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate mod directory 1.6.2
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate zip or jar file backpack-1.18.17-1.6.2.zip
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate mod directory New folder
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate mod directory New folder (2)
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate mod directory rei_minimap
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Ignoring unknown file Start.lnk in mods directory
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate mod directory VoxelMods
+2013-10-02 14:37:21 [INFO] [ForgeModLoader] Also searching C:\Users\Aaron\Desktop\server\mods\1.6.2 for mods
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate zip or jar file CodeChickenLib-universal-1.6.2-1.0.0.24.jar
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Found a candidate zip or jar file ForgeMultipart-universal-1.6.2-1.0.0.151.jar
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] Examining file mcpc-plus-1.6.2-R1.1-forge871-B82.jar for potential mods
+2013-10-02 14:37:21 [FINE] [ForgeModLoader] The mod container mcpc-plus-1.6.2-R1.1-forge871-B82.jar appears to be missing an mcmod.info file
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining directory 1.6.2 for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] No mcmod.info file found in directory 1.6.2
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining file backpack-1.18.17-1.6.2.zip for potential mods
+2013-10-02 14:37:22 [FINER] [ForgeModLoader] Located mcmod.info file in file backpack-1.18.17-1.6.2.zip
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Identified an FMLMod type mod backpack.Backpack
+2013-10-02 14:37:22 [FINEST] [Backpack] Parsed dependency info : [] [] []
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining directory New folder for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] No mcmod.info file found in directory New folder
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining directory New folder (2) for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] No mcmod.info file found in directory New folder (2)
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining directory rei_minimap for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] No mcmod.info file found in directory rei_minimap
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining directory VoxelMods for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] No mcmod.info file found in directory VoxelMods
+2013-10-02 14:37:22 [FINEST] [ForgeModLoader] Recursing into package voxelMap
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.2-1.0.0.24.jar for potential mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.2-1.0.0.24.jar appears to be missing an mcmod.info file
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Examining file ForgeMultipart-universal-1.6.2-1.0.0.151.jar for potential mods
+2013-10-02 14:37:22 [FINER] [ForgeModLoader] Located mcmod.info file in file ForgeMultipart-universal-1.6.2-1.0.0.151.jar
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.microblock.handler.MicroblockMod
+2013-10-02 14:37:22 [FINEST] [ForgeMicroblock] Parsed dependency info : [ForgeMultipart] [ForgeMultipart, *] []
+2013-10-02 14:37:22 [FINE] [ForgeMicroblock] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.2-1.0.0.151.jar to locate a version number for ForgeMicroblock
+2013-10-02 14:37:22 [WARNING] [ForgeMicroblock] Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.151
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.handler.MultipartMod
+2013-10-02 14:37:22 [FINEST] [ForgeMultipart] Parsed dependency info : [] [] []
+2013-10-02 14:37:22 [FINE] [ForgeMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.2-1.0.0.151.jar to locate a version number for ForgeMultipart
+2013-10-02 14:37:22 [WARNING] [ForgeMultipart] Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.151
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Identified an FMLMod type mod codechicken.multipart.minecraft.MinecraftMultipartMod
+2013-10-02 14:37:22 [FINEST] [McMultipart] Parsed dependency info : [] [] []
+2013-10-02 14:37:22 [FINE] [McMultipart] Attempting to load the file version.properties from ForgeMultipart-universal-1.6.2-1.0.0.151.jar to locate a version number for McMultipart
+2013-10-02 14:37:22 [WARNING] [McMultipart] Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.0.151
+2013-10-02 14:37:22 [INFO] [ForgeModLoader] Forge Mod Loader has identified 7 mods to load
+2013-10-02 14:37:22 [FINER] [ForgeModLoader] Received a system property request ''
+2013-10-02 14:37:22 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Reloading logging properties from C:\Users\Aaron\Desktop\server\config\logging.properties
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-10-02 14:37:22 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-10-02 14:37:22 [INFO] [mcp] Activating mod mcp
+2013-10-02 14:37:22 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-10-02 14:37:22 [INFO] [FML] Activating mod FML
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.2-R1.1-forge871-B82.jar at assets/forge/lang/en_US.lang into language system
+2013-10-02 14:37:22 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.2-R1.1-forge871-B82.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-10-02 14:37:23 [INFO] [Forge] Activating mod Forge
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.2-R1.1-forge871-B82.jar at assets/forge/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.2-R1.1-forge871-B82.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINE] [Backpack] Enabling mod Backpack
+2013-10-02 14:37:23 [FINE] [Backpack] Mod Logging channel Backpack configured at default level.
+2013-10-02 14:37:23 [INFO] [Backpack] Activating mod Backpack
+2013-10-02 14:37:23 [FINE] [ForgeMicroblock] Enabling mod ForgeMicroblock
+2013-10-02 14:37:23 [FINE] [ForgeMicroblock] Mod Logging channel ForgeMicroblock configured at default level.
+2013-10-02 14:37:23 [INFO] [ForgeMicroblock] Activating mod ForgeMicroblock
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.2-1.0.0.151.jar at assets/microblock/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINE] [ForgeMultipart] Enabling mod ForgeMultipart
+2013-10-02 14:37:23 [FINE] [ForgeMultipart] Mod Logging channel ForgeMultipart configured at default level.
+2013-10-02 14:37:23 [INFO] [ForgeMultipart] Activating mod ForgeMultipart
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.2-1.0.0.151.jar at assets/microblock/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINE] [McMultipart] Enabling mod McMultipart
+2013-10-02 14:37:23 [FINE] [McMultipart] Mod Logging channel McMultipart configured at default level.
+2013-10-02 14:37:23 [INFO] [McMultipart] Activating mod McMultipart
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Injecting found translation data in zip file ForgeMultipart-universal-1.6.2-1.0.0.151.jar at assets/microblock/lang/en_US.lang into language system
+2013-10-02 14:37:23 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-10-02 14:37:23 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-10-02 14:37:23 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-10-02 14:37:23 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Mod sorting data
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] 	Backpack(Backpack:1.18.17): backpack-1.18.17-1.6.2.zip ()
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] 	ForgeMultipart(Forge Multipart:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar ()
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] 	McMultipart(Minecraft Multipart Plugin:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar ()
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] 	ForgeMicroblock(Forge Microblocks:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar (required-after:ForgeMultipart;after:*)
+2013-10-02 14:37:23 [INFO] [ForgeModLoader] FML has found a non-mod file CodeChickenLib-universal-1.6.2-1.0.0.24.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-02 14:37:23 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-10-02 14:37:23 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-10-02 14:37:23 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-10-02 14:37:23 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-10-02 14:37:23 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-10-02 14:37:23 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-10-02 14:37:23 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-10-02 14:37:23 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.10.1.871)
+2013-10-02 14:37:23 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-10-02 14:37:23 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-10-02 14:37:23 [FINEST] [Backpack] Sending event FMLConstructionEvent to mod Backpack
+2013-10-02 14:37:23 [FINEST] [ForgeModLoader] Testing mod Backpack to verify it accepts its own version in a remote connection
+2013-10-02 14:37:23 [FINEST] [ForgeModLoader] The mod Backpack accepts its own version (1.18.17)
+2013-10-02 14:37:23 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Backpack
+2013-10-02 14:37:24 [FINEST] [Backpack] Sent event FMLConstructionEvent to mod Backpack
+2013-10-02 14:37:24 [FINEST] [ForgeMultipart] Sending event FMLConstructionEvent to mod ForgeMultipart
+2013-10-02 14:37:24 [FINEST] [ForgeModLoader] Testing mod ForgeMultipart to verify it accepts its own version in a remote connection
+2013-10-02 14:37:24 [FINEST] [ForgeModLoader] The mod ForgeMultipart accepts its own version (1.0.0.151)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ForgeMultipart
+2013-10-02 14:37:24 [FINEST] [ForgeMultipart] Sent event FMLConstructionEvent to mod ForgeMultipart
+2013-10-02 14:37:24 [FINEST] [McMultipart] Sending event FMLConstructionEvent to mod McMultipart
+2013-10-02 14:37:24 [FINEST] [ForgeModLoader] Testing mod McMultipart to verify it accepts its own version in a remote connection
+2013-10-02 14:37:24 [FINEST] [ForgeModLoader] The mod McMultipart accepts its own version (1.0.0.151)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into McMultipart
+2013-10-02 14:37:24 [FINEST] [McMultipart] Sent event FMLConstructionEvent to mod McMultipart
+2013-10-02 14:37:24 [FINEST] [ForgeMicroblock] Sending event FMLConstructionEvent to mod ForgeMicroblock
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ForgeMicroblock
+2013-10-02 14:37:24 [FINEST] [ForgeMicroblock] Sent event FMLConstructionEvent to mod ForgeMicroblock
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] Mod signature data
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.04): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.2.62.871): mcpc-plus-1.6.2-R1.1-forge871-B82.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.10.1.871): mcpc-plus-1.6.2-R1.1-forge871-B82.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	Backpack(Backpack:1.18.17): backpack-1.18.17-1.6.2.zip (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	ForgeMultipart(Forge Multipart:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	McMultipart(Minecraft Multipart Plugin:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINE] [ForgeModLoader] 	ForgeMicroblock(Forge Microblocks:1.0.0.151): ForgeMultipart-universal-1.6.2-1.0.0.151.jar (NO VALID CERTIFICATE FOUND)
+2013-10-02 14:37:24 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-10-02 14:37:24 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-10-02 14:37:24 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-10-02 14:37:24 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-10-02 14:37:24 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-10-02 14:37:24 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-10-02 14:37:24 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-10-02 14:37:24 [FINEST] [Backpack] Sending event FMLPreInitializationEvent to mod Backpack
+2013-10-02 14:37:24 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemBackpack(18586) owned by Backpack
+2013-10-02 14:37:24 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemWorkbenchBackpack(18589) owned by Backpack
+2013-10-02 14:37:24 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemLeather(18587) owned by Backpack
+2013-10-02 14:37:24 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemLeather(18588) owned by Backpack
+2013-10-02 14:37:24 [FINEST] [Backpack] Sent event FMLPreInitializationEvent to mod Backpack
+2013-10-02 14:37:24 [FINEST] [ForgeMultipart] Sending event FMLPreInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:27 [FINEST] [ForgeMultipart] Sent event FMLPreInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:27 [FINEST] [McMultipart] Sending event FMLPreInitializationEvent to mod McMultipart
+2013-10-02 14:37:27 [FINEST] [McMultipart] Sent event FMLPreInitializationEvent to mod McMultipart
+2013-10-02 14:37:27 [FINEST] [ForgeMicroblock] Sending event FMLPreInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:27 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemMicroPart(25131) owned by ForgeMicroblock
+2013-10-02 14:37:28 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25132) owned by ForgeMicroblock
+2013-10-02 14:37:28 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25133) owned by ForgeMicroblock
+2013-10-02 14:37:28 [FINE] [fml.ItemTracker] Adding item codechicken.microblock.ItemSaw(25134) owned by ForgeMicroblock
+2013-10-02 14:37:28 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(25135) owned by ForgeMicroblock
+2013-10-02 14:37:29 [FINEST] [ForgeMicroblock] Sent event FMLPreInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Backpack] Sending event FMLInitializationEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sent event FMLInitializationEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sending event FMLInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sent event FMLInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sending event FMLInitializationEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sent event FMLInitializationEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sending event FMLInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sent event FMLInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sending event IMCEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sent event IMCEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sending event IMCEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sent event IMCEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sending event IMCEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sent event IMCEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sending event IMCEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sent event IMCEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Backpack] Sending event FMLPostInitializationEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sent event FMLPostInitializationEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sending event FMLPostInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sent event FMLPostInitializationEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sending event FMLPostInitializationEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sent event FMLPostInitializationEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sending event FMLPostInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sent event FMLPostInitializationEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Backpack] Sending event FMLLoadCompleteEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sent event FMLLoadCompleteEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sending event FMLLoadCompleteEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sent event FMLLoadCompleteEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sending event FMLLoadCompleteEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sent event FMLLoadCompleteEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sending event FMLLoadCompleteEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sent event FMLLoadCompleteEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 7 mods
+2013-10-02 14:37:32 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-10-02 14:37:32 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-10-02 14:37:32 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-10-02 14:37:32 [FINEST] [Backpack] Sending event FMLServerAboutToStartEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [Backpack] Sent event FMLServerAboutToStartEvent to mod Backpack
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sending event FMLServerAboutToStartEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMultipart] Sent event FMLServerAboutToStartEvent to mod ForgeMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sending event FMLServerAboutToStartEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [McMultipart] Sent event FMLServerAboutToStartEvent to mod McMultipart
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sending event FMLServerAboutToStartEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINEST] [ForgeMicroblock] Sent event FMLServerAboutToStartEvent to mod ForgeMicroblock
+2013-10-02 14:37:32 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={18588=Item 18588, Type backpack.item.ItemLeather, owned by Backpack, ordinal 1, name null, claimedModId null, 18589=Item 18589, Type backpack.item.ItemWorkbenchBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18586=Item 18586, Type backpack.item.ItemBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18587=Item 18587, Type backpack.item.ItemLeather, owned by Backpack, ordinal 0, name null, claimedModId null, 25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 14:37:33 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={18588=Item 18588, Type backpack.item.ItemLeather, owned by Backpack, ordinal 1, name null, claimedModId null, 18589=Item 18589, Type backpack.item.ItemWorkbenchBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18586=Item 18586, Type backpack.item.ItemBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18587=Item 18587, Type backpack.item.ItemLeather, owned by Backpack, ordinal 0, name null, claimedModId null, 25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 14:37:33 [INFO] [ForgeModLoader] Loading dimension 0 (CTF) (net.minecraft.server.dedicated.DedicatedServer@73a281b4)
+2013-10-02 14:37:33 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={18588=Item 18588, Type backpack.item.ItemLeather, owned by Backpack, ordinal 1, name null, claimedModId null, 18589=Item 18589, Type backpack.item.ItemWorkbenchBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18586=Item 18586, Type backpack.item.ItemBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18587=Item 18587, Type backpack.item.ItemLeather, owned by Backpack, ordinal 0, name null, claimedModId null, 25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 14:37:33 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@73a281b4)
+2013-10-02 14:37:33 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={18588=Item 18588, Type backpack.item.ItemLeather, owned by Backpack, ordinal 1, name null, claimedModId null, 18589=Item 18589, Type backpack.item.ItemWorkbenchBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18586=Item 18586, Type backpack.item.ItemBackpack, owned by Backpack, ordinal 0, name null, claimedModId null, 18587=Item 18587, Type backpack.item.ItemLeather, owned by Backpack, ordinal 0, name null, claimedModId null, 25131=Item 25131, Type codechicken.microblock.ItemMicroPart, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25132=Item 25132, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null, 25133=Item 25133, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 1, name null, claimedModId null, 25134=Item 25134, Type codechicken.microblock.ItemSaw, owned by ForgeMicroblock, ordinal 2, name null, claimedModId null, 25135=Item 25135, Type net.minecraft.item.Item, owned by ForgeMicroblock, ordinal 0, name null, claimedModId null}
+2013-10-02 14:37:33 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@73a281b4)
+2013-10-02 14:37:37 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-10-02 14:37:37 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-10-02 14:37:37 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-10-02 14:37:37 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-10-02 14:37:37 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-10-02 14:37:37 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-10-02 14:37:37 [FINEST] [Backpack] Sending event FMLServerStartingEvent to mod Backpack
+2013-10-02 14:37:37 [FINEST] [Backpack] Sent event FMLServerStartingEvent to mod Backpack
+2013-10-02 14:37:37 [FINEST] [ForgeMultipart] Sending event FMLServerStartingEvent to mod ForgeMultipart
+2013-10-02 14:37:37 [FINEST] [ForgeMultipart] Sent event FMLServerStartingEvent to mod ForgeMultipart
+2013-10-02 14:37:37 [FINEST] [McMultipart] Sending event FMLServerStartingEvent to mod McMultipart
+2013-10-02 14:37:37 [FINEST] [McMultipart] Sent event FMLServerStartingEvent to mod McMultipart
+2013-10-02 14:37:37 [FINEST] [ForgeMicroblock] Sending event FMLServerStartingEvent to mod ForgeMicroblock
+2013-10-02 14:37:37 [FINEST] [ForgeMicroblock] Sent event FMLServerStartingEvent to mod ForgeMicroblock
+2013-10-02 14:37:37 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-10-02 14:37:37 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-10-02 14:37:37 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-10-02 14:37:37 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-10-02 14:37:37 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-10-02 14:37:37 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-10-02 14:37:37 [FINEST] [Backpack] Sending event FMLServerStartedEvent to mod Backpack
+2013-10-02 14:37:37 [FINEST] [Backpack] Sent event FMLServerStartedEvent to mod Backpack
+2013-10-02 14:37:37 [FINEST] [ForgeMultipart] Sending event FMLServerStartedEvent to mod ForgeMultipart
+2013-10-02 14:37:37 [FINEST] [ForgeMultipart] Sent event FMLServerStartedEvent to mod ForgeMultipart
+2013-10-02 14:37:37 [FINEST] [McMultipart] Sending event FMLServerStartedEvent to mod McMultipart
+2013-10-02 14:37:37 [FINEST] [McMultipart] Sent event FMLServerStartedEvent to mod McMultipart
+2013-10-02 14:37:37 [FINEST] [ForgeMicroblock] Sending event FMLServerStartedEvent to mod ForgeMicroblock
+2013-10-02 14:37:37 [FINEST] [ForgeMicroblock] Sent event FMLServerStartedEvent to mod ForgeMicroblock
+2013-10-02 14:37:49 [INFO] [ForgeModLoader] Unloading dimension 1

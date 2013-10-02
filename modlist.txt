@@ -1,0 +1,14 @@
+Main mods
+1. flans mod
+2. mekanism
+3. custom npc
+Secondary mods
+4. forge multipart
+5. mps
+6. backpacks
+7. iron chest
+8. project bench
+HUD Mods
+9. voxel map
+10. inv tweaks
+11. direction hud

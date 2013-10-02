@@ -96,6 +96,12 @@ mcpc:
     McMultipart: INFO
     com-google-common-eventbus-EventBus-CCMultipart: INFO
     CodeChickenCore: INFO
+    Backpack: INFO
+    CustomNpcs: INFO
+    FlansMod: INFO
+    Mekanism: INFO
+    MekanismGenerators: INFO
+    MekanismTools: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
@@ -123,6 +129,7 @@ world-settings:
     keeploaded-environment-normal: true
     keeploaded-environment-nether: true
     keeploaded-environment-the_end: false
+    worldgen-Mekanism-OreHandler: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:

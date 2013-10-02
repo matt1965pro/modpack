@@ -565,3 +565,508 @@ Caused by: java.lang.NullPointerException
 2013-10-02 21:02:51 [INFO] Closing listening thread
 2013-10-02 21:02:51 [INFO] Saving chunks for level 'world'/Overworld
 2013-10-02 21:02:51 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 21:11:02 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:11:02 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:11:02 [INFO] MinecraftForge v
+2013-10-02 21:11:02 [INFO] 7.8.1.738
+2013-10-02 21:11:02 [INFO]  Initialized
+
+2013-10-02 21:11:02 [INFO] Replaced 85 ore recipies
+2013-10-02 21:11:07 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 21:11:07 [INFO] Flan's Mod : Flan folder not found. Creating empty folder.
+2013-10-02 21:11:07 [INFO] Flan's Mod : You should get some content packs and put them in the Flan folder.
+2013-10-02 21:11:07 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stone
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.wood
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.log
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.glass
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.brick
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.ice
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.snow
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.clay
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.grass
+2013-10-02 21:11:10 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:11:11 [INFO] Loading properties
+2013-10-02 21:11:11 [INFO] Default game type: SURVIVAL
+2013-10-02 21:11:11 [INFO] Generating keypair
+2013-10-02 21:11:11 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:11:12 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:11:12 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:11:12 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:11:12 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 21:11:13 [INFO] Flan's Mod : Loading complete.
+2013-10-02 21:11:13 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 21:11:13 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 21:11:13 [INFO] [Mekanism] Loading complete.
+2013-10-02 21:11:13 [INFO] [Mekanism] Mod loaded.
+2013-10-02 21:11:13 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 21:11:13 [INFO] [MekanismTools] Loaded module.
+2013-10-02 21:11:13 [INFO] [Flan] Hooking complete.
+2013-10-02 21:11:14 [INFO] [Mekanism] Hooking complete.
+2013-10-02 21:11:14 [INFO] Preparing level "world"
+2013-10-02 21:11:14 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:11:14 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:11:15 [INFO] Flan's Mod : Failed to load from teams.dat
+2013-10-02 21:11:15 [SEVERE] java.io.EOFException
+2013-10-02 21:11:15 [SEVERE] 	at java.io.DataInputStream.readByte(Unknown Source)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.nbt.NBTBase.func_74739_b(SourceFile:88)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:126)
+2013-10-02 21:11:15 [SEVERE] 	at co.uk.flansmods.common.teams.TeamsManager.loadPerWorldData(TeamsManager.java:392)
+2013-10-02 21:11:15 [SEVERE] 	at co.uk.flansmods.common.teams.TeamsManager.worldData(TeamsManager.java:373)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler_14_TeamsManager_worldData_WorldEvent.invoke(.dynamic)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:39)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraftforge.event.EventBus.post(EventBus.java:111)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:382)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:214)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:588)
+2013-10-02 21:11:15 [SEVERE] 	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2013-10-02 21:11:15 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:11:16 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:11:16 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:11:16 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 21:11:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:11:16 [INFO] Done (2.367s)! For help, type "help" or "?"
+2013-10-02 21:11:16 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 21:11:16 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 21:11:29 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 21:11:30 [INFO] Stopping server
+2013-10-02 21:11:30 [INFO] Saving players
+2013-10-02 21:11:30 [INFO] Saving worlds
+2013-10-02 21:11:30 [WARNING] DSCT: socket closed
+2013-10-02 21:11:30 [INFO] Closing listening thread
+2013-10-02 21:11:30 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 21:11:30 [INFO] Saving chunks for level 'DIM1'/The End
+2013-10-02 21:11:30 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 21:11:39 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:11:39 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:11:39 [INFO] MinecraftForge v
+2013-10-02 21:11:39 [INFO] 7.8.1.738
+2013-10-02 21:11:39 [INFO]  Initialized
+
+2013-10-02 21:11:40 [INFO] Replaced 85 ore recipies
+2013-10-02 21:11:44 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 21:11:44 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stone
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.wood
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.log
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.glass
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.brick
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.ice
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.snow
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.clay
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.grass
+2013-10-02 21:11:47 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:11:48 [INFO] Loading properties
+2013-10-02 21:11:48 [INFO] Default game type: SURVIVAL
+2013-10-02 21:11:48 [INFO] Generating keypair
+2013-10-02 21:11:48 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:11:49 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:11:49 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:11:49 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 21:11:50 [INFO] Flan's Mod : Loading complete.
+2013-10-02 21:11:50 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 21:11:50 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 21:11:51 [INFO] [Mekanism] Loading complete.
+2013-10-02 21:11:51 [INFO] [Mekanism] Mod loaded.
+2013-10-02 21:11:51 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 21:11:51 [INFO] [MekanismTools] Loaded module.
+2013-10-02 21:11:51 [INFO] [Flan] Hooking complete.
+2013-10-02 21:11:51 [INFO] [Mekanism] Hooking complete.
+2013-10-02 21:11:52 [INFO] Preparing level "world"
+2013-10-02 21:11:52 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:11:52 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:11:52 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:11:53 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:11:53 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:11:53 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:11:53 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 21:11:53 [INFO] Done (1.799s)! For help, type "help" or "?"
+2013-10-02 21:11:53 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 21:11:53 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 21:11:58 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 21:11:58 [INFO] Stopping server
+2013-10-02 21:11:58 [INFO] Saving players
+2013-10-02 21:11:58 [INFO] Saving worlds
+2013-10-02 21:11:58 [WARNING] DSCT: socket closed
+2013-10-02 21:11:58 [INFO] Closing listening thread
+2013-10-02 21:11:58 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 21:11:58 [INFO] Saving chunks for level 'DIM1'/The End
+2013-10-02 21:11:58 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 21:15:53 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:15:53 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:15:53 [INFO] MinecraftForge v
+2013-10-02 21:15:53 [INFO] 7.8.1.738
+2013-10-02 21:15:53 [INFO]  Initialized
+
+2013-10-02 21:15:53 [INFO] Replaced 85 ore recipies
+2013-10-02 21:15:58 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 21:15:59 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stone
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.wood
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.log
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.glass
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.brick
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.ice
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.snow
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.clay
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.grass
+2013-10-02 21:16:02 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:16:02 [INFO] Loading properties
+2013-10-02 21:16:02 [INFO] Default game type: SURVIVAL
+2013-10-02 21:16:02 [INFO] Generating keypair
+2013-10-02 21:16:03 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:16:04 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:16:04 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:16:04 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 21:16:05 [INFO] Flan's Mod : Loading complete.
+2013-10-02 21:16:05 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 21:16:05 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 21:16:06 [INFO] [Mekanism] Loading complete.
+2013-10-02 21:16:06 [INFO] [Mekanism] Mod loaded.
+2013-10-02 21:16:06 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 21:16:06 [INFO] [MekanismTools] Loaded module.
+2013-10-02 21:16:06 [INFO] [Flan] Hooking complete.
+2013-10-02 21:16:06 [INFO] [Mekanism] Hooking complete.
+2013-10-02 21:16:07 [INFO] Preparing level "world"
+2013-10-02 21:16:07 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:16:07 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:16:08 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:16:08 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:16:08 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:16:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:16:08 [INFO] Done (1.921s)! For help, type "help" or "?"
+2013-10-02 21:16:08 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 21:16:08 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 21:16:09 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 21:16:13 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 21:16:13 [INFO] Stopping server
+2013-10-02 21:16:13 [INFO] Saving players
+2013-10-02 21:16:13 [INFO] Saving worlds
+2013-10-02 21:16:13 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 21:16:13 [WARNING] DSCT: socket closed
+2013-10-02 21:16:13 [INFO] Closing listening thread
+2013-10-02 21:16:13 [INFO] Saving chunks for level 'DIM1'/The End
+2013-10-02 21:16:13 [INFO] Saving chunks for level 'DIM-1'/Nether
+2013-10-02 21:16:13 [INFO] Stopping server
+2013-10-02 21:16:13 [INFO] Saving players
+2013-10-02 21:16:23 [INFO] Starting minecraft server version 1.5.2
+2013-10-02 21:16:23 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-02 21:16:23 [INFO] MinecraftForge v
+2013-10-02 21:16:23 [INFO] 7.8.1.738
+2013-10-02 21:16:23 [INFO]  Initialized
+
+2013-10-02 21:16:23 [INFO] Replaced 85 ore recipies
+2013-10-02 21:16:27 [INFO] Flan's Mod : Preinitializing Flan's mod.
+2013-10-02 21:16:28 [INFO] Flan's Mod : Preinitializing complete.
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stone
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.dirt
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stonebrick
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.wood
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.wood_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.wood_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.wood_3
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.log
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.log_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.log_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.log_3
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.leaves
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.leaves_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.leaves_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.leaves_3
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.sponge
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.glass
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockLapis
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.sandStone
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.sandStone_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.sandStone_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_3
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_4
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_5
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_6
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_7
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_8
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_9
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_10
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_11
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_12
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_13
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_14
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.cloth_15
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockGold
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockIron
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.brick
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.bookshelf
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stoneMoss
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.obsidian
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockDiamond
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.ice
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.snow
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.clay
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.hellrock
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.hellsand
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.lightgem
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stonebricksmooth
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stonebricksmooth_1
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stonebricksmooth_2
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.stonebricksmooth_3
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.netherBrick
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.whiteStone
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockEmerald
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.blockRedstone
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.quartzBlock
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.grass
+2013-10-02 21:16:30 [INFO] Registered micro material: tile.mycel
+2013-10-02 21:16:30 [INFO] Loading properties
+2013-10-02 21:16:30 [INFO] Default game type: SURVIVAL
+2013-10-02 21:16:30 [INFO] Generating keypair
+2013-10-02 21:16:31 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:16:31 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-644 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2013-10-02 21:16:31 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2013-10-02 21:16:32 [INFO] ProjectBench: Registered block id @ 700. Rendering: true @: 5
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loading Flan's mod.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Not client. Graphic loading skipped.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded textures and models.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded bullets.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded guns.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded parts.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded planes.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded vehicles.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded AA guns.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded gun boxes.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded armour.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded player classes.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded teams.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loaded recipes.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Not client. ContentPack graphic loading skipped.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Not client. Key Bindings skipped.
+2013-10-02 21:16:32 [INFO] Flan's Mod : Loading complete.
+2013-10-02 21:16:32 [INFO] [Mekanism] Version 5.5.6 initializing...
+2013-10-02 21:16:33 [INFO] [Mekanism] Successfully loaded gas transmission NetworkLoader.
+2013-10-02 21:16:33 [INFO] [Mekanism] Loading complete.
+2013-10-02 21:16:33 [INFO] [Mekanism] Mod loaded.
+2013-10-02 21:16:33 [INFO] [MekanismGenerators] Loaded module.
+2013-10-02 21:16:33 [INFO] [MekanismTools] Loaded module.
+2013-10-02 21:16:33 [INFO] [Flan] Hooking complete.
+2013-10-02 21:16:33 [INFO] [Mekanism] Hooking complete.
+2013-10-02 21:16:34 [INFO] Preparing level "world"
+2013-10-02 21:16:34 [INFO] Registered command debug with permission node vanilla.command.debug
+2013-10-02 21:16:34 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2013-10-02 21:16:35 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 2260849285945506351)
+2013-10-02 21:16:35 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 7832212005506960850)
+2013-10-02 21:16:35 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 2260849285945506351)
+2013-10-02 21:16:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-02 21:16:35 [INFO] Done (1.913s)! For help, type "help" or "?"
+2013-10-02 21:16:35 [INFO] Registered command mk with permission node mekanism.common.CommandMekanism
+2013-10-02 21:16:35 [INFO] Registered command teams with permission node co.uk.flansmods.common.teams.CommandTeams
+2013-10-02 21:16:36 [INFO] [Mekanism] Successfully retrieved data from server.
+2013-10-02 21:17:11 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 21:17:11 [INFO] Stopping server
+2013-10-02 21:17:11 [INFO] Saving players
+2013-10-02 21:17:11 [WARNING] DSCT: socket closed
+2013-10-02 21:17:11 [INFO] Closing listening thread
+2013-10-02 21:17:11 [INFO] Saving worlds
+2013-10-02 21:17:11 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 21:17:11 [INFO] Saving chunks for level 'DIM-1'/Nether
